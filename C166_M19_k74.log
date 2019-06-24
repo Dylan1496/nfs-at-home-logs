@@ -1,0 +1,1408 @@
+Wed Nov 07 11:00:14 2018  
+Wed Nov 07 11:00:14 2018  
+Wed Nov 07 11:00:14 2018  Msieve v. 1.53 (SVN 1005)
+Wed Nov 07 11:00:14 2018  random seeds: 64517510 4735029d
+Wed Nov 07 11:00:14 2018  factoring 427263969208137999331968304286330856723766244470504981171770980197876930829340332580839035736465808219684588225857824749721764667425402707684035428593 (150 digits)
+Wed Nov 07 11:00:14 2018  searching for 15-digit factors
+Wed Nov 07 11:00:14 2018  commencing number field sieve (150-digit input)
+Wed Nov 07 11:00:14 2018  commencing number field sieve polynomial selection
+Wed Nov 07 11:00:14 2018  polynomial degree: 5
+Wed Nov 07 11:00:14 2018  max stage 1 norm: 9.20e+022
+Wed Nov 07 11:00:14 2018  max stage 2 norm: 1.30e+021
+Wed Nov 07 11:00:14 2018  min E-value: 4.57e-012
+Wed Nov 07 11:00:14 2018  poly select deadline: 692522
+Wed Nov 07 11:00:14 2018  time limit set to 192.37 CPU-hours
+Wed Nov 07 11:00:14 2018  expecting poly E from 4.65e-012 to > 5.35e-012
+Wed Nov 07 11:00:14 2018  searching leading coefficients from 1 to 10102144
+Wed Nov 07 11:00:16 2018  polynomial selection complete
+Wed Nov 07 11:00:16 2018  elapsed time 00:00:02
+Sun Jun 23 08:27:46 2019  
+Sun Jun 23 08:27:46 2019  
+Sun Jun 23 08:27:46 2019  Msieve v. 1.53 (SVN 1005)
+Sun Jun 23 08:27:46 2019  random seeds: 084c39d8 279520d2
+Sun Jun 23 08:27:46 2019  factoring 3042637613896279111978107370543992674135556227495832479732209493025256363660533611965555169122769573164127270940369205314343662710753465255432804540143299365352310631 (166 digits)
+Sun Jun 23 08:27:46 2019  searching for 15-digit factors
+Sun Jun 23 08:27:46 2019  commencing number field sieve (166-digit input)
+Sun Jun 23 08:27:46 2019  R0: -20768949750785132794698281184657409
+Sun Jun 23 08:27:46 2019  R1: 1
+Sun Jun 23 08:27:46 2019  A0: 1
+Sun Jun 23 08:27:46 2019  A1: 0
+Sun Jun 23 08:27:46 2019  A2: 0
+Sun Jun 23 08:27:46 2019  A3: 0
+Sun Jun 23 08:27:46 2019  A4: 0
+Sun Jun 23 08:27:46 2019  A5: 0
+Sun Jun 23 08:27:46 2019  A6: 524287
+Sun Jun 23 08:27:46 2019  skew 0.15, size 4.876e-011, alpha 1.228, combined = 2.040e-012 rroots = 0
+Sun Jun 23 08:27:46 2019  
+Sun Jun 23 08:27:46 2019  commencing relation filtering
+Sun Jun 23 08:27:46 2019  setting target matrix density to 130.0
+Sun Jun 23 08:27:46 2019  estimated available RAM is 16116.3 MB
+Sun Jun 23 08:27:46 2019  commencing duplicate removal, pass 1
+Sun Jun 23 08:28:06 2019  error -9 reading relation 3237468
+Sun Jun 23 08:28:06 2019  error -5 reading relation 3237588
+Sun Jun 23 08:28:06 2019  error -15 reading relation 3243202
+Sun Jun 23 08:28:11 2019  error -15 reading relation 3990111
+Sun Jun 23 08:28:12 2019  error -1 reading relation 4102659
+Sun Jun 23 08:28:22 2019  error -9 reading relation 5673560
+Sun Jun 23 08:28:29 2019  error -15 reading relation 6862920
+Sun Jun 23 08:28:33 2019  error -1 reading relation 7555131
+Sun Jun 23 08:28:39 2019  error -5 reading relation 8533692
+Sun Jun 23 08:28:43 2019  error -1 reading relation 9158321
+Sun Jun 23 08:28:44 2019  error -5 reading relation 9296730
+Sun Jun 23 08:28:50 2019  error -9 reading relation 10259174
+Sun Jun 23 08:28:51 2019  error -9 reading relation 10418833
+Sun Jun 23 08:28:51 2019  error -9 reading relation 10424294
+Sun Jun 23 08:28:54 2019  error -9 reading relation 10987534
+Sun Jun 23 08:29:08 2019  error -9 reading relation 13133698
+Sun Jun 23 08:29:08 2019  error -9 reading relation 13139447
+Sun Jun 23 08:29:11 2019  error -9 reading relation 13612275
+Sun Jun 23 08:29:13 2019  error -15 reading relation 13974228
+Sun Jun 23 08:29:22 2019  error -9 reading relation 15486867
+Sun Jun 23 08:29:24 2019  error -9 reading relation 15835575
+Sun Jun 23 08:29:25 2019  error -15 reading relation 16007815
+Sun Jun 23 08:29:32 2019  error -15 reading relation 17029979
+Sun Jun 23 08:29:37 2019  error -9 reading relation 17812374
+Sun Jun 23 08:29:42 2019  error -5 reading relation 18673698
+Sun Jun 23 08:29:46 2019  error -9 reading relation 19262403
+Sun Jun 23 08:29:46 2019  error -1 reading relation 19262648
+Sun Jun 23 08:29:53 2019  error -9 reading relation 20469752
+Sun Jun 23 08:30:05 2019  error -15 reading relation 22358690
+Sun Jun 23 08:30:10 2019  error -1 reading relation 23123946
+Sun Jun 23 08:30:18 2019  error -9 reading relation 24379619
+Sun Jun 23 08:30:18 2019  error -9 reading relation 24446616
+Sun Jun 23 08:30:20 2019  error -15 reading relation 24679234
+Sun Jun 23 08:30:22 2019  error -15 reading relation 25007575
+Sun Jun 23 08:30:24 2019  error -9 reading relation 25315841
+Sun Jun 23 08:30:25 2019  error -9 reading relation 25456475
+Sun Jun 23 08:30:25 2019  error -15 reading relation 25474606
+Sun Jun 23 08:30:26 2019  error -15 reading relation 25630954
+Sun Jun 23 08:30:27 2019  error -15 reading relation 25781461
+Sun Jun 23 08:30:28 2019  error -9 reading relation 25929850
+Sun Jun 23 08:30:30 2019  error -15 reading relation 26210546
+Sun Jun 23 08:30:30 2019  error -9 reading relation 26288042
+Sun Jun 23 08:30:30 2019  error -1 reading relation 26344637
+Sun Jun 23 08:30:31 2019  error -9 reading relation 26416763
+Sun Jun 23 08:30:31 2019  error -15 reading relation 26452170
+Sun Jun 23 08:30:32 2019  error -15 reading relation 26565899
+Sun Jun 23 08:30:33 2019  error -1 reading relation 26824928
+Sun Jun 23 08:30:36 2019  error -5 reading relation 27214146
+Sun Jun 23 08:30:38 2019  error -9 reading relation 27484689
+Sun Jun 23 08:30:40 2019  error -5 reading relation 27906142
+Sun Jun 23 08:30:40 2019  error -9 reading relation 27912322
+Sun Jun 23 08:30:43 2019  error -9 reading relation 28324607
+Sun Jun 23 08:30:46 2019  error -9 reading relation 28747746
+Sun Jun 23 08:30:46 2019  error -1 reading relation 28799192
+Sun Jun 23 08:30:47 2019  error -5 reading relation 28910823
+Sun Jun 23 08:30:47 2019  error -15 reading relation 28982508
+Sun Jun 23 08:30:48 2019  error -9 reading relation 29024240
+Sun Jun 23 08:30:49 2019  error -9 reading relation 29213027
+Sun Jun 23 08:30:49 2019  error -9 reading relation 29292374
+Sun Jun 23 08:30:51 2019  error -9 reading relation 29514256
+Sun Jun 23 08:30:51 2019  error -15 reading relation 29608426
+Sun Jun 23 08:30:52 2019  error -9 reading relation 29620885
+Sun Jun 23 08:30:52 2019  error -9 reading relation 29755687
+Sun Jun 23 08:30:55 2019  error -15 reading relation 30139622
+Sun Jun 23 08:30:55 2019  error -9 reading relation 30200207
+Sun Jun 23 08:30:56 2019  error -15 reading relation 30372515
+Sun Jun 23 08:30:57 2019  error -5 reading relation 30422970
+Sun Jun 23 08:30:57 2019  error -15 reading relation 30530641
+Sun Jun 23 08:30:58 2019  error -9 reading relation 30564470
+Sun Jun 23 08:30:59 2019  error -9 reading relation 30713012
+Sun Jun 23 08:30:59 2019  error -9 reading relation 30749484
+Sun Jun 23 08:31:00 2019  error -9 reading relation 30955664
+Sun Jun 23 08:31:01 2019  error -9 reading relation 31083140
+Sun Jun 23 08:31:01 2019  error -1 reading relation 31087762
+Sun Jun 23 08:31:01 2019  error -15 reading relation 31137320
+Sun Jun 23 08:31:02 2019  error -15 reading relation 31228588
+Sun Jun 23 08:31:03 2019  error -15 reading relation 31451781
+Sun Jun 23 08:31:03 2019  error -9 reading relation 31458552
+Sun Jun 23 08:31:04 2019  error -1 reading relation 31610372
+Sun Jun 23 08:31:05 2019  error -5 reading relation 31629886
+Sun Jun 23 08:31:05 2019  error -15 reading relation 31765563
+Sun Jun 23 08:31:07 2019  error -1 reading relation 32029282
+Sun Jun 23 08:31:10 2019  error -15 reading relation 32477395
+Sun Jun 23 08:31:12 2019  error -9 reading relation 32786430
+Sun Jun 23 08:31:14 2019  error -9 reading relation 33099539
+Sun Jun 23 08:31:16 2019  error -15 reading relation 33408245
+Sun Jun 23 08:31:16 2019  error -5 reading relation 33435050
+Sun Jun 23 08:31:17 2019  error -15 reading relation 33540292
+Sun Jun 23 08:31:18 2019  error -15 reading relation 33667099
+Sun Jun 23 08:31:18 2019  error -9 reading relation 33740828
+Sun Jun 23 08:31:18 2019  error -15 reading relation 33741541
+Sun Jun 23 08:31:18 2019  error -15 reading relation 33743330
+Sun Jun 23 08:31:18 2019  error -9 reading relation 33747332
+Sun Jun 23 08:31:18 2019  error -9 reading relation 33778413
+Sun Jun 23 08:31:21 2019  error -1 reading relation 34104766
+Sun Jun 23 08:31:22 2019  error -15 reading relation 34357763
+Sun Jun 23 08:31:22 2019  error -5 reading relation 34363517
+Sun Jun 23 08:31:25 2019  error -9 reading relation 34734199
+Sun Jun 23 08:31:25 2019  error -1 reading relation 34762353
+Sun Jun 23 08:31:27 2019  error -15 reading relation 35045421
+Sun Jun 23 08:31:27 2019  error -15 reading relation 35168836
+Sun Jun 23 08:31:27 2019  error -1 reading relation 35170385
+Sun Jun 23 08:31:33 2019  error -9 reading relation 35995341
+Sun Jun 23 08:31:35 2019  error -15 reading relation 36298348
+Sun Jun 23 08:31:36 2019  error -9 reading relation 36444277
+Sun Jun 23 08:31:36 2019  error -9 reading relation 36472992
+Sun Jun 23 08:31:37 2019  error -15 reading relation 36591544
+Sun Jun 23 08:31:38 2019  error -9 reading relation 36853605
+Sun Jun 23 08:31:38 2019  error -1 reading relation 36855112
+Sun Jun 23 08:31:41 2019  error -9 reading relation 37285927
+Sun Jun 23 08:31:43 2019  error -9 reading relation 37514356
+Sun Jun 23 08:31:44 2019  error -9 reading relation 37726284
+Sun Jun 23 08:31:44 2019  error -15 reading relation 37788630
+Sun Jun 23 08:31:46 2019  error -15 reading relation 37999685
+Sun Jun 23 08:31:48 2019  error -15 reading relation 38292461
+Sun Jun 23 08:31:50 2019  error -15 reading relation 38694939
+Sun Jun 23 08:31:52 2019  error -9 reading relation 38952107
+Sun Jun 23 08:31:53 2019  error -9 reading relation 39203479
+Sun Jun 23 08:31:54 2019  error -9 reading relation 39308080
+Sun Jun 23 08:31:54 2019  error -1 reading relation 39313201
+Sun Jun 23 08:31:54 2019  error -15 reading relation 39354029
+Sun Jun 23 08:31:55 2019  error -15 reading relation 39390793
+Sun Jun 23 08:31:59 2019  error -1 reading relation 40014571
+Sun Jun 23 08:31:59 2019  error -9 reading relation 40081551
+Sun Jun 23 08:32:00 2019  error -9 reading relation 40223083
+Sun Jun 23 08:32:00 2019  error -1 reading relation 40257871
+Sun Jun 23 08:32:00 2019  error -1 reading relation 40265575
+Sun Jun 23 08:32:00 2019  error -9 reading relation 40269642
+Sun Jun 23 08:32:00 2019  error -1 reading relation 40275083
+Sun Jun 23 08:32:00 2019  error -15 reading relation 40283235
+Sun Jun 23 08:32:03 2019  error -15 reading relation 40764902
+Sun Jun 23 08:32:05 2019  error -5 reading relation 41035023
+Sun Jun 23 08:32:11 2019  error -15 reading relation 41973020
+Sun Jun 23 08:32:13 2019  error -15 reading relation 42169375
+Sun Jun 23 08:32:14 2019  error -15 reading relation 42433388
+Sun Jun 23 08:32:15 2019  error -15 reading relation 42471259
+Sun Jun 23 08:32:16 2019  error -15 reading relation 42750025
+Sun Jun 23 08:32:16 2019  error -1 reading relation 42757971
+Sun Jun 23 08:32:17 2019  error -9 reading relation 42920149
+Sun Jun 23 08:32:19 2019  error -9 reading relation 43151324
+Sun Jun 23 08:32:20 2019  error -15 reading relation 43313793
+Sun Jun 23 08:32:26 2019  error -9 reading relation 44241465
+Sun Jun 23 08:32:27 2019  error -15 reading relation 44340609
+Sun Jun 23 08:32:27 2019  error -15 reading relation 44340766
+Sun Jun 23 08:32:27 2019  error -1 reading relation 44436086
+Sun Jun 23 08:32:28 2019  error -9 reading relation 44589531
+Sun Jun 23 08:32:30 2019  error -5 reading relation 44903851
+Sun Jun 23 08:32:36 2019  error -9 reading relation 45870872
+Sun Jun 23 08:32:37 2019  error -9 reading relation 45982020
+Sun Jun 23 08:32:44 2019  error -9 reading relation 47074933
+Sun Jun 23 08:32:46 2019  error -15 reading relation 47297273
+Sun Jun 23 08:32:47 2019  error -9 reading relation 47469017
+Sun Jun 23 08:32:47 2019  error -15 reading relation 47488697
+Sun Jun 23 08:32:47 2019  error -9 reading relation 47503557
+Sun Jun 23 08:32:47 2019  error -9 reading relation 47504976
+Sun Jun 23 08:32:47 2019  error -9 reading relation 47590818
+Sun Jun 23 08:32:48 2019  error -9 reading relation 47706803
+Sun Jun 23 08:32:48 2019  error -5 reading relation 47749242
+Sun Jun 23 08:32:49 2019  error -15 reading relation 47859689
+Sun Jun 23 08:32:49 2019  error -5 reading relation 47886140
+Sun Jun 23 08:32:50 2019  error -9 reading relation 48004400
+Sun Jun 23 08:32:51 2019  error -5 reading relation 48143412
+Sun Jun 23 08:32:52 2019  error -15 reading relation 48254989
+Sun Jun 23 08:32:52 2019  error -1 reading relation 48296790
+Sun Jun 23 08:32:53 2019  error -15 reading relation 48499729
+Sun Jun 23 08:32:53 2019  error -1 reading relation 48502268
+Sun Jun 23 08:32:59 2019  error -9 reading relation 49365695
+Sun Jun 23 08:33:01 2019  error -9 reading relation 49769145
+Sun Jun 23 08:33:02 2019  error -15 reading relation 49784081
+Sun Jun 23 08:33:02 2019  error -15 reading relation 49793568
+Sun Jun 23 08:33:02 2019  error -15 reading relation 49853632
+Sun Jun 23 08:33:03 2019  error -9 reading relation 50039344
+Sun Jun 23 08:33:04 2019  error -1 reading relation 50194303
+Sun Jun 23 08:33:05 2019  error -1 reading relation 50336277
+Sun Jun 23 08:33:06 2019  error -9 reading relation 50454867
+Sun Jun 23 08:33:08 2019  error -9 reading relation 50714673
+Sun Jun 23 08:33:08 2019  error -9 reading relation 50840124
+Sun Jun 23 08:33:10 2019  error -9 reading relation 51028050
+Sun Jun 23 08:33:10 2019  error -15 reading relation 51031608
+Sun Jun 23 08:33:10 2019  error -1 reading relation 51150226
+Sun Jun 23 08:33:10 2019  error -9 reading relation 51155761
+Sun Jun 23 08:33:11 2019  error -9 reading relation 51192896
+Sun Jun 23 08:33:12 2019  error -9 reading relation 51366285
+Sun Jun 23 08:33:12 2019  error -5 reading relation 51385177
+Sun Jun 23 08:33:12 2019  error -9 reading relation 51425411
+Sun Jun 23 08:33:12 2019  error -9 reading relation 51426479
+Sun Jun 23 08:33:12 2019  error -15 reading relation 51436937
+Sun Jun 23 08:33:18 2019  error -9 reading relation 52294155
+Sun Jun 23 08:33:19 2019  error -9 reading relation 52522787
+Sun Jun 23 08:33:19 2019  error -9 reading relation 52522906
+Sun Jun 23 08:33:21 2019  error -9 reading relation 52810473
+Sun Jun 23 08:33:22 2019  error -9 reading relation 52905615
+Sun Jun 23 08:33:22 2019  error -15 reading relation 52958520
+Sun Jun 23 08:33:22 2019  error -15 reading relation 53006127
+Sun Jun 23 08:33:22 2019  error -9 reading relation 53021116
+Sun Jun 23 08:33:23 2019  error -9 reading relation 53054366
+Sun Jun 23 08:33:23 2019  error -9 reading relation 53168452
+Sun Jun 23 08:33:23 2019  error -15 reading relation 53169803
+Sun Jun 23 08:33:23 2019  error -9 reading relation 53184672
+Sun Jun 23 08:33:24 2019  error -5 reading relation 53237071
+Sun Jun 23 08:33:24 2019  error -9 reading relation 53327426
+Sun Jun 23 08:33:25 2019  error -9 reading relation 53367723
+Sun Jun 23 08:33:25 2019  error -9 reading relation 53397383
+Sun Jun 23 08:33:26 2019  error -9 reading relation 53632957
+Sun Jun 23 08:33:26 2019  error -15 reading relation 53637128
+Sun Jun 23 08:33:26 2019  error -15 reading relation 53639491
+Sun Jun 23 08:33:27 2019  error -1 reading relation 53714705
+Sun Jun 23 08:33:27 2019  error -9 reading relation 53737457
+Sun Jun 23 08:33:27 2019  error -15 reading relation 53796599
+Sun Jun 23 08:33:28 2019  error -15 reading relation 53828087
+Sun Jun 23 08:33:28 2019  error -1 reading relation 53908632
+Sun Jun 23 08:33:28 2019  error -9 reading relation 53912756
+Sun Jun 23 08:33:28 2019  error -9 reading relation 53915902
+Sun Jun 23 08:33:28 2019  error -15 reading relation 53916333
+Sun Jun 23 08:33:28 2019  error -9 reading relation 53957244
+Sun Jun 23 08:33:29 2019  error -15 reading relation 54002735
+Sun Jun 23 08:33:29 2019  error -5 reading relation 54012084
+Sun Jun 23 08:33:31 2019  error -5 reading relation 54322269
+Sun Jun 23 08:33:33 2019  error -1 reading relation 54704847
+Sun Jun 23 08:33:33 2019  skipped 103 relations with b > 2^32
+Sun Jun 23 08:33:33 2019  skipped 123 relations with composite factors
+Sun Jun 23 08:33:33 2019  found 9162398 hash collisions in 54707024 relations
+Sun Jun 23 08:33:45 2019  added 1218937 free relations
+Sun Jun 23 08:33:45 2019  commencing duplicate removal, pass 2
+Sun Jun 23 08:34:06 2019  found 8413259 duplicates and 47512702 unique relations
+Sun Jun 23 08:34:06 2019  memory use: 330.4 MB
+Sun Jun 23 08:34:06 2019  reading ideals above 720000
+Sun Jun 23 08:34:07 2019  commencing singleton removal, initial pass
+Sun Jun 23 08:38:47 2019  memory use: 1378.0 MB
+Sun Jun 23 08:38:47 2019  reading all ideals from disk
+Sun Jun 23 08:38:48 2019  memory use: 1734.7 MB
+Sun Jun 23 08:38:51 2019  keeping 46393720 ideals with weight <= 200, target excess is 253773
+Sun Jun 23 08:38:54 2019  commencing in-memory singleton removal
+Sun Jun 23 08:38:56 2019  begin with 47512702 relations and 46393720 unique ideals
+Sun Jun 23 08:39:20 2019  reduce to 28630647 relations and 25322287 ideals in 14 passes
+Sun Jun 23 08:39:20 2019  max relations containing the same ideal: 152
+Sun Jun 23 08:39:29 2019  removing 2590754 relations and 2190754 ideals in 400000 cliques
+Sun Jun 23 08:39:29 2019  commencing in-memory singleton removal
+Sun Jun 23 08:39:31 2019  begin with 26039893 relations and 25322287 unique ideals
+Sun Jun 23 08:39:43 2019  reduce to 25844242 relations and 22932073 ideals in 9 passes
+Sun Jun 23 08:39:43 2019  max relations containing the same ideal: 144
+Sun Jun 23 08:39:51 2019  removing 1933582 relations and 1533582 ideals in 400000 cliques
+Sun Jun 23 08:39:52 2019  commencing in-memory singleton removal
+Sun Jun 23 08:39:53 2019  begin with 23910660 relations and 22932073 unique ideals
+Sun Jun 23 08:40:02 2019  reduce to 23802087 relations and 21288155 ideals in 7 passes
+Sun Jun 23 08:40:02 2019  max relations containing the same ideal: 137
+Sun Jun 23 08:40:09 2019  removing 1718154 relations and 1318154 ideals in 400000 cliques
+Sun Jun 23 08:40:10 2019  commencing in-memory singleton removal
+Sun Jun 23 08:40:11 2019  begin with 22083933 relations and 21288155 unique ideals
+Sun Jun 23 08:40:20 2019  reduce to 21996668 relations and 19881359 ideals in 8 passes
+Sun Jun 23 08:40:20 2019  max relations containing the same ideal: 129
+Sun Jun 23 08:40:27 2019  removing 1596257 relations and 1196257 ideals in 400000 cliques
+Sun Jun 23 08:40:27 2019  commencing in-memory singleton removal
+Sun Jun 23 08:40:28 2019  begin with 20400411 relations and 19881359 unique ideals
+Sun Jun 23 08:40:36 2019  reduce to 20322236 relations and 18605636 ideals in 7 passes
+Sun Jun 23 08:40:36 2019  max relations containing the same ideal: 121
+Sun Jun 23 08:40:42 2019  removing 1516158 relations and 1116158 ideals in 400000 cliques
+Sun Jun 23 08:40:42 2019  commencing in-memory singleton removal
+Sun Jun 23 08:40:43 2019  begin with 18806078 relations and 18605636 unique ideals
+Sun Jun 23 08:40:50 2019  reduce to 18730824 relations and 17412931 ideals in 7 passes
+Sun Jun 23 08:40:50 2019  max relations containing the same ideal: 115
+Sun Jun 23 08:40:56 2019  removing 1459065 relations and 1059065 ideals in 400000 cliques
+Sun Jun 23 08:40:56 2019  commencing in-memory singleton removal
+Sun Jun 23 08:40:57 2019  begin with 17271759 relations and 17412931 unique ideals
+Sun Jun 23 08:41:02 2019  reduce to 17197106 relations and 16277890 ideals in 6 passes
+Sun Jun 23 08:41:02 2019  max relations containing the same ideal: 108
+Sun Jun 23 08:41:08 2019  removing 1418532 relations and 1018532 ideals in 400000 cliques
+Sun Jun 23 08:41:08 2019  commencing in-memory singleton removal
+Sun Jun 23 08:41:09 2019  begin with 15778574 relations and 16277890 unique ideals
+Sun Jun 23 08:41:14 2019  reduce to 15701692 relations and 15181023 ideals in 7 passes
+Sun Jun 23 08:41:14 2019  max relations containing the same ideal: 99
+Sun Jun 23 08:41:19 2019  removing 866205 relations and 639913 ideals in 226292 cliques
+Sun Jun 23 08:41:19 2019  commencing in-memory singleton removal
+Sun Jun 23 08:41:20 2019  begin with 14835487 relations and 15181023 unique ideals
+Sun Jun 23 08:41:24 2019  reduce to 14804383 relations and 14509627 ideals in 5 passes
+Sun Jun 23 08:41:24 2019  max relations containing the same ideal: 96
+Sun Jun 23 08:41:30 2019  relations with 0 large ideals: 8308
+Sun Jun 23 08:41:30 2019  relations with 1 large ideals: 4781
+Sun Jun 23 08:41:30 2019  relations with 2 large ideals: 30338
+Sun Jun 23 08:41:30 2019  relations with 3 large ideals: 232311
+Sun Jun 23 08:41:30 2019  relations with 4 large ideals: 978936
+Sun Jun 23 08:41:30 2019  relations with 5 large ideals: 2448068
+Sun Jun 23 08:41:30 2019  relations with 6 large ideals: 3808568
+Sun Jun 23 08:41:30 2019  relations with 7+ large ideals: 7293073
+Sun Jun 23 08:41:30 2019  commencing 2-way merge
+Sun Jun 23 08:41:37 2019  reduce to 10327051 relation sets and 10032295 unique ideals
+Sun Jun 23 08:41:37 2019  commencing full merge
+Sun Jun 23 08:47:16 2019  memory use: 463.9 MB
+Sun Jun 23 08:47:17 2019  found 18892 cycles, need 2160473
+Sun Jun 23 08:47:17 2019  too few cycles, matrix probably cannot build
+Sun Jun 23 08:57:15 2019  
+Sun Jun 23 08:57:15 2019  
+Sun Jun 23 08:57:15 2019  Msieve v. 1.53 (SVN 1005)
+Sun Jun 23 08:57:15 2019  random seeds: 4577ade0 b1053485
+Sun Jun 23 08:57:15 2019  factoring 3042637613896279111978107370543992674135556227495832479732209493025256363660533611965555169122769573164127270940369205314343662710753465255432804540143299365352310631 (166 digits)
+Sun Jun 23 08:57:16 2019  searching for 15-digit factors
+Sun Jun 23 08:57:16 2019  commencing number field sieve (166-digit input)
+Sun Jun 23 08:57:16 2019  R0: -20768949750785132794698281184657409
+Sun Jun 23 08:57:16 2019  R1: 1
+Sun Jun 23 08:57:16 2019  A0: 1
+Sun Jun 23 08:57:16 2019  A1: 0
+Sun Jun 23 08:57:16 2019  A2: 0
+Sun Jun 23 08:57:16 2019  A3: 0
+Sun Jun 23 08:57:16 2019  A4: 0
+Sun Jun 23 08:57:16 2019  A5: 0
+Sun Jun 23 08:57:16 2019  A6: 524287
+Sun Jun 23 08:57:16 2019  skew 0.15, size 4.876e-011, alpha 1.228, combined = 2.040e-012 rroots = 0
+Sun Jun 23 08:57:16 2019  
+Sun Jun 23 08:57:16 2019  commencing relation filtering
+Sun Jun 23 08:57:16 2019  setting target matrix density to 120.0
+Sun Jun 23 08:57:16 2019  estimated available RAM is 16116.3 MB
+Sun Jun 23 08:57:16 2019  commencing duplicate removal, pass 1
+Sun Jun 23 08:57:36 2019  error -9 reading relation 3237468
+Sun Jun 23 08:57:36 2019  error -5 reading relation 3237588
+Sun Jun 23 08:57:36 2019  error -15 reading relation 3243202
+Sun Jun 23 08:57:41 2019  error -15 reading relation 3990111
+Sun Jun 23 08:57:42 2019  error -1 reading relation 4102659
+Sun Jun 23 08:57:52 2019  error -9 reading relation 5673560
+Sun Jun 23 08:57:59 2019  error -15 reading relation 6862920
+Sun Jun 23 08:58:03 2019  error -1 reading relation 7555131
+Sun Jun 23 08:58:09 2019  error -5 reading relation 8533692
+Sun Jun 23 08:58:13 2019  error -1 reading relation 9158321
+Sun Jun 23 08:58:14 2019  error -5 reading relation 9296730
+Sun Jun 23 08:58:20 2019  error -9 reading relation 10259174
+Sun Jun 23 08:58:21 2019  error -9 reading relation 10418833
+Sun Jun 23 08:58:21 2019  error -9 reading relation 10424294
+Sun Jun 23 08:58:25 2019  error -9 reading relation 10987534
+Sun Jun 23 08:58:38 2019  error -9 reading relation 13133698
+Sun Jun 23 08:58:38 2019  error -9 reading relation 13139447
+Sun Jun 23 08:58:41 2019  error -9 reading relation 13612275
+Sun Jun 23 08:58:43 2019  error -15 reading relation 13974228
+Sun Jun 23 08:58:53 2019  error -9 reading relation 15486867
+Sun Jun 23 08:58:55 2019  error -9 reading relation 15835575
+Sun Jun 23 08:58:56 2019  error -15 reading relation 16007815
+Sun Jun 23 08:59:02 2019  error -15 reading relation 17029979
+Sun Jun 23 08:59:07 2019  error -9 reading relation 17812374
+Sun Jun 23 08:59:12 2019  error -5 reading relation 18673698
+Sun Jun 23 08:59:16 2019  error -9 reading relation 19262403
+Sun Jun 23 08:59:16 2019  error -1 reading relation 19262648
+Sun Jun 23 08:59:24 2019  error -9 reading relation 20469752
+Sun Jun 23 08:59:36 2019  error -15 reading relation 22358690
+Sun Jun 23 08:59:40 2019  error -1 reading relation 23123946
+Sun Jun 23 08:59:48 2019  error -9 reading relation 24379619
+Sun Jun 23 08:59:49 2019  error -9 reading relation 24446616
+Sun Jun 23 08:59:50 2019  error -15 reading relation 24679234
+Sun Jun 23 08:59:53 2019  error -15 reading relation 25007575
+Sun Jun 23 08:59:55 2019  error -9 reading relation 25315841
+Sun Jun 23 08:59:55 2019  error -9 reading relation 25456475
+Sun Jun 23 08:59:56 2019  error -15 reading relation 25474606
+Sun Jun 23 08:59:57 2019  error -15 reading relation 25630954
+Sun Jun 23 08:59:58 2019  error -15 reading relation 25781461
+Sun Jun 23 08:59:59 2019  error -9 reading relation 25929850
+Sun Jun 23 09:00:00 2019  error -15 reading relation 26210546
+Sun Jun 23 09:00:01 2019  error -9 reading relation 26288042
+Sun Jun 23 09:00:01 2019  error -1 reading relation 26344637
+Sun Jun 23 09:00:02 2019  error -9 reading relation 26416763
+Sun Jun 23 09:00:02 2019  error -15 reading relation 26452170
+Sun Jun 23 09:00:03 2019  error -15 reading relation 26565899
+Sun Jun 23 09:00:04 2019  error -1 reading relation 26824928
+Sun Jun 23 09:00:07 2019  error -5 reading relation 27214146
+Sun Jun 23 09:00:08 2019  error -9 reading relation 27484689
+Sun Jun 23 09:00:11 2019  error -5 reading relation 27906142
+Sun Jun 23 09:00:11 2019  error -9 reading relation 27912322
+Sun Jun 23 09:00:14 2019  error -9 reading relation 28324607
+Sun Jun 23 09:00:17 2019  error -9 reading relation 28747746
+Sun Jun 23 09:00:17 2019  error -1 reading relation 28799192
+Sun Jun 23 09:00:18 2019  error -5 reading relation 28910823
+Sun Jun 23 09:00:18 2019  error -15 reading relation 28982508
+Sun Jun 23 09:00:18 2019  error -9 reading relation 29024240
+Sun Jun 23 09:00:20 2019  error -9 reading relation 29213027
+Sun Jun 23 09:00:20 2019  error -9 reading relation 29292374
+Sun Jun 23 09:00:22 2019  error -9 reading relation 29514256
+Sun Jun 23 09:00:22 2019  error -15 reading relation 29608426
+Sun Jun 23 09:00:22 2019  error -9 reading relation 29620885
+Sun Jun 23 09:00:23 2019  error -9 reading relation 29755687
+Sun Jun 23 09:00:26 2019  error -15 reading relation 30139622
+Sun Jun 23 09:00:26 2019  error -9 reading relation 30200207
+Sun Jun 23 09:00:27 2019  error -15 reading relation 30372515
+Sun Jun 23 09:00:27 2019  error -5 reading relation 30422970
+Sun Jun 23 09:00:28 2019  error -15 reading relation 30530641
+Sun Jun 23 09:00:28 2019  error -9 reading relation 30564470
+Sun Jun 23 09:00:29 2019  error -9 reading relation 30713012
+Sun Jun 23 09:00:30 2019  error -9 reading relation 30749484
+Sun Jun 23 09:00:31 2019  error -9 reading relation 30955664
+Sun Jun 23 09:00:32 2019  error -9 reading relation 31083140
+Sun Jun 23 09:00:32 2019  error -1 reading relation 31087762
+Sun Jun 23 09:00:32 2019  error -15 reading relation 31137320
+Sun Jun 23 09:00:33 2019  error -15 reading relation 31228588
+Sun Jun 23 09:00:34 2019  error -15 reading relation 31451781
+Sun Jun 23 09:00:34 2019  error -9 reading relation 31458552
+Sun Jun 23 09:00:35 2019  error -1 reading relation 31610372
+Sun Jun 23 09:00:35 2019  error -5 reading relation 31629886
+Sun Jun 23 09:00:36 2019  error -15 reading relation 31765563
+Sun Jun 23 09:00:38 2019  error -1 reading relation 32029282
+Sun Jun 23 09:00:41 2019  error -15 reading relation 32477395
+Sun Jun 23 09:00:43 2019  error -9 reading relation 32786430
+Sun Jun 23 09:00:45 2019  error -9 reading relation 33099539
+Sun Jun 23 09:00:47 2019  error -15 reading relation 33408245
+Sun Jun 23 09:00:47 2019  error -5 reading relation 33435050
+Sun Jun 23 09:00:48 2019  error -15 reading relation 33540292
+Sun Jun 23 09:00:49 2019  error -15 reading relation 33667099
+Sun Jun 23 09:00:49 2019  error -9 reading relation 33740828
+Sun Jun 23 09:00:49 2019  error -15 reading relation 33741541
+Sun Jun 23 09:00:49 2019  error -15 reading relation 33743330
+Sun Jun 23 09:00:49 2019  error -9 reading relation 33747332
+Sun Jun 23 09:00:49 2019  error -9 reading relation 33778413
+Sun Jun 23 09:00:51 2019  error -1 reading relation 34104766
+Sun Jun 23 09:00:53 2019  error -15 reading relation 34357763
+Sun Jun 23 09:00:53 2019  error -5 reading relation 34363517
+Sun Jun 23 09:00:56 2019  error -9 reading relation 34734199
+Sun Jun 23 09:00:56 2019  error -1 reading relation 34762353
+Sun Jun 23 09:00:58 2019  error -15 reading relation 35045421
+Sun Jun 23 09:00:58 2019  error -15 reading relation 35168836
+Sun Jun 23 09:00:58 2019  error -1 reading relation 35170385
+Sun Jun 23 09:01:04 2019  error -9 reading relation 35995341
+Sun Jun 23 09:01:06 2019  error -15 reading relation 36298348
+Sun Jun 23 09:01:07 2019  error -9 reading relation 36444277
+Sun Jun 23 09:01:07 2019  error -9 reading relation 36472992
+Sun Jun 23 09:01:07 2019  error -15 reading relation 36591544
+Sun Jun 23 09:01:09 2019  error -9 reading relation 36853605
+Sun Jun 23 09:01:09 2019  error -1 reading relation 36855112
+Sun Jun 23 09:01:12 2019  error -9 reading relation 37285927
+Sun Jun 23 09:01:13 2019  error -9 reading relation 37514356
+Sun Jun 23 09:01:15 2019  error -9 reading relation 37726284
+Sun Jun 23 09:01:15 2019  error -15 reading relation 37788630
+Sun Jun 23 09:01:17 2019  error -15 reading relation 37999685
+Sun Jun 23 09:01:18 2019  error -15 reading relation 38292461
+Sun Jun 23 09:01:21 2019  error -15 reading relation 38694939
+Sun Jun 23 09:01:23 2019  error -9 reading relation 38952107
+Sun Jun 23 09:01:24 2019  error -9 reading relation 39203479
+Sun Jun 23 09:01:25 2019  error -9 reading relation 39308080
+Sun Jun 23 09:01:25 2019  error -1 reading relation 39313201
+Sun Jun 23 09:01:25 2019  error -15 reading relation 39354029
+Sun Jun 23 09:01:26 2019  error -15 reading relation 39390793
+Sun Jun 23 09:01:30 2019  error -1 reading relation 40014571
+Sun Jun 23 09:01:30 2019  error -9 reading relation 40081551
+Sun Jun 23 09:01:31 2019  error -9 reading relation 40223083
+Sun Jun 23 09:01:31 2019  error -1 reading relation 40257871
+Sun Jun 23 09:01:31 2019  error -1 reading relation 40265575
+Sun Jun 23 09:01:31 2019  error -9 reading relation 40269642
+Sun Jun 23 09:01:31 2019  error -1 reading relation 40275083
+Sun Jun 23 09:01:31 2019  error -15 reading relation 40283235
+Sun Jun 23 09:01:35 2019  error -15 reading relation 40764902
+Sun Jun 23 09:01:36 2019  error -5 reading relation 41035023
+Sun Jun 23 09:01:42 2019  error -15 reading relation 41973020
+Sun Jun 23 09:01:44 2019  error -15 reading relation 42169375
+Sun Jun 23 09:01:45 2019  error -15 reading relation 42433388
+Sun Jun 23 09:01:46 2019  error -15 reading relation 42471259
+Sun Jun 23 09:01:47 2019  error -15 reading relation 42750025
+Sun Jun 23 09:01:47 2019  error -1 reading relation 42757971
+Sun Jun 23 09:01:48 2019  error -9 reading relation 42920149
+Sun Jun 23 09:01:50 2019  error -9 reading relation 43151324
+Sun Jun 23 09:01:51 2019  error -15 reading relation 43313793
+Sun Jun 23 09:01:57 2019  error -9 reading relation 44241465
+Sun Jun 23 09:01:58 2019  error -15 reading relation 44340609
+Sun Jun 23 09:01:58 2019  error -15 reading relation 44340766
+Sun Jun 23 09:01:58 2019  error -1 reading relation 44436086
+Sun Jun 23 09:01:59 2019  error -9 reading relation 44589531
+Sun Jun 23 09:02:01 2019  error -5 reading relation 44903851
+Sun Jun 23 09:02:08 2019  error -9 reading relation 45870872
+Sun Jun 23 09:02:08 2019  error -9 reading relation 45982020
+Sun Jun 23 09:02:15 2019  error -9 reading relation 47074933
+Sun Jun 23 09:02:17 2019  error -15 reading relation 47297273
+Sun Jun 23 09:02:18 2019  error -9 reading relation 47469017
+Sun Jun 23 09:02:18 2019  error -15 reading relation 47488697
+Sun Jun 23 09:02:18 2019  error -9 reading relation 47503557
+Sun Jun 23 09:02:18 2019  error -9 reading relation 47504976
+Sun Jun 23 09:02:19 2019  error -9 reading relation 47590818
+Sun Jun 23 09:02:19 2019  error -9 reading relation 47706803
+Sun Jun 23 09:02:20 2019  error -5 reading relation 47749242
+Sun Jun 23 09:02:20 2019  error -15 reading relation 47859689
+Sun Jun 23 09:02:21 2019  error -5 reading relation 47886140
+Sun Jun 23 09:02:21 2019  error -9 reading relation 48004400
+Sun Jun 23 09:02:22 2019  error -5 reading relation 48143412
+Sun Jun 23 09:02:23 2019  error -15 reading relation 48254989
+Sun Jun 23 09:02:23 2019  error -1 reading relation 48296790
+Sun Jun 23 09:02:25 2019  error -15 reading relation 48499729
+Sun Jun 23 09:02:25 2019  error -1 reading relation 48502268
+Sun Jun 23 09:02:30 2019  error -9 reading relation 49365695
+Sun Jun 23 09:02:33 2019  error -9 reading relation 49769145
+Sun Jun 23 09:02:33 2019  error -15 reading relation 49784081
+Sun Jun 23 09:02:33 2019  error -15 reading relation 49793568
+Sun Jun 23 09:02:33 2019  error -15 reading relation 49853632
+Sun Jun 23 09:02:34 2019  error -9 reading relation 50039344
+Sun Jun 23 09:02:35 2019  error -1 reading relation 50194303
+Sun Jun 23 09:02:36 2019  error -1 reading relation 50336277
+Sun Jun 23 09:02:37 2019  error -9 reading relation 50454867
+Sun Jun 23 09:02:39 2019  error -9 reading relation 50714673
+Sun Jun 23 09:02:40 2019  error -9 reading relation 50840124
+Sun Jun 23 09:02:41 2019  error -9 reading relation 51028050
+Sun Jun 23 09:02:41 2019  error -15 reading relation 51031608
+Sun Jun 23 09:02:42 2019  error -1 reading relation 51150226
+Sun Jun 23 09:02:42 2019  error -9 reading relation 51155761
+Sun Jun 23 09:02:42 2019  error -9 reading relation 51192896
+Sun Jun 23 09:02:43 2019  error -9 reading relation 51366285
+Sun Jun 23 09:02:43 2019  error -5 reading relation 51385177
+Sun Jun 23 09:02:43 2019  error -9 reading relation 51425411
+Sun Jun 23 09:02:43 2019  error -9 reading relation 51426479
+Sun Jun 23 09:02:44 2019  error -15 reading relation 51436937
+Sun Jun 23 09:02:49 2019  error -9 reading relation 52294155
+Sun Jun 23 09:02:50 2019  error -9 reading relation 52522787
+Sun Jun 23 09:02:50 2019  error -9 reading relation 52522906
+Sun Jun 23 09:02:52 2019  error -9 reading relation 52810473
+Sun Jun 23 09:02:53 2019  error -9 reading relation 52905615
+Sun Jun 23 09:02:53 2019  error -15 reading relation 52958520
+Sun Jun 23 09:02:54 2019  error -15 reading relation 53006127
+Sun Jun 23 09:02:54 2019  error -9 reading relation 53021116
+Sun Jun 23 09:02:54 2019  error -9 reading relation 53054366
+Sun Jun 23 09:02:55 2019  error -9 reading relation 53168452
+Sun Jun 23 09:02:55 2019  error -15 reading relation 53169803
+Sun Jun 23 09:02:55 2019  error -9 reading relation 53184672
+Sun Jun 23 09:02:55 2019  error -5 reading relation 53237071
+Sun Jun 23 09:02:56 2019  error -9 reading relation 53327426
+Sun Jun 23 09:02:56 2019  error -9 reading relation 53367723
+Sun Jun 23 09:02:56 2019  error -9 reading relation 53397383
+Sun Jun 23 09:02:58 2019  error -9 reading relation 53632957
+Sun Jun 23 09:02:58 2019  error -15 reading relation 53637128
+Sun Jun 23 09:02:58 2019  error -15 reading relation 53639491
+Sun Jun 23 09:02:58 2019  error -1 reading relation 53714705
+Sun Jun 23 09:02:58 2019  error -9 reading relation 53737457
+Sun Jun 23 09:02:59 2019  error -15 reading relation 53796599
+Sun Jun 23 09:02:59 2019  error -15 reading relation 53828087
+Sun Jun 23 09:02:59 2019  error -1 reading relation 53908632
+Sun Jun 23 09:02:59 2019  error -9 reading relation 53912756
+Sun Jun 23 09:02:59 2019  error -9 reading relation 53915902
+Sun Jun 23 09:02:59 2019  error -15 reading relation 53916333
+Sun Jun 23 09:03:00 2019  error -9 reading relation 53957244
+Sun Jun 23 09:03:00 2019  error -15 reading relation 54002735
+Sun Jun 23 09:03:00 2019  error -5 reading relation 54012084
+Sun Jun 23 09:03:02 2019  error -5 reading relation 54322269
+Sun Jun 23 09:03:05 2019  error -1 reading relation 54704847
+Sun Jun 23 09:03:18 2019  skipped 103 relations with b > 2^32
+Sun Jun 23 09:03:18 2019  skipped 123 relations with composite factors
+Sun Jun 23 09:03:18 2019  found 9245023 hash collisions in 55925961 relations
+Sun Jun 23 09:03:26 2019  commencing duplicate removal, pass 2
+Sun Jun 23 09:03:48 2019  found 8413259 duplicates and 47512702 unique relations
+Sun Jun 23 09:03:48 2019  memory use: 330.4 MB
+Sun Jun 23 09:03:48 2019  reading ideals above 720000
+Sun Jun 23 09:03:48 2019  commencing singleton removal, initial pass
+Sun Jun 23 09:08:27 2019  memory use: 1378.0 MB
+Sun Jun 23 09:08:27 2019  reading all ideals from disk
+Sun Jun 23 09:08:28 2019  memory use: 1734.7 MB
+Sun Jun 23 09:08:31 2019  keeping 46393720 ideals with weight <= 200, target excess is 253773
+Sun Jun 23 09:08:34 2019  commencing in-memory singleton removal
+Sun Jun 23 09:08:36 2019  begin with 47512702 relations and 46393720 unique ideals
+Sun Jun 23 09:09:00 2019  reduce to 28630647 relations and 25322287 ideals in 14 passes
+Sun Jun 23 09:09:00 2019  max relations containing the same ideal: 152
+Sun Jun 23 09:09:09 2019  removing 2590754 relations and 2190754 ideals in 400000 cliques
+Sun Jun 23 09:09:10 2019  commencing in-memory singleton removal
+Sun Jun 23 09:09:11 2019  begin with 26039893 relations and 25322287 unique ideals
+Sun Jun 23 09:09:24 2019  reduce to 25844242 relations and 22932073 ideals in 9 passes
+Sun Jun 23 09:09:24 2019  max relations containing the same ideal: 144
+Sun Jun 23 09:09:31 2019  removing 1933582 relations and 1533582 ideals in 400000 cliques
+Sun Jun 23 09:09:32 2019  commencing in-memory singleton removal
+Sun Jun 23 09:09:33 2019  begin with 23910660 relations and 22932073 unique ideals
+Sun Jun 23 09:09:42 2019  reduce to 23802087 relations and 21288155 ideals in 7 passes
+Sun Jun 23 09:09:42 2019  max relations containing the same ideal: 137
+Sun Jun 23 09:09:50 2019  removing 1718154 relations and 1318154 ideals in 400000 cliques
+Sun Jun 23 09:09:50 2019  commencing in-memory singleton removal
+Sun Jun 23 09:09:51 2019  begin with 22083933 relations and 21288155 unique ideals
+Sun Jun 23 09:10:01 2019  reduce to 21996668 relations and 19881359 ideals in 8 passes
+Sun Jun 23 09:10:01 2019  max relations containing the same ideal: 129
+Sun Jun 23 09:10:07 2019  removing 1596257 relations and 1196257 ideals in 400000 cliques
+Sun Jun 23 09:10:08 2019  commencing in-memory singleton removal
+Sun Jun 23 09:10:09 2019  begin with 20400411 relations and 19881359 unique ideals
+Sun Jun 23 09:10:16 2019  reduce to 20322236 relations and 18605636 ideals in 7 passes
+Sun Jun 23 09:10:16 2019  max relations containing the same ideal: 121
+Sun Jun 23 09:10:23 2019  removing 1516158 relations and 1116158 ideals in 400000 cliques
+Sun Jun 23 09:10:23 2019  commencing in-memory singleton removal
+Sun Jun 23 09:10:24 2019  begin with 18806078 relations and 18605636 unique ideals
+Sun Jun 23 09:10:31 2019  reduce to 18730824 relations and 17412931 ideals in 7 passes
+Sun Jun 23 09:10:31 2019  max relations containing the same ideal: 115
+Sun Jun 23 09:10:37 2019  removing 1459065 relations and 1059065 ideals in 400000 cliques
+Sun Jun 23 09:10:37 2019  commencing in-memory singleton removal
+Sun Jun 23 09:10:38 2019  begin with 17271759 relations and 17412931 unique ideals
+Sun Jun 23 09:10:44 2019  reduce to 17197106 relations and 16277890 ideals in 6 passes
+Sun Jun 23 09:10:44 2019  max relations containing the same ideal: 108
+Sun Jun 23 09:10:49 2019  removing 1418532 relations and 1018532 ideals in 400000 cliques
+Sun Jun 23 09:10:49 2019  commencing in-memory singleton removal
+Sun Jun 23 09:10:50 2019  begin with 15778574 relations and 16277890 unique ideals
+Sun Jun 23 09:10:56 2019  reduce to 15701692 relations and 15181023 ideals in 7 passes
+Sun Jun 23 09:10:56 2019  max relations containing the same ideal: 99
+Sun Jun 23 09:11:00 2019  removing 866205 relations and 639913 ideals in 226292 cliques
+Sun Jun 23 09:11:01 2019  commencing in-memory singleton removal
+Sun Jun 23 09:11:01 2019  begin with 14835487 relations and 15181023 unique ideals
+Sun Jun 23 09:11:05 2019  reduce to 14804383 relations and 14509627 ideals in 5 passes
+Sun Jun 23 09:11:05 2019  max relations containing the same ideal: 96
+Sun Jun 23 09:11:11 2019  relations with 0 large ideals: 8308
+Sun Jun 23 09:11:11 2019  relations with 1 large ideals: 4781
+Sun Jun 23 09:11:11 2019  relations with 2 large ideals: 30338
+Sun Jun 23 09:11:11 2019  relations with 3 large ideals: 232311
+Sun Jun 23 09:11:11 2019  relations with 4 large ideals: 978936
+Sun Jun 23 09:11:11 2019  relations with 5 large ideals: 2448068
+Sun Jun 23 09:11:11 2019  relations with 6 large ideals: 3808568
+Sun Jun 23 09:11:11 2019  relations with 7+ large ideals: 7293073
+Sun Jun 23 09:11:11 2019  commencing 2-way merge
+Sun Jun 23 09:11:18 2019  reduce to 10327051 relation sets and 10032295 unique ideals
+Sun Jun 23 09:11:18 2019  commencing full merge
+Sun Jun 23 09:14:17 2019  memory use: 1322.8 MB
+Sun Jun 23 09:14:18 2019  found 4594892 cycles, need 4584495
+Sun Jun 23 09:14:18 2019  weight of 4584495 cycles is about 550949520 (120.18/cycle)
+Sun Jun 23 09:14:18 2019  distribution of cycle lengths:
+Sun Jun 23 09:14:18 2019  1 relations: 101701
+Sun Jun 23 09:14:18 2019  2 relations: 234269
+Sun Jun 23 09:14:18 2019  3 relations: 315033
+Sun Jun 23 09:14:18 2019  4 relations: 343220
+Sun Jun 23 09:14:18 2019  5 relations: 359333
+Sun Jun 23 09:14:18 2019  6 relations: 355438
+Sun Jun 23 09:14:18 2019  7 relations: 344878
+Sun Jun 23 09:14:18 2019  8 relations: 326695
+Sun Jun 23 09:14:18 2019  9 relations: 305003
+Sun Jun 23 09:14:18 2019  10+ relations: 1898925
+Sun Jun 23 09:14:18 2019  heaviest cycle: 28 relations
+Sun Jun 23 09:14:21 2019  commencing cycle optimization
+Sun Jun 23 09:14:27 2019  start with 41988975 relations
+Sun Jun 23 09:15:49 2019  pruned 2120508 relations
+Sun Jun 23 09:15:49 2019  memory use: 1054.9 MB
+Sun Jun 23 09:15:49 2019  distribution of cycle lengths:
+Sun Jun 23 09:15:49 2019  1 relations: 101701
+Sun Jun 23 09:15:49 2019  2 relations: 241322
+Sun Jun 23 09:15:49 2019  3 relations: 330908
+Sun Jun 23 09:15:49 2019  4 relations: 360468
+Sun Jun 23 09:15:49 2019  5 relations: 380666
+Sun Jun 23 09:15:49 2019  6 relations: 375108
+Sun Jun 23 09:15:49 2019  7 relations: 364476
+Sun Jun 23 09:15:49 2019  8 relations: 343071
+Sun Jun 23 09:15:49 2019  9 relations: 318819
+Sun Jun 23 09:15:49 2019  10+ relations: 1767956
+Sun Jun 23 09:15:49 2019  heaviest cycle: 28 relations
+Sun Jun 23 09:15:54 2019  RelProcTime: 1118
+Sun Jun 23 09:15:54 2019  elapsed time 00:18:39
+Sun Jun 23 10:23:04 2019  
+Sun Jun 23 10:23:04 2019  
+Sun Jun 23 10:23:04 2019  Msieve v. 1.53 (SVN 1005)
+Sun Jun 23 10:23:04 2019  random seeds: 01137d70 8cb2f74e
+Sun Jun 23 10:23:04 2019  factoring 3042637613896279111978107370543992674135556227495832479732209493025256363660533611965555169122769573164127270940369205314343662710753465255432804540143299365352310631 (166 digits)
+Sun Jun 23 10:23:04 2019  searching for 15-digit factors
+Sun Jun 23 10:23:05 2019  commencing number field sieve (166-digit input)
+Sun Jun 23 10:23:05 2019  R0: -20768949750785132794698281184657409
+Sun Jun 23 10:23:05 2019  R1: 1
+Sun Jun 23 10:23:05 2019  A0: 1
+Sun Jun 23 10:23:05 2019  A1: 0
+Sun Jun 23 10:23:05 2019  A2: 0
+Sun Jun 23 10:23:05 2019  A3: 0
+Sun Jun 23 10:23:05 2019  A4: 0
+Sun Jun 23 10:23:05 2019  A5: 0
+Sun Jun 23 10:23:05 2019  A6: 524287
+Sun Jun 23 10:23:05 2019  skew 0.15, size 4.876e-011, alpha 1.228, combined = 2.040e-012 rroots = 0
+Sun Jun 23 10:23:05 2019  
+Sun Jun 23 10:23:05 2019  commencing relation filtering
+Sun Jun 23 10:23:05 2019  setting target matrix density to 125.0
+Sun Jun 23 10:23:05 2019  estimated available RAM is 16116.3 MB
+Sun Jun 23 10:23:05 2019  commencing duplicate removal, pass 1
+Sun Jun 23 10:23:25 2019  error -9 reading relation 3237468
+Sun Jun 23 10:23:25 2019  error -5 reading relation 3237588
+Sun Jun 23 10:23:25 2019  error -15 reading relation 3243202
+Sun Jun 23 10:23:29 2019  error -15 reading relation 3990111
+Sun Jun 23 10:23:30 2019  error -1 reading relation 4102659
+Sun Jun 23 10:23:40 2019  error -9 reading relation 5673560
+Sun Jun 23 10:23:47 2019  error -15 reading relation 6862920
+Sun Jun 23 10:23:52 2019  error -1 reading relation 7555131
+Sun Jun 23 10:23:58 2019  error -5 reading relation 8533692
+Sun Jun 23 10:24:01 2019  error -1 reading relation 9158321
+Sun Jun 23 10:24:02 2019  error -5 reading relation 9296730
+Sun Jun 23 10:24:08 2019  error -9 reading relation 10259174
+Sun Jun 23 10:24:09 2019  error -9 reading relation 10418833
+Sun Jun 23 10:24:09 2019  error -9 reading relation 10424294
+Sun Jun 23 10:24:13 2019  error -9 reading relation 10987534
+Sun Jun 23 10:24:26 2019  error -9 reading relation 13133698
+Sun Jun 23 10:24:26 2019  error -9 reading relation 13139447
+Sun Jun 23 10:24:29 2019  error -9 reading relation 13612275
+Sun Jun 23 10:24:31 2019  error -15 reading relation 13974228
+Sun Jun 23 10:24:41 2019  error -9 reading relation 15486867
+Sun Jun 23 10:24:43 2019  error -9 reading relation 15835575
+Sun Jun 23 10:24:44 2019  error -15 reading relation 16007815
+Sun Jun 23 10:24:50 2019  error -15 reading relation 17029979
+Sun Jun 23 10:24:55 2019  error -9 reading relation 17812374
+Sun Jun 23 10:25:00 2019  error -5 reading relation 18673698
+Sun Jun 23 10:25:04 2019  error -9 reading relation 19262403
+Sun Jun 23 10:25:04 2019  error -1 reading relation 19262648
+Sun Jun 23 10:25:12 2019  error -9 reading relation 20469752
+Sun Jun 23 10:25:24 2019  error -15 reading relation 22358690
+Sun Jun 23 10:25:28 2019  error -1 reading relation 23123946
+Sun Jun 23 10:25:36 2019  error -9 reading relation 24379619
+Sun Jun 23 10:25:37 2019  error -9 reading relation 24446616
+Sun Jun 23 10:25:38 2019  error -15 reading relation 24679234
+Sun Jun 23 10:25:41 2019  error -15 reading relation 25007575
+Sun Jun 23 10:25:43 2019  error -9 reading relation 25315841
+Sun Jun 23 10:25:43 2019  error -9 reading relation 25456475
+Sun Jun 23 10:25:44 2019  error -15 reading relation 25474606
+Sun Jun 23 10:25:45 2019  error -15 reading relation 25630954
+Sun Jun 23 10:25:46 2019  error -15 reading relation 25781461
+Sun Jun 23 10:25:46 2019  error -9 reading relation 25929850
+Sun Jun 23 10:25:48 2019  error -15 reading relation 26210546
+Sun Jun 23 10:25:49 2019  error -9 reading relation 26288042
+Sun Jun 23 10:25:49 2019  error -1 reading relation 26344637
+Sun Jun 23 10:25:50 2019  error -9 reading relation 26416763
+Sun Jun 23 10:25:50 2019  error -15 reading relation 26452170
+Sun Jun 23 10:25:51 2019  error -15 reading relation 26565899
+Sun Jun 23 10:25:52 2019  error -1 reading relation 26824928
+Sun Jun 23 10:25:55 2019  error -5 reading relation 27214146
+Sun Jun 23 10:25:56 2019  error -9 reading relation 27484689
+Sun Jun 23 10:25:59 2019  error -5 reading relation 27906142
+Sun Jun 23 10:25:59 2019  error -9 reading relation 27912322
+Sun Jun 23 10:26:02 2019  error -9 reading relation 28324607
+Sun Jun 23 10:26:05 2019  error -9 reading relation 28747746
+Sun Jun 23 10:26:05 2019  error -1 reading relation 28799192
+Sun Jun 23 10:26:06 2019  error -5 reading relation 28910823
+Sun Jun 23 10:26:06 2019  error -15 reading relation 28982508
+Sun Jun 23 10:26:06 2019  error -9 reading relation 29024240
+Sun Jun 23 10:26:08 2019  error -9 reading relation 29213027
+Sun Jun 23 10:26:08 2019  error -9 reading relation 29292374
+Sun Jun 23 10:26:09 2019  error -9 reading relation 29514256
+Sun Jun 23 10:26:10 2019  error -15 reading relation 29608426
+Sun Jun 23 10:26:10 2019  error -9 reading relation 29620885
+Sun Jun 23 10:26:11 2019  error -9 reading relation 29755687
+Sun Jun 23 10:26:13 2019  error -15 reading relation 30139622
+Sun Jun 23 10:26:14 2019  error -9 reading relation 30200207
+Sun Jun 23 10:26:15 2019  error -15 reading relation 30372515
+Sun Jun 23 10:26:15 2019  error -5 reading relation 30422970
+Sun Jun 23 10:26:16 2019  error -15 reading relation 30530641
+Sun Jun 23 10:26:16 2019  error -9 reading relation 30564470
+Sun Jun 23 10:26:17 2019  error -9 reading relation 30713012
+Sun Jun 23 10:26:17 2019  error -9 reading relation 30749484
+Sun Jun 23 10:26:19 2019  error -9 reading relation 30955664
+Sun Jun 23 10:26:20 2019  error -9 reading relation 31083140
+Sun Jun 23 10:26:20 2019  error -1 reading relation 31087762
+Sun Jun 23 10:26:20 2019  error -15 reading relation 31137320
+Sun Jun 23 10:26:21 2019  error -15 reading relation 31228588
+Sun Jun 23 10:26:22 2019  error -15 reading relation 31451781
+Sun Jun 23 10:26:22 2019  error -9 reading relation 31458552
+Sun Jun 23 10:26:23 2019  error -1 reading relation 31610372
+Sun Jun 23 10:26:23 2019  error -5 reading relation 31629886
+Sun Jun 23 10:26:24 2019  error -15 reading relation 31765563
+Sun Jun 23 10:26:26 2019  error -1 reading relation 32029282
+Sun Jun 23 10:26:29 2019  error -15 reading relation 32477395
+Sun Jun 23 10:26:31 2019  error -9 reading relation 32786430
+Sun Jun 23 10:26:33 2019  error -9 reading relation 33099539
+Sun Jun 23 10:26:35 2019  error -15 reading relation 33408245
+Sun Jun 23 10:26:35 2019  error -5 reading relation 33435050
+Sun Jun 23 10:26:36 2019  error -15 reading relation 33540292
+Sun Jun 23 10:26:36 2019  error -15 reading relation 33667099
+Sun Jun 23 10:26:37 2019  error -9 reading relation 33740828
+Sun Jun 23 10:26:37 2019  error -15 reading relation 33741541
+Sun Jun 23 10:26:37 2019  error -15 reading relation 33743330
+Sun Jun 23 10:26:37 2019  error -9 reading relation 33747332
+Sun Jun 23 10:26:37 2019  error -9 reading relation 33778413
+Sun Jun 23 10:26:39 2019  error -1 reading relation 34104766
+Sun Jun 23 10:26:41 2019  error -15 reading relation 34357763
+Sun Jun 23 10:26:41 2019  error -5 reading relation 34363517
+Sun Jun 23 10:26:43 2019  error -9 reading relation 34734199
+Sun Jun 23 10:26:44 2019  error -1 reading relation 34762353
+Sun Jun 23 10:26:45 2019  error -15 reading relation 35045421
+Sun Jun 23 10:26:46 2019  error -15 reading relation 35168836
+Sun Jun 23 10:26:46 2019  error -1 reading relation 35170385
+Sun Jun 23 10:26:51 2019  error -9 reading relation 35995341
+Sun Jun 23 10:26:53 2019  error -15 reading relation 36298348
+Sun Jun 23 10:26:54 2019  error -9 reading relation 36444277
+Sun Jun 23 10:26:55 2019  error -9 reading relation 36472992
+Sun Jun 23 10:26:55 2019  error -15 reading relation 36591544
+Sun Jun 23 10:26:57 2019  error -9 reading relation 36853605
+Sun Jun 23 10:26:57 2019  error -1 reading relation 36855112
+Sun Jun 23 10:27:00 2019  error -9 reading relation 37285927
+Sun Jun 23 10:27:01 2019  error -9 reading relation 37514356
+Sun Jun 23 10:27:03 2019  error -9 reading relation 37726284
+Sun Jun 23 10:27:03 2019  error -15 reading relation 37788630
+Sun Jun 23 10:27:04 2019  error -15 reading relation 37999685
+Sun Jun 23 10:27:06 2019  error -15 reading relation 38292461
+Sun Jun 23 10:27:09 2019  error -15 reading relation 38694939
+Sun Jun 23 10:27:10 2019  error -9 reading relation 38952107
+Sun Jun 23 10:27:12 2019  error -9 reading relation 39203479
+Sun Jun 23 10:27:13 2019  error -9 reading relation 39308080
+Sun Jun 23 10:27:13 2019  error -1 reading relation 39313201
+Sun Jun 23 10:27:13 2019  error -15 reading relation 39354029
+Sun Jun 23 10:27:13 2019  error -15 reading relation 39390793
+Sun Jun 23 10:27:17 2019  error -1 reading relation 40014571
+Sun Jun 23 10:27:18 2019  error -9 reading relation 40081551
+Sun Jun 23 10:27:19 2019  error -9 reading relation 40223083
+Sun Jun 23 10:27:19 2019  error -1 reading relation 40257871
+Sun Jun 23 10:27:19 2019  error -1 reading relation 40265575
+Sun Jun 23 10:27:19 2019  error -9 reading relation 40269642
+Sun Jun 23 10:27:19 2019  error -1 reading relation 40275083
+Sun Jun 23 10:27:19 2019  error -15 reading relation 40283235
+Sun Jun 23 10:27:22 2019  error -15 reading relation 40764902
+Sun Jun 23 10:27:24 2019  error -5 reading relation 41035023
+Sun Jun 23 10:27:30 2019  error -15 reading relation 41973020
+Sun Jun 23 10:27:31 2019  error -15 reading relation 42169375
+Sun Jun 23 10:27:33 2019  error -15 reading relation 42433388
+Sun Jun 23 10:27:33 2019  error -15 reading relation 42471259
+Sun Jun 23 10:27:35 2019  error -15 reading relation 42750025
+Sun Jun 23 10:27:35 2019  error -1 reading relation 42757971
+Sun Jun 23 10:27:36 2019  error -9 reading relation 42920149
+Sun Jun 23 10:27:38 2019  error -9 reading relation 43151324
+Sun Jun 23 10:27:39 2019  error -15 reading relation 43313793
+Sun Jun 23 10:27:45 2019  error -9 reading relation 44241465
+Sun Jun 23 10:27:45 2019  error -15 reading relation 44340609
+Sun Jun 23 10:27:45 2019  error -15 reading relation 44340766
+Sun Jun 23 10:27:46 2019  error -1 reading relation 44436086
+Sun Jun 23 10:27:47 2019  error -9 reading relation 44589531
+Sun Jun 23 10:27:49 2019  error -5 reading relation 44903851
+Sun Jun 23 10:27:55 2019  error -9 reading relation 45870872
+Sun Jun 23 10:27:56 2019  error -9 reading relation 45982020
+Sun Jun 23 10:28:03 2019  error -9 reading relation 47074933
+Sun Jun 23 10:28:04 2019  error -15 reading relation 47297273
+Sun Jun 23 10:28:05 2019  error -9 reading relation 47469017
+Sun Jun 23 10:28:06 2019  error -15 reading relation 47488697
+Sun Jun 23 10:28:06 2019  error -9 reading relation 47503557
+Sun Jun 23 10:28:06 2019  error -9 reading relation 47504976
+Sun Jun 23 10:28:06 2019  error -9 reading relation 47590818
+Sun Jun 23 10:28:07 2019  error -9 reading relation 47706803
+Sun Jun 23 10:28:07 2019  error -5 reading relation 47749242
+Sun Jun 23 10:28:08 2019  error -15 reading relation 47859689
+Sun Jun 23 10:28:08 2019  error -5 reading relation 47886140
+Sun Jun 23 10:28:09 2019  error -9 reading relation 48004400
+Sun Jun 23 10:28:10 2019  error -5 reading relation 48143412
+Sun Jun 23 10:28:10 2019  error -15 reading relation 48254989
+Sun Jun 23 10:28:11 2019  error -1 reading relation 48296790
+Sun Jun 23 10:28:12 2019  error -15 reading relation 48499729
+Sun Jun 23 10:28:12 2019  error -1 reading relation 48502268
+Sun Jun 23 10:28:18 2019  error -9 reading relation 49365695
+Sun Jun 23 10:28:20 2019  error -9 reading relation 49769145
+Sun Jun 23 10:28:20 2019  error -15 reading relation 49784081
+Sun Jun 23 10:28:20 2019  error -15 reading relation 49793568
+Sun Jun 23 10:28:21 2019  error -15 reading relation 49853632
+Sun Jun 23 10:28:22 2019  error -9 reading relation 50039344
+Sun Jun 23 10:28:23 2019  error -1 reading relation 50194303
+Sun Jun 23 10:28:24 2019  error -1 reading relation 50336277
+Sun Jun 23 10:28:25 2019  error -9 reading relation 50454867
+Sun Jun 23 10:28:26 2019  error -9 reading relation 50714673
+Sun Jun 23 10:28:27 2019  error -9 reading relation 50840124
+Sun Jun 23 10:28:28 2019  error -9 reading relation 51028050
+Sun Jun 23 10:28:28 2019  error -15 reading relation 51031608
+Sun Jun 23 10:28:29 2019  error -1 reading relation 51150226
+Sun Jun 23 10:28:29 2019  error -9 reading relation 51155761
+Sun Jun 23 10:28:29 2019  error -9 reading relation 51192896
+Sun Jun 23 10:28:31 2019  error -9 reading relation 51366285
+Sun Jun 23 10:28:31 2019  error -5 reading relation 51385177
+Sun Jun 23 10:28:31 2019  error -9 reading relation 51425411
+Sun Jun 23 10:28:31 2019  error -9 reading relation 51426479
+Sun Jun 23 10:28:31 2019  error -15 reading relation 51436937
+Sun Jun 23 10:28:36 2019  error -9 reading relation 52294155
+Sun Jun 23 10:28:38 2019  error -9 reading relation 52522787
+Sun Jun 23 10:28:38 2019  error -9 reading relation 52522906
+Sun Jun 23 10:28:40 2019  error -9 reading relation 52810473
+Sun Jun 23 10:28:40 2019  error -9 reading relation 52905615
+Sun Jun 23 10:28:41 2019  error -15 reading relation 52958520
+Sun Jun 23 10:28:41 2019  error -15 reading relation 53006127
+Sun Jun 23 10:28:41 2019  error -9 reading relation 53021116
+Sun Jun 23 10:28:41 2019  error -9 reading relation 53054366
+Sun Jun 23 10:28:42 2019  error -9 reading relation 53168452
+Sun Jun 23 10:28:42 2019  error -15 reading relation 53169803
+Sun Jun 23 10:28:42 2019  error -9 reading relation 53184672
+Sun Jun 23 10:28:43 2019  error -5 reading relation 53237071
+Sun Jun 23 10:28:43 2019  error -9 reading relation 53327426
+Sun Jun 23 10:28:43 2019  error -9 reading relation 53367723
+Sun Jun 23 10:28:44 2019  error -9 reading relation 53397383
+Sun Jun 23 10:28:45 2019  error -9 reading relation 53632957
+Sun Jun 23 10:28:45 2019  error -15 reading relation 53637128
+Sun Jun 23 10:28:45 2019  error -15 reading relation 53639491
+Sun Jun 23 10:28:46 2019  error -1 reading relation 53714705
+Sun Jun 23 10:28:46 2019  error -9 reading relation 53737457
+Sun Jun 23 10:28:46 2019  error -15 reading relation 53796599
+Sun Jun 23 10:28:46 2019  error -15 reading relation 53828087
+Sun Jun 23 10:28:47 2019  error -1 reading relation 53908632
+Sun Jun 23 10:28:47 2019  error -9 reading relation 53912756
+Sun Jun 23 10:28:47 2019  error -9 reading relation 53915902
+Sun Jun 23 10:28:47 2019  error -15 reading relation 53916333
+Sun Jun 23 10:28:47 2019  error -9 reading relation 53957244
+Sun Jun 23 10:28:47 2019  error -15 reading relation 54002735
+Sun Jun 23 10:28:47 2019  error -5 reading relation 54012084
+Sun Jun 23 10:28:50 2019  error -5 reading relation 54322269
+Sun Jun 23 10:28:52 2019  error -1 reading relation 54704847
+Sun Jun 23 10:29:05 2019  skipped 103 relations with b > 2^32
+Sun Jun 23 10:29:05 2019  skipped 123 relations with composite factors
+Sun Jun 23 10:29:05 2019  found 9245023 hash collisions in 55925961 relations
+Sun Jun 23 10:29:14 2019  commencing duplicate removal, pass 2
+Sun Jun 23 10:29:35 2019  found 8413259 duplicates and 47512702 unique relations
+Sun Jun 23 10:29:35 2019  memory use: 330.4 MB
+Sun Jun 23 10:29:35 2019  reading ideals above 720000
+Sun Jun 23 10:29:35 2019  commencing singleton removal, initial pass
+Sun Jun 23 10:34:14 2019  memory use: 1378.0 MB
+Sun Jun 23 10:34:14 2019  reading all ideals from disk
+Sun Jun 23 10:34:15 2019  memory use: 1734.7 MB
+Sun Jun 23 10:34:18 2019  keeping 46393720 ideals with weight <= 200, target excess is 253773
+Sun Jun 23 10:34:21 2019  commencing in-memory singleton removal
+Sun Jun 23 10:34:23 2019  begin with 47512702 relations and 46393720 unique ideals
+Sun Jun 23 10:34:47 2019  reduce to 28630647 relations and 25322287 ideals in 14 passes
+Sun Jun 23 10:34:47 2019  max relations containing the same ideal: 152
+Sun Jun 23 10:34:56 2019  removing 2590754 relations and 2190754 ideals in 400000 cliques
+Sun Jun 23 10:34:56 2019  commencing in-memory singleton removal
+Sun Jun 23 10:34:58 2019  begin with 26039893 relations and 25322287 unique ideals
+Sun Jun 23 10:35:10 2019  reduce to 25844242 relations and 22932073 ideals in 9 passes
+Sun Jun 23 10:35:10 2019  max relations containing the same ideal: 144
+Sun Jun 23 10:35:18 2019  removing 1933582 relations and 1533582 ideals in 400000 cliques
+Sun Jun 23 10:35:19 2019  commencing in-memory singleton removal
+Sun Jun 23 10:35:20 2019  begin with 23910660 relations and 22932073 unique ideals
+Sun Jun 23 10:35:29 2019  reduce to 23802087 relations and 21288155 ideals in 7 passes
+Sun Jun 23 10:35:29 2019  max relations containing the same ideal: 137
+Sun Jun 23 10:35:36 2019  removing 1718154 relations and 1318154 ideals in 400000 cliques
+Sun Jun 23 10:35:37 2019  commencing in-memory singleton removal
+Sun Jun 23 10:35:38 2019  begin with 22083933 relations and 21288155 unique ideals
+Sun Jun 23 10:35:47 2019  reduce to 21996668 relations and 19881359 ideals in 8 passes
+Sun Jun 23 10:35:47 2019  max relations containing the same ideal: 129
+Sun Jun 23 10:35:54 2019  removing 1596257 relations and 1196257 ideals in 400000 cliques
+Sun Jun 23 10:35:54 2019  commencing in-memory singleton removal
+Sun Jun 23 10:35:55 2019  begin with 20400411 relations and 19881359 unique ideals
+Sun Jun 23 10:36:03 2019  reduce to 20322236 relations and 18605636 ideals in 7 passes
+Sun Jun 23 10:36:03 2019  max relations containing the same ideal: 121
+Sun Jun 23 10:36:09 2019  removing 1516158 relations and 1116158 ideals in 400000 cliques
+Sun Jun 23 10:36:09 2019  commencing in-memory singleton removal
+Sun Jun 23 10:36:10 2019  begin with 18806078 relations and 18605636 unique ideals
+Sun Jun 23 10:36:17 2019  reduce to 18730824 relations and 17412931 ideals in 7 passes
+Sun Jun 23 10:36:17 2019  max relations containing the same ideal: 115
+Sun Jun 23 10:36:23 2019  removing 1459065 relations and 1059065 ideals in 400000 cliques
+Sun Jun 23 10:36:23 2019  commencing in-memory singleton removal
+Sun Jun 23 10:36:24 2019  begin with 17271759 relations and 17412931 unique ideals
+Sun Jun 23 10:36:30 2019  reduce to 17197106 relations and 16277890 ideals in 6 passes
+Sun Jun 23 10:36:30 2019  max relations containing the same ideal: 108
+Sun Jun 23 10:36:35 2019  removing 1418532 relations and 1018532 ideals in 400000 cliques
+Sun Jun 23 10:36:35 2019  commencing in-memory singleton removal
+Sun Jun 23 10:36:36 2019  begin with 15778574 relations and 16277890 unique ideals
+Sun Jun 23 10:36:42 2019  reduce to 15701692 relations and 15181023 ideals in 7 passes
+Sun Jun 23 10:36:42 2019  max relations containing the same ideal: 99
+Sun Jun 23 10:36:47 2019  removing 866205 relations and 639913 ideals in 226292 cliques
+Sun Jun 23 10:36:47 2019  commencing in-memory singleton removal
+Sun Jun 23 10:36:48 2019  begin with 14835487 relations and 15181023 unique ideals
+Sun Jun 23 10:36:51 2019  reduce to 14804383 relations and 14509627 ideals in 5 passes
+Sun Jun 23 10:36:51 2019  max relations containing the same ideal: 96
+Sun Jun 23 10:36:57 2019  relations with 0 large ideals: 8308
+Sun Jun 23 10:36:57 2019  relations with 1 large ideals: 4781
+Sun Jun 23 10:36:57 2019  relations with 2 large ideals: 30338
+Sun Jun 23 10:36:57 2019  relations with 3 large ideals: 232311
+Sun Jun 23 10:36:57 2019  relations with 4 large ideals: 978936
+Sun Jun 23 10:36:57 2019  relations with 5 large ideals: 2448068
+Sun Jun 23 10:36:57 2019  relations with 6 large ideals: 3808568
+Sun Jun 23 10:36:57 2019  relations with 7+ large ideals: 7293073
+Sun Jun 23 10:36:57 2019  commencing 2-way merge
+Sun Jun 23 10:37:04 2019  reduce to 10327051 relation sets and 10032295 unique ideals
+Sun Jun 23 10:37:04 2019  commencing full merge
+Sun Jun 23 10:42:44 2019  memory use: 463.9 MB
+Sun Jun 23 10:42:44 2019  found 18892 cycles, need 2160473
+Sun Jun 23 10:42:44 2019  too few cycles, matrix probably cannot build
+Sun Jun 23 10:52:48 2019  
+Sun Jun 23 10:52:48 2019  
+Sun Jun 23 10:52:48 2019  Msieve v. 1.53 (SVN 1005)
+Sun Jun 23 10:52:48 2019  random seeds: 4724c694 5e5be41b
+Sun Jun 23 10:52:48 2019  factoring 3042637613896279111978107370543992674135556227495832479732209493025256363660533611965555169122769573164127270940369205314343662710753465255432804540143299365352310631 (166 digits)
+Sun Jun 23 10:52:48 2019  searching for 15-digit factors
+Sun Jun 23 10:52:48 2019  commencing number field sieve (166-digit input)
+Sun Jun 23 10:52:48 2019  R0: -20768949750785132794698281184657409
+Sun Jun 23 10:52:48 2019  R1: 1
+Sun Jun 23 10:52:48 2019  A0: 1
+Sun Jun 23 10:52:48 2019  A1: 0
+Sun Jun 23 10:52:48 2019  A2: 0
+Sun Jun 23 10:52:48 2019  A3: 0
+Sun Jun 23 10:52:48 2019  A4: 0
+Sun Jun 23 10:52:48 2019  A5: 0
+Sun Jun 23 10:52:48 2019  A6: 524287
+Sun Jun 23 10:52:48 2019  skew 0.15, size 4.876e-011, alpha 1.228, combined = 2.040e-012 rroots = 0
+Sun Jun 23 10:52:48 2019  
+Sun Jun 23 10:52:48 2019  commencing relation filtering
+Sun Jun 23 10:52:48 2019  setting target matrix density to 122.0
+Sun Jun 23 10:52:48 2019  estimated available RAM is 16116.3 MB
+Sun Jun 23 10:52:48 2019  commencing duplicate removal, pass 1
+Sun Jun 23 10:53:09 2019  error -9 reading relation 3237468
+Sun Jun 23 10:53:09 2019  error -5 reading relation 3237588
+Sun Jun 23 10:53:09 2019  error -15 reading relation 3243202
+Sun Jun 23 10:53:13 2019  error -15 reading relation 3990111
+Sun Jun 23 10:53:14 2019  error -1 reading relation 4102659
+Sun Jun 23 10:53:24 2019  error -9 reading relation 5673560
+Sun Jun 23 10:53:31 2019  error -15 reading relation 6862920
+Sun Jun 23 10:53:36 2019  error -1 reading relation 7555131
+Sun Jun 23 10:53:42 2019  error -5 reading relation 8533692
+Sun Jun 23 10:53:45 2019  error -1 reading relation 9158321
+Sun Jun 23 10:53:46 2019  error -5 reading relation 9296730
+Sun Jun 23 10:53:52 2019  error -9 reading relation 10259174
+Sun Jun 23 10:53:53 2019  error -9 reading relation 10418833
+Sun Jun 23 10:53:53 2019  error -9 reading relation 10424294
+Sun Jun 23 10:53:57 2019  error -9 reading relation 10987534
+Sun Jun 23 10:54:10 2019  error -9 reading relation 13133698
+Sun Jun 23 10:54:10 2019  error -9 reading relation 13139447
+Sun Jun 23 10:54:13 2019  error -9 reading relation 13612275
+Sun Jun 23 10:54:15 2019  error -15 reading relation 13974228
+Sun Jun 23 10:54:25 2019  error -9 reading relation 15486867
+Sun Jun 23 10:54:27 2019  error -9 reading relation 15835575
+Sun Jun 23 10:54:28 2019  error -15 reading relation 16007815
+Sun Jun 23 10:54:34 2019  error -15 reading relation 17029979
+Sun Jun 23 10:54:39 2019  error -9 reading relation 17812374
+Sun Jun 23 10:54:44 2019  error -5 reading relation 18673698
+Sun Jun 23 10:54:48 2019  error -9 reading relation 19262403
+Sun Jun 23 10:54:48 2019  error -1 reading relation 19262648
+Sun Jun 23 10:54:56 2019  error -9 reading relation 20469752
+Sun Jun 23 10:55:08 2019  error -15 reading relation 22358690
+Sun Jun 23 10:55:12 2019  error -1 reading relation 23123946
+Sun Jun 23 10:55:21 2019  error -9 reading relation 24379619
+Sun Jun 23 10:55:21 2019  error -9 reading relation 24446616
+Sun Jun 23 10:55:22 2019  error -15 reading relation 24679234
+Sun Jun 23 10:55:25 2019  error -15 reading relation 25007575
+Sun Jun 23 10:55:27 2019  error -9 reading relation 25315841
+Sun Jun 23 10:55:27 2019  error -9 reading relation 25456475
+Sun Jun 23 10:55:28 2019  error -15 reading relation 25474606
+Sun Jun 23 10:55:29 2019  error -15 reading relation 25630954
+Sun Jun 23 10:55:30 2019  error -15 reading relation 25781461
+Sun Jun 23 10:55:31 2019  error -9 reading relation 25929850
+Sun Jun 23 10:55:32 2019  error -15 reading relation 26210546
+Sun Jun 23 10:55:33 2019  error -9 reading relation 26288042
+Sun Jun 23 10:55:33 2019  error -1 reading relation 26344637
+Sun Jun 23 10:55:34 2019  error -9 reading relation 26416763
+Sun Jun 23 10:55:34 2019  error -15 reading relation 26452170
+Sun Jun 23 10:55:35 2019  error -15 reading relation 26565899
+Sun Jun 23 10:55:36 2019  error -1 reading relation 26824928
+Sun Jun 23 10:55:39 2019  error -5 reading relation 27214146
+Sun Jun 23 10:55:40 2019  error -9 reading relation 27484689
+Sun Jun 23 10:55:43 2019  error -5 reading relation 27906142
+Sun Jun 23 10:55:43 2019  error -9 reading relation 27912322
+Sun Jun 23 10:55:46 2019  error -9 reading relation 28324607
+Sun Jun 23 10:55:49 2019  error -9 reading relation 28747746
+Sun Jun 23 10:55:49 2019  error -1 reading relation 28799192
+Sun Jun 23 10:55:50 2019  error -5 reading relation 28910823
+Sun Jun 23 10:55:50 2019  error -15 reading relation 28982508
+Sun Jun 23 10:55:50 2019  error -9 reading relation 29024240
+Sun Jun 23 10:55:52 2019  error -9 reading relation 29213027
+Sun Jun 23 10:55:52 2019  error -9 reading relation 29292374
+Sun Jun 23 10:55:54 2019  error -9 reading relation 29514256
+Sun Jun 23 10:55:54 2019  error -15 reading relation 29608426
+Sun Jun 23 10:55:54 2019  error -9 reading relation 29620885
+Sun Jun 23 10:55:55 2019  error -9 reading relation 29755687
+Sun Jun 23 10:55:58 2019  error -15 reading relation 30139622
+Sun Jun 23 10:55:58 2019  error -9 reading relation 30200207
+Sun Jun 23 10:55:59 2019  error -15 reading relation 30372515
+Sun Jun 23 10:55:59 2019  error -5 reading relation 30422970
+Sun Jun 23 10:56:00 2019  error -15 reading relation 30530641
+Sun Jun 23 10:56:00 2019  error -9 reading relation 30564470
+Sun Jun 23 10:56:01 2019  error -9 reading relation 30713012
+Sun Jun 23 10:56:02 2019  error -9 reading relation 30749484
+Sun Jun 23 10:56:03 2019  error -9 reading relation 30955664
+Sun Jun 23 10:56:04 2019  error -9 reading relation 31083140
+Sun Jun 23 10:56:04 2019  error -1 reading relation 31087762
+Sun Jun 23 10:56:04 2019  error -15 reading relation 31137320
+Sun Jun 23 10:56:05 2019  error -15 reading relation 31228588
+Sun Jun 23 10:56:06 2019  error -15 reading relation 31451781
+Sun Jun 23 10:56:06 2019  error -9 reading relation 31458552
+Sun Jun 23 10:56:07 2019  error -1 reading relation 31610372
+Sun Jun 23 10:56:07 2019  error -5 reading relation 31629886
+Sun Jun 23 10:56:08 2019  error -15 reading relation 31765563
+Sun Jun 23 10:56:10 2019  error -1 reading relation 32029282
+Sun Jun 23 10:56:13 2019  error -15 reading relation 32477395
+Sun Jun 23 10:56:15 2019  error -9 reading relation 32786430
+Sun Jun 23 10:56:17 2019  error -9 reading relation 33099539
+Sun Jun 23 10:56:19 2019  error -15 reading relation 33408245
+Sun Jun 23 10:56:19 2019  error -5 reading relation 33435050
+Sun Jun 23 10:56:20 2019  error -15 reading relation 33540292
+Sun Jun 23 10:56:21 2019  error -15 reading relation 33667099
+Sun Jun 23 10:56:21 2019  error -9 reading relation 33740828
+Sun Jun 23 10:56:21 2019  error -15 reading relation 33741541
+Sun Jun 23 10:56:21 2019  error -15 reading relation 33743330
+Sun Jun 23 10:56:21 2019  error -9 reading relation 33747332
+Sun Jun 23 10:56:21 2019  error -9 reading relation 33778413
+Sun Jun 23 10:56:23 2019  error -1 reading relation 34104766
+Sun Jun 23 10:56:25 2019  error -15 reading relation 34357763
+Sun Jun 23 10:56:25 2019  error -5 reading relation 34363517
+Sun Jun 23 10:56:27 2019  error -9 reading relation 34734199
+Sun Jun 23 10:56:28 2019  error -1 reading relation 34762353
+Sun Jun 23 10:56:29 2019  error -15 reading relation 35045421
+Sun Jun 23 10:56:30 2019  error -15 reading relation 35168836
+Sun Jun 23 10:56:30 2019  error -1 reading relation 35170385
+Sun Jun 23 10:56:36 2019  error -9 reading relation 35995341
+Sun Jun 23 10:56:38 2019  error -15 reading relation 36298348
+Sun Jun 23 10:56:38 2019  error -9 reading relation 36444277
+Sun Jun 23 10:56:39 2019  error -9 reading relation 36472992
+Sun Jun 23 10:56:39 2019  error -15 reading relation 36591544
+Sun Jun 23 10:56:41 2019  error -9 reading relation 36853605
+Sun Jun 23 10:56:41 2019  error -1 reading relation 36855112
+Sun Jun 23 10:56:44 2019  error -9 reading relation 37285927
+Sun Jun 23 10:56:45 2019  error -9 reading relation 37514356
+Sun Jun 23 10:56:47 2019  error -9 reading relation 37726284
+Sun Jun 23 10:56:47 2019  error -15 reading relation 37788630
+Sun Jun 23 10:56:48 2019  error -15 reading relation 37999685
+Sun Jun 23 10:56:50 2019  error -15 reading relation 38292461
+Sun Jun 23 10:56:53 2019  error -15 reading relation 38694939
+Sun Jun 23 10:56:55 2019  error -9 reading relation 38952107
+Sun Jun 23 10:56:56 2019  error -9 reading relation 39203479
+Sun Jun 23 10:56:57 2019  error -9 reading relation 39308080
+Sun Jun 23 10:56:57 2019  error -1 reading relation 39313201
+Sun Jun 23 10:56:57 2019  error -15 reading relation 39354029
+Sun Jun 23 10:56:57 2019  error -15 reading relation 39390793
+Sun Jun 23 10:57:01 2019  error -1 reading relation 40014571
+Sun Jun 23 10:57:02 2019  error -9 reading relation 40081551
+Sun Jun 23 10:57:03 2019  error -9 reading relation 40223083
+Sun Jun 23 10:57:03 2019  error -1 reading relation 40257871
+Sun Jun 23 10:57:03 2019  error -1 reading relation 40265575
+Sun Jun 23 10:57:03 2019  error -9 reading relation 40269642
+Sun Jun 23 10:57:03 2019  error -1 reading relation 40275083
+Sun Jun 23 10:57:03 2019  error -15 reading relation 40283235
+Sun Jun 23 10:57:06 2019  error -15 reading relation 40764902
+Sun Jun 23 10:57:08 2019  error -5 reading relation 41035023
+Sun Jun 23 10:57:14 2019  error -15 reading relation 41973020
+Sun Jun 23 10:57:15 2019  error -15 reading relation 42169375
+Sun Jun 23 10:57:17 2019  error -15 reading relation 42433388
+Sun Jun 23 10:57:17 2019  error -15 reading relation 42471259
+Sun Jun 23 10:57:19 2019  error -15 reading relation 42750025
+Sun Jun 23 10:57:19 2019  error -1 reading relation 42757971
+Sun Jun 23 10:57:20 2019  error -9 reading relation 42920149
+Sun Jun 23 10:57:22 2019  error -9 reading relation 43151324
+Sun Jun 23 10:57:23 2019  error -15 reading relation 43313793
+Sun Jun 23 10:57:29 2019  error -9 reading relation 44241465
+Sun Jun 23 10:57:29 2019  error -15 reading relation 44340609
+Sun Jun 23 10:57:29 2019  error -15 reading relation 44340766
+Sun Jun 23 10:57:30 2019  error -1 reading relation 44436086
+Sun Jun 23 10:57:31 2019  error -9 reading relation 44589531
+Sun Jun 23 10:57:33 2019  error -5 reading relation 44903851
+Sun Jun 23 10:57:39 2019  error -9 reading relation 45870872
+Sun Jun 23 10:57:40 2019  error -9 reading relation 45982020
+Sun Jun 23 10:57:47 2019  error -9 reading relation 47074933
+Sun Jun 23 10:57:49 2019  error -15 reading relation 47297273
+Sun Jun 23 10:57:50 2019  error -9 reading relation 47469017
+Sun Jun 23 10:57:50 2019  error -15 reading relation 47488697
+Sun Jun 23 10:57:50 2019  error -9 reading relation 47503557
+Sun Jun 23 10:57:50 2019  error -9 reading relation 47504976
+Sun Jun 23 10:57:50 2019  error -9 reading relation 47590818
+Sun Jun 23 10:57:51 2019  error -9 reading relation 47706803
+Sun Jun 23 10:57:51 2019  error -5 reading relation 47749242
+Sun Jun 23 10:57:52 2019  error -15 reading relation 47859689
+Sun Jun 23 10:57:52 2019  error -5 reading relation 47886140
+Sun Jun 23 10:57:53 2019  error -9 reading relation 48004400
+Sun Jun 23 10:57:54 2019  error -5 reading relation 48143412
+Sun Jun 23 10:57:55 2019  error -15 reading relation 48254989
+Sun Jun 23 10:57:55 2019  error -1 reading relation 48296790
+Sun Jun 23 10:57:56 2019  error -15 reading relation 48499729
+Sun Jun 23 10:57:56 2019  error -1 reading relation 48502268
+Sun Jun 23 10:58:02 2019  error -9 reading relation 49365695
+Sun Jun 23 10:58:04 2019  error -9 reading relation 49769145
+Sun Jun 23 10:58:05 2019  error -15 reading relation 49784081
+Sun Jun 23 10:58:05 2019  error -15 reading relation 49793568
+Sun Jun 23 10:58:05 2019  error -15 reading relation 49853632
+Sun Jun 23 10:58:06 2019  error -9 reading relation 50039344
+Sun Jun 23 10:58:07 2019  error -1 reading relation 50194303
+Sun Jun 23 10:58:08 2019  error -1 reading relation 50336277
+Sun Jun 23 10:58:09 2019  error -9 reading relation 50454867
+Sun Jun 23 10:58:11 2019  error -9 reading relation 50714673
+Sun Jun 23 10:58:11 2019  error -9 reading relation 50840124
+Sun Jun 23 10:58:13 2019  error -9 reading relation 51028050
+Sun Jun 23 10:58:13 2019  error -15 reading relation 51031608
+Sun Jun 23 10:58:13 2019  error -1 reading relation 51150226
+Sun Jun 23 10:58:13 2019  error -9 reading relation 51155761
+Sun Jun 23 10:58:14 2019  error -9 reading relation 51192896
+Sun Jun 23 10:58:15 2019  error -9 reading relation 51366285
+Sun Jun 23 10:58:15 2019  error -5 reading relation 51385177
+Sun Jun 23 10:58:15 2019  error -9 reading relation 51425411
+Sun Jun 23 10:58:15 2019  error -9 reading relation 51426479
+Sun Jun 23 10:58:15 2019  error -15 reading relation 51436937
+Sun Jun 23 10:58:21 2019  error -9 reading relation 52294155
+Sun Jun 23 10:58:22 2019  error -9 reading relation 52522787
+Sun Jun 23 10:58:22 2019  error -9 reading relation 52522906
+Sun Jun 23 10:58:24 2019  error -9 reading relation 52810473
+Sun Jun 23 10:58:25 2019  error -9 reading relation 52905615
+Sun Jun 23 10:58:25 2019  error -15 reading relation 52958520
+Sun Jun 23 10:58:25 2019  error -15 reading relation 53006127
+Sun Jun 23 10:58:25 2019  error -9 reading relation 53021116
+Sun Jun 23 10:58:26 2019  error -9 reading relation 53054366
+Sun Jun 23 10:58:26 2019  error -9 reading relation 53168452
+Sun Jun 23 10:58:26 2019  error -15 reading relation 53169803
+Sun Jun 23 10:58:26 2019  error -9 reading relation 53184672
+Sun Jun 23 10:58:27 2019  error -5 reading relation 53237071
+Sun Jun 23 10:58:27 2019  error -9 reading relation 53327426
+Sun Jun 23 10:58:28 2019  error -9 reading relation 53367723
+Sun Jun 23 10:58:28 2019  error -9 reading relation 53397383
+Sun Jun 23 10:58:29 2019  error -9 reading relation 53632957
+Sun Jun 23 10:58:29 2019  error -15 reading relation 53637128
+Sun Jun 23 10:58:29 2019  error -15 reading relation 53639491
+Sun Jun 23 10:58:30 2019  error -1 reading relation 53714705
+Sun Jun 23 10:58:30 2019  error -9 reading relation 53737457
+Sun Jun 23 10:58:30 2019  error -15 reading relation 53796599
+Sun Jun 23 10:58:31 2019  error -15 reading relation 53828087
+Sun Jun 23 10:58:31 2019  error -1 reading relation 53908632
+Sun Jun 23 10:58:31 2019  error -9 reading relation 53912756
+Sun Jun 23 10:58:31 2019  error -9 reading relation 53915902
+Sun Jun 23 10:58:31 2019  error -15 reading relation 53916333
+Sun Jun 23 10:58:31 2019  error -9 reading relation 53957244
+Sun Jun 23 10:58:32 2019  error -15 reading relation 54002735
+Sun Jun 23 10:58:32 2019  error -5 reading relation 54012084
+Sun Jun 23 10:58:34 2019  error -5 reading relation 54322269
+Sun Jun 23 10:58:36 2019  error -1 reading relation 54704847
+Sun Jun 23 10:58:49 2019  skipped 103 relations with b > 2^32
+Sun Jun 23 10:58:49 2019  skipped 123 relations with composite factors
+Sun Jun 23 10:58:49 2019  found 9245023 hash collisions in 55925961 relations
+Sun Jun 23 10:58:58 2019  commencing duplicate removal, pass 2
+Sun Jun 23 10:59:20 2019  found 8413259 duplicates and 47512702 unique relations
+Sun Jun 23 10:59:20 2019  memory use: 330.4 MB
+Sun Jun 23 10:59:20 2019  reading ideals above 720000
+Sun Jun 23 10:59:20 2019  commencing singleton removal, initial pass
+Sun Jun 23 11:03:58 2019  memory use: 1378.0 MB
+Sun Jun 23 11:03:58 2019  reading all ideals from disk
+Sun Jun 23 11:03:59 2019  memory use: 1734.7 MB
+Sun Jun 23 11:04:02 2019  keeping 46393720 ideals with weight <= 200, target excess is 253773
+Sun Jun 23 11:04:05 2019  commencing in-memory singleton removal
+Sun Jun 23 11:04:07 2019  begin with 47512702 relations and 46393720 unique ideals
+Sun Jun 23 11:04:31 2019  reduce to 28630647 relations and 25322287 ideals in 14 passes
+Sun Jun 23 11:04:31 2019  max relations containing the same ideal: 152
+Sun Jun 23 11:04:40 2019  removing 2590754 relations and 2190754 ideals in 400000 cliques
+Sun Jun 23 11:04:40 2019  commencing in-memory singleton removal
+Sun Jun 23 11:04:42 2019  begin with 26039893 relations and 25322287 unique ideals
+Sun Jun 23 11:04:55 2019  reduce to 25844242 relations and 22932073 ideals in 9 passes
+Sun Jun 23 11:04:55 2019  max relations containing the same ideal: 144
+Sun Jun 23 11:05:03 2019  removing 1933582 relations and 1533582 ideals in 400000 cliques
+Sun Jun 23 11:05:03 2019  commencing in-memory singleton removal
+Sun Jun 23 11:05:04 2019  begin with 23910660 relations and 22932073 unique ideals
+Sun Jun 23 11:05:13 2019  reduce to 23802087 relations and 21288155 ideals in 7 passes
+Sun Jun 23 11:05:13 2019  max relations containing the same ideal: 137
+Sun Jun 23 11:05:20 2019  removing 1718154 relations and 1318154 ideals in 400000 cliques
+Sun Jun 23 11:05:21 2019  commencing in-memory singleton removal
+Sun Jun 23 11:05:22 2019  begin with 22083933 relations and 21288155 unique ideals
+Sun Jun 23 11:05:31 2019  reduce to 21996668 relations and 19881359 ideals in 8 passes
+Sun Jun 23 11:05:31 2019  max relations containing the same ideal: 129
+Sun Jun 23 11:05:38 2019  removing 1596257 relations and 1196257 ideals in 400000 cliques
+Sun Jun 23 11:05:38 2019  commencing in-memory singleton removal
+Sun Jun 23 11:05:39 2019  begin with 20400411 relations and 19881359 unique ideals
+Sun Jun 23 11:05:47 2019  reduce to 20322236 relations and 18605636 ideals in 7 passes
+Sun Jun 23 11:05:47 2019  max relations containing the same ideal: 121
+Sun Jun 23 11:05:53 2019  removing 1516158 relations and 1116158 ideals in 400000 cliques
+Sun Jun 23 11:05:54 2019  commencing in-memory singleton removal
+Sun Jun 23 11:05:55 2019  begin with 18806078 relations and 18605636 unique ideals
+Sun Jun 23 11:06:01 2019  reduce to 18730824 relations and 17412931 ideals in 7 passes
+Sun Jun 23 11:06:01 2019  max relations containing the same ideal: 115
+Sun Jun 23 11:06:07 2019  removing 1459065 relations and 1059065 ideals in 400000 cliques
+Sun Jun 23 11:06:07 2019  commencing in-memory singleton removal
+Sun Jun 23 11:06:08 2019  begin with 17271759 relations and 17412931 unique ideals
+Sun Jun 23 11:06:14 2019  reduce to 17197106 relations and 16277890 ideals in 6 passes
+Sun Jun 23 11:06:14 2019  max relations containing the same ideal: 108
+Sun Jun 23 11:06:19 2019  removing 1418532 relations and 1018532 ideals in 400000 cliques
+Sun Jun 23 11:06:19 2019  commencing in-memory singleton removal
+Sun Jun 23 11:06:20 2019  begin with 15778574 relations and 16277890 unique ideals
+Sun Jun 23 11:06:26 2019  reduce to 15701692 relations and 15181023 ideals in 7 passes
+Sun Jun 23 11:06:26 2019  max relations containing the same ideal: 99
+Sun Jun 23 11:06:31 2019  removing 866205 relations and 639913 ideals in 226292 cliques
+Sun Jun 23 11:06:31 2019  commencing in-memory singleton removal
+Sun Jun 23 11:06:32 2019  begin with 14835487 relations and 15181023 unique ideals
+Sun Jun 23 11:06:35 2019  reduce to 14804383 relations and 14509627 ideals in 5 passes
+Sun Jun 23 11:06:35 2019  max relations containing the same ideal: 96
+Sun Jun 23 11:06:41 2019  relations with 0 large ideals: 8308
+Sun Jun 23 11:06:41 2019  relations with 1 large ideals: 4781
+Sun Jun 23 11:06:41 2019  relations with 2 large ideals: 30338
+Sun Jun 23 11:06:41 2019  relations with 3 large ideals: 232311
+Sun Jun 23 11:06:41 2019  relations with 4 large ideals: 978936
+Sun Jun 23 11:06:41 2019  relations with 5 large ideals: 2448068
+Sun Jun 23 11:06:41 2019  relations with 6 large ideals: 3808568
+Sun Jun 23 11:06:41 2019  relations with 7+ large ideals: 7293073
+Sun Jun 23 11:06:41 2019  commencing 2-way merge
+Sun Jun 23 11:06:48 2019  reduce to 10327051 relation sets and 10032295 unique ideals
+Sun Jun 23 11:06:48 2019  commencing full merge
+Sun Jun 23 11:09:49 2019  memory use: 1324.8 MB
+Sun Jun 23 11:09:51 2019  found 4571028 cycles, need 4564495
+Sun Jun 23 11:09:51 2019  weight of 4564495 cycles is about 556922709 (122.01/cycle)
+Sun Jun 23 11:09:51 2019  distribution of cycle lengths:
+Sun Jun 23 11:09:51 2019  1 relations: 97842
+Sun Jun 23 11:09:51 2019  2 relations: 229798
+Sun Jun 23 11:09:51 2019  3 relations: 306316
+Sun Jun 23 11:09:51 2019  4 relations: 334504
+Sun Jun 23 11:09:51 2019  5 relations: 352030
+Sun Jun 23 11:09:51 2019  6 relations: 349031
+Sun Jun 23 11:09:51 2019  7 relations: 338735
+Sun Jun 23 11:09:51 2019  8 relations: 322439
+Sun Jun 23 11:09:51 2019  9 relations: 301646
+Sun Jun 23 11:09:51 2019  10+ relations: 1932154
+Sun Jun 23 11:09:51 2019  heaviest cycle: 28 relations
+Sun Jun 23 11:09:53 2019  commencing cycle optimization
+Sun Jun 23 11:09:59 2019  start with 42435599 relations
+Sun Jun 23 11:11:23 2019  pruned 2169868 relations
+Sun Jun 23 11:11:23 2019  memory use: 1059.2 MB
+Sun Jun 23 11:11:23 2019  distribution of cycle lengths:
+Sun Jun 23 11:11:23 2019  1 relations: 97842
+Sun Jun 23 11:11:23 2019  2 relations: 236607
+Sun Jun 23 11:11:23 2019  3 relations: 321820
+Sun Jun 23 11:11:23 2019  4 relations: 351403
+Sun Jun 23 11:11:23 2019  5 relations: 373081
+Sun Jun 23 11:11:23 2019  6 relations: 368492
+Sun Jun 23 11:11:23 2019  7 relations: 358381
+Sun Jun 23 11:11:23 2019  8 relations: 339016
+Sun Jun 23 11:11:23 2019  9 relations: 315943
+Sun Jun 23 11:11:23 2019  10+ relations: 1801910
+Sun Jun 23 11:11:23 2019  heaviest cycle: 28 relations
+Sun Jun 23 11:11:28 2019  RelProcTime: 1120
+Sun Jun 23 11:11:28 2019  elapsed time 00:18:40
+Sun Jun 23 11:24:09 2019  
+Sun Jun 23 11:24:09 2019  
+Sun Jun 23 11:24:09 2019  Msieve v. 1.53 (SVN 1005)
+Sun Jun 23 11:24:09 2019  random seeds: 8c3e838c 8572858d
+Sun Jun 23 11:24:09 2019  factoring 3042637613896279111978107370543992674135556227495832479732209493025256363660533611965555169122769573164127270940369205314343662710753465255432804540143299365352310631 (166 digits)
+Sun Jun 23 11:24:09 2019  searching for 15-digit factors
+Sun Jun 23 11:24:10 2019  commencing number field sieve (166-digit input)
+Sun Jun 23 11:24:10 2019  R0: -20768949750785132794698281184657409
+Sun Jun 23 11:24:10 2019  R1: 1
+Sun Jun 23 11:24:10 2019  A0: 1
+Sun Jun 23 11:24:10 2019  A1: 0
+Sun Jun 23 11:24:10 2019  A2: 0
+Sun Jun 23 11:24:10 2019  A3: 0
+Sun Jun 23 11:24:10 2019  A4: 0
+Sun Jun 23 11:24:10 2019  A5: 0
+Sun Jun 23 11:24:10 2019  A6: 524287
+Sun Jun 23 11:24:10 2019  skew 0.15, size 4.876e-011, alpha 1.228, combined = 2.040e-012 rroots = 0
+Sun Jun 23 11:24:10 2019  
+Sun Jun 23 11:24:10 2019  commencing linear algebra
+Sun Jun 23 11:24:10 2019  read 4564495 cycles
+Sun Jun 23 11:24:18 2019  cycles contain 14664759 unique relations
+Sun Jun 23 11:25:23 2019  read 14664759 relations
+Sun Jun 23 11:25:43 2019  using 20 quadratic characters above 4294917295
+Sun Jun 23 11:26:38 2019  building initial matrix
+Sun Jun 23 11:29:10 2019  memory use: 1881.8 MB
+Sun Jun 23 11:29:13 2019  read 4564495 cycles
+Sun Jun 23 11:29:14 2019  matrix is 4564318 x 4564495 (2155.4 MB) with weight 619530375 (135.73/col)
+Sun Jun 23 11:29:14 2019  sparse part has weight 514808801 (112.79/col)
+Sun Jun 23 11:29:51 2019  filtering completed in 2 passes
+Sun Jun 23 11:29:52 2019  matrix is 4564296 x 4564473 (2155.4 MB) with weight 619529701 (135.73/col)
+Sun Jun 23 11:29:52 2019  sparse part has weight 514808607 (112.79/col)
+Sun Jun 23 11:30:02 2019  matrix starts at (0, 0)
+Sun Jun 23 11:30:02 2019  matrix is 4564296 x 4564473 (2155.4 MB) with weight 619529701 (135.73/col)
+Sun Jun 23 11:30:02 2019  sparse part has weight 514808607 (112.79/col)
+Sun Jun 23 11:30:02 2019  saving the first 48 matrix rows for later
+Sun Jun 23 11:30:03 2019  matrix includes 64 packed rows
+Sun Jun 23 11:30:04 2019  matrix is 4564248 x 4564473 (2066.4 MB) with weight 532782063 (116.72/col)
+Sun Jun 23 11:30:04 2019  sparse part has weight 496053944 (108.68/col)
+Sun Jun 23 11:30:04 2019  using block size 8192 and superblock size 884736 for processor cache size 9216 kB
+Sun Jun 23 11:30:24 2019  commencing Lanczos iteration (12 threads)
+Sun Jun 23 11:30:24 2019  memory use: 1731.3 MB
+Sun Jun 23 11:30:32 2019  linear algebra at 0.0%, ETA 6h40m
+Sun Jun 23 11:30:35 2019  checkpointing every 670000 dimensions
+Sun Jun 23 20:01:20 2019  lanczos halted after 72178 iterations (dim = 4564243)
+Sun Jun 23 20:01:23 2019  recovered 35 nontrivial dependencies
+Sun Jun 23 20:01:24 2019  BLanczosTime: 31034
+Sun Jun 23 20:01:24 2019  elapsed time 08:37:15
+Sun Jun 23 20:01:54 2019  
+Sun Jun 23 20:01:54 2019  
+Sun Jun 23 20:01:54 2019  Msieve v. 1.53 (SVN 1005)
+Sun Jun 23 20:01:54 2019  random seeds: 18e4f770 b4be0fe8
+Sun Jun 23 20:01:54 2019  factoring 3042637613896279111978107370543992674135556227495832479732209493025256363660533611965555169122769573164127270940369205314343662710753465255432804540143299365352310631 (166 digits)
+Sun Jun 23 20:01:54 2019  searching for 15-digit factors
+Sun Jun 23 20:01:54 2019  commencing number field sieve (166-digit input)
+Sun Jun 23 20:01:54 2019  R0: -20768949750785132794698281184657409
+Sun Jun 23 20:01:54 2019  R1: 1
+Sun Jun 23 20:01:54 2019  A0: 1
+Sun Jun 23 20:01:54 2019  A1: 0
+Sun Jun 23 20:01:54 2019  A2: 0
+Sun Jun 23 20:01:54 2019  A3: 0
+Sun Jun 23 20:01:54 2019  A4: 0
+Sun Jun 23 20:01:54 2019  A5: 0
+Sun Jun 23 20:01:54 2019  A6: 524287
+Sun Jun 23 20:01:54 2019  skew 0.15, size 4.876e-011, alpha 1.228, combined = 2.040e-012 rroots = 0
+Sun Jun 23 20:01:54 2019  
+Sun Jun 23 20:01:54 2019  commencing square root phase
+Sun Jun 23 20:01:54 2019  reading relations for dependency 1
+Sun Jun 23 20:01:55 2019  read 2283057 cycles
+Sun Jun 23 20:01:58 2019  cycles contain 7334848 unique relations
+Sun Jun 23 20:02:34 2019  read 7334848 relations
+Sun Jun 23 20:03:00 2019  multiplying 7334848 relations
+Sun Jun 23 20:08:57 2019  multiply complete, coefficients have about 307.32 million bits
+Sun Jun 23 20:08:57 2019  initial square root is modulo 326941
+Sun Jun 23 20:15:31 2019  GCD is N, no factor found
+Sun Jun 23 20:15:31 2019  reading relations for dependency 2
+Sun Jun 23 20:15:31 2019  read 2284311 cycles
+Sun Jun 23 20:15:35 2019  cycles contain 7337294 unique relations
+Sun Jun 23 20:16:10 2019  read 7337294 relations
+Sun Jun 23 20:16:37 2019  multiplying 7337294 relations
+Sun Jun 23 20:22:32 2019  multiply complete, coefficients have about 307.43 million bits
+Sun Jun 23 20:22:32 2019  initial square root is modulo 328411
+Sun Jun 23 20:29:07 2019  sqrtTime: 1633
+Sun Jun 23 20:29:07 2019  p54 factor: 387184084614656438987154506853071394996491008532723507
+Sun Jun 23 20:29:07 2019  p112 factor: 7858374697721506817025694875934862172411858587345378675715373341089477652165751964689422482397011529641725140733
+Sun Jun 23 20:29:07 2019  elapsed time 00:27:13
