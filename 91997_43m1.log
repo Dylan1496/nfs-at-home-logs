@@ -1,0 +1,462 @@
+Sun Sep 06 09:33:50 2020  
+Sun Sep 06 09:33:50 2020  
+Sun Sep 06 09:33:50 2020  Msieve v. 1.53 (SVN 1005)
+Sun Sep 06 09:33:50 2020  random seeds: 0f8a5718 0d393d49
+Sun Sep 06 09:33:50 2020  factoring 30095299175077403548045998888499589746987705915701236321455228679546363516064178374571700801510444165628613317596485938620376015936537760979050393355294532376789572636274339989243637798508357507839862196929407 (209 digits)
+Sun Sep 06 09:33:51 2020  searching for 15-digit factors
+Sun Sep 06 09:33:51 2020  commencing number field sieve (209-digit input)
+Sun Sep 06 09:33:51 2020  R0: 55771927914216157920817288677473813
+Sun Sep 06 09:33:51 2020  R1: -1
+Sun Sep 06 09:33:51 2020  A0: -1
+Sun Sep 06 09:33:51 2020  A1: 0
+Sun Sep 06 09:33:51 2020  A2: 0
+Sun Sep 06 09:33:51 2020  A3: 0
+Sun Sep 06 09:33:51 2020  A4: 0
+Sun Sep 06 09:33:51 2020  A5: 0
+Sun Sep 06 09:33:51 2020  A6: 91997
+Sun Sep 06 09:33:51 2020  skew 0.15, size 5.842e-011, alpha 0.978, combined = 2.295e-012 rroots = 2
+Sun Sep 06 09:33:51 2020  
+Sun Sep 06 09:33:51 2020  commencing relation filtering
+Sun Sep 06 09:33:51 2020  setting target matrix density to 130.0
+Sun Sep 06 09:33:51 2020  estimated available RAM is 16141.3 MB
+Sun Sep 06 09:33:51 2020  commencing duplicate removal, pass 1
+Sun Sep 06 09:34:30 2020  error -9 reading relation 5955181
+Sun Sep 06 09:34:41 2020  error -1 reading relation 7557847
+Sun Sep 06 09:35:16 2020  error -9 reading relation 12916213
+Sun Sep 06 09:36:35 2020  error -15 reading relation 24851275
+Sun Sep 06 09:37:11 2020  error -9 reading relation 30386627
+Sun Sep 06 09:37:21 2020  error -9 reading relation 31860719
+Sun Sep 06 09:37:26 2020  error -9 reading relation 32638352
+Sun Sep 06 09:37:28 2020  error -9 reading relation 32919056
+Sun Sep 06 09:37:35 2020  error -9 reading relation 33960079
+Sun Sep 06 09:37:39 2020  error -9 reading relation 34529762
+Sun Sep 06 09:37:42 2020  error -9 reading relation 35079844
+Sun Sep 06 09:37:50 2020  error -9 reading relation 36234670
+Sun Sep 06 09:37:56 2020  error -5 reading relation 37146355
+Sun Sep 06 09:37:56 2020  error -9 reading relation 37166603
+Sun Sep 06 09:37:57 2020  error -1 reading relation 37303992
+Sun Sep 06 09:38:05 2020  error -15 reading relation 38517915
+Sun Sep 06 09:38:07 2020  error -1 reading relation 38815143
+Sun Sep 06 09:38:08 2020  error -9 reading relation 38899726
+Sun Sep 06 09:38:14 2020  error -9 reading relation 39866403
+Sun Sep 06 09:38:14 2020  error -5 reading relation 39893453
+Sun Sep 06 09:38:19 2020  error -15 reading relation 40530101
+Sun Sep 06 09:38:20 2020  error -9 reading relation 40779034
+Sun Sep 06 09:38:24 2020  error -9 reading relation 41261358
+Sun Sep 06 09:38:26 2020  error -15 reading relation 41572090
+Sun Sep 06 09:38:26 2020  error -15 reading relation 41692644
+Sun Sep 06 09:38:27 2020  error -9 reading relation 41758172
+Sun Sep 06 09:38:30 2020  error -1 reading relation 42282186
+Sun Sep 06 09:38:30 2020  error -9 reading relation 42284916
+Sun Sep 06 09:38:34 2020  error -15 reading relation 42898913
+Sun Sep 06 09:38:36 2020  error -9 reading relation 43085984
+Sun Sep 06 09:38:37 2020  error -15 reading relation 43353933
+Sun Sep 06 09:38:38 2020  error -15 reading relation 43454272
+Sun Sep 06 09:38:39 2020  error -9 reading relation 43560028
+Sun Sep 06 09:38:39 2020  error -15 reading relation 43562460
+Sun Sep 06 09:38:42 2020  error -9 reading relation 44002837
+Sun Sep 06 09:38:46 2020  error -9 reading relation 44647793
+Sun Sep 06 09:38:47 2020  error -9 reading relation 44764848
+Sun Sep 06 09:38:47 2020  error -9 reading relation 44818792
+Sun Sep 06 09:38:48 2020  error -1 reading relation 44874292
+Sun Sep 06 09:38:50 2020  error -9 reading relation 45180121
+Sun Sep 06 09:38:50 2020  error -9 reading relation 45196720
+Sun Sep 06 09:38:50 2020  error -9 reading relation 45228926
+Sun Sep 06 09:38:52 2020  error -5 reading relation 45586997
+Sun Sep 06 09:38:58 2020  error -1 reading relation 46450441
+Sun Sep 06 09:38:59 2020  error -1 reading relation 46587067
+Sun Sep 06 09:38:59 2020  error -15 reading relation 46587640
+Sun Sep 06 09:38:59 2020  error -15 reading relation 46605849
+Sun Sep 06 09:39:00 2020  error -1 reading relation 46693658
+Sun Sep 06 09:39:00 2020  error -1 reading relation 46762183
+Sun Sep 06 09:39:04 2020  error -5 reading relation 47330406
+Sun Sep 06 09:39:08 2020  error -15 reading relation 47959307
+Sun Sep 06 09:39:08 2020  error -9 reading relation 47962110
+Sun Sep 06 09:39:12 2020  error -1 reading relation 48615525
+Sun Sep 06 09:39:14 2020  error -15 reading relation 48825266
+Sun Sep 06 09:39:17 2020  error -1 reading relation 49301872
+Sun Sep 06 09:39:20 2020  error -9 reading relation 49753752
+Sun Sep 06 09:39:22 2020  error -15 reading relation 50103094
+Sun Sep 06 09:39:22 2020  error -15 reading relation 50109076
+Sun Sep 06 09:39:26 2020  error -5 reading relation 50643048
+Sun Sep 06 09:39:28 2020  error -9 reading relation 50930804
+Sun Sep 06 09:39:29 2020  error -9 reading relation 51138360
+Sun Sep 06 09:39:34 2020  error -15 reading relation 51802285
+Sun Sep 06 09:39:41 2020  error -15 reading relation 52931724
+Sun Sep 06 09:39:44 2020  error -1 reading relation 53380838
+Sun Sep 06 09:39:46 2020  error -15 reading relation 53653258
+Sun Sep 06 09:39:48 2020  error -5 reading relation 53943143
+Sun Sep 06 09:39:56 2020  error -9 reading relation 55200408
+Sun Sep 06 09:40:04 2020  error -5 reading relation 56369564
+Sun Sep 06 09:40:06 2020  error -9 reading relation 56543477
+Sun Sep 06 09:40:11 2020  error -5 reading relation 57380889
+Sun Sep 06 09:40:15 2020  error -9 reading relation 57906438
+Sun Sep 06 09:40:15 2020  error -5 reading relation 58046196
+Sun Sep 06 09:40:20 2020  error -9 reading relation 58656129
+Sun Sep 06 09:40:20 2020  error -9 reading relation 58668283
+Sun Sep 06 09:40:22 2020  error -1 reading relation 59048474
+Sun Sep 06 09:40:22 2020  error -9 reading relation 59097400
+Sun Sep 06 09:40:24 2020  error -15 reading relation 59306009
+Sun Sep 06 09:40:29 2020  error -9 reading relation 60068933
+Sun Sep 06 09:40:29 2020  error -5 reading relation 60101995
+Sun Sep 06 09:40:31 2020  error -9 reading relation 60423166
+Sun Sep 06 09:40:32 2020  error -15 reading relation 60449113
+Sun Sep 06 09:40:33 2020  error -9 reading relation 60671369
+Sun Sep 06 09:40:33 2020  error -9 reading relation 60674554
+Sun Sep 06 09:40:36 2020  error -9 reading relation 61059648
+Sun Sep 06 09:40:36 2020  error -9 reading relation 61083569
+Sun Sep 06 09:40:36 2020  error -9 reading relation 61084472
+Sun Sep 06 09:40:36 2020  error -1 reading relation 61089285
+Sun Sep 06 09:40:37 2020  error -1 reading relation 61195020
+Sun Sep 06 09:40:37 2020  error -15 reading relation 61197714
+Sun Sep 06 09:40:37 2020  error -1 reading relation 61292994
+Sun Sep 06 09:40:42 2020  skipped 31 relations with b > 2^32
+Sun Sep 06 09:40:42 2020  skipped 43 relations with composite factors
+Sun Sep 06 09:40:42 2020  found 11350531 hash collisions in 61941242 relations
+Sun Sep 06 09:40:54 2020  added 1219530 free relations
+Sun Sep 06 09:40:54 2020  commencing duplicate removal, pass 2
+Sun Sep 06 09:41:19 2020  found 10653632 duplicates and 52507140 unique relations
+Sun Sep 06 09:41:19 2020  memory use: 330.4 MB
+Sun Sep 06 09:41:19 2020  reading ideals above 720000
+Sun Sep 06 09:41:19 2020  commencing singleton removal, initial pass
+Sun Sep 06 09:46:47 2020  memory use: 1378.0 MB
+Sun Sep 06 09:46:47 2020  reading all ideals from disk
+Sun Sep 06 09:46:48 2020  memory use: 1904.9 MB
+Sun Sep 06 09:46:51 2020  keeping 48269769 ideals with weight <= 200, target excess is 262890
+Sun Sep 06 09:46:55 2020  commencing in-memory singleton removal
+Sun Sep 06 09:46:58 2020  begin with 52507140 relations and 48269769 unique ideals
+Sun Sep 06 09:47:27 2020  reduce to 36289930 relations and 30591387 ideals in 13 passes
+Sun Sep 06 09:47:27 2020  max relations containing the same ideal: 166
+Sun Sep 06 09:47:39 2020  removing 4510457 relations and 3510457 ideals in 1000000 cliques
+Sun Sep 06 09:47:40 2020  commencing in-memory singleton removal
+Sun Sep 06 09:47:41 2020  begin with 31779473 relations and 30591387 unique ideals
+Sun Sep 06 09:47:58 2020  reduce to 31222618 relations and 26504062 ideals in 9 passes
+Sun Sep 06 09:47:58 2020  max relations containing the same ideal: 149
+Sun Sep 06 09:48:08 2020  removing 3679800 relations and 2679800 ideals in 1000000 cliques
+Sun Sep 06 09:48:09 2020  commencing in-memory singleton removal
+Sun Sep 06 09:48:10 2020  begin with 27542818 relations and 26504062 unique ideals
+Sun Sep 06 09:48:23 2020  reduce to 27157852 relations and 23426488 ideals in 8 passes
+Sun Sep 06 09:48:23 2020  max relations containing the same ideal: 135
+Sun Sep 06 09:48:31 2020  removing 3431372 relations and 2431372 ideals in 1000000 cliques
+Sun Sep 06 09:48:32 2020  commencing in-memory singleton removal
+Sun Sep 06 09:48:34 2020  begin with 23726480 relations and 23426488 unique ideals
+Sun Sep 06 09:48:44 2020  reduce to 23355668 relations and 20611068 ideals in 8 passes
+Sun Sep 06 09:48:44 2020  max relations containing the same ideal: 123
+Sun Sep 06 09:48:52 2020  removing 3343066 relations and 2343066 ideals in 1000000 cliques
+Sun Sep 06 09:48:53 2020  commencing in-memory singleton removal
+Sun Sep 06 09:48:54 2020  begin with 20012602 relations and 20611068 unique ideals
+Sun Sep 06 09:49:02 2020  reduce to 19613099 relations and 17852930 ideals in 8 passes
+Sun Sep 06 09:49:02 2020  max relations containing the same ideal: 111
+Sun Sep 06 09:49:09 2020  removing 3320894 relations and 2320894 ideals in 1000000 cliques
+Sun Sep 06 09:49:10 2020  commencing in-memory singleton removal
+Sun Sep 06 09:49:11 2020  begin with 16292205 relations and 17852930 unique ideals
+Sun Sep 06 09:49:18 2020  reduce to 15828545 relations and 15046757 ideals in 9 passes
+Sun Sep 06 09:49:18 2020  max relations containing the same ideal: 92
+Sun Sep 06 09:49:24 2020  removing 1884166 relations and 1407331 ideals in 476835 cliques
+Sun Sep 06 09:49:24 2020  commencing in-memory singleton removal
+Sun Sep 06 09:49:25 2020  begin with 13944379 relations and 15046757 unique ideals
+Sun Sep 06 09:49:31 2020  reduce to 13763990 relations and 13454018 ideals in 8 passes
+Sun Sep 06 09:49:31 2020  max relations containing the same ideal: 84
+Sun Sep 06 09:49:37 2020  relations with 0 large ideals: 9656
+Sun Sep 06 09:49:37 2020  relations with 1 large ideals: 3567
+Sun Sep 06 09:49:37 2020  relations with 2 large ideals: 38294
+Sun Sep 06 09:49:37 2020  relations with 3 large ideals: 274554
+Sun Sep 06 09:49:37 2020  relations with 4 large ideals: 1071742
+Sun Sep 06 09:49:37 2020  relations with 5 large ideals: 2504847
+Sun Sep 06 09:49:37 2020  relations with 6 large ideals: 3644304
+Sun Sep 06 09:49:37 2020  relations with 7+ large ideals: 6217026
+Sun Sep 06 09:49:37 2020  commencing 2-way merge
+Sun Sep 06 09:49:44 2020  reduce to 9050608 relation sets and 8740636 unique ideals
+Sun Sep 06 09:49:44 2020  commencing full merge
+Sun Sep 06 09:55:27 2020  memory use: 405.2 MB
+Sun Sep 06 09:55:27 2020  found 22824 cycles, need 1942090
+Sun Sep 06 09:55:27 2020  too few cycles, matrix probably cannot build
+Sun Sep 06 09:58:28 2020  
+Sun Sep 06 09:58:28 2020  
+Sun Sep 06 09:58:28 2020  Msieve v. 1.53 (SVN 1005)
+Sun Sep 06 09:58:28 2020  random seeds: c65e5108 1b71f257
+Sun Sep 06 09:58:28 2020  factoring 30095299175077403548045998888499589746987705915701236321455228679546363516064178374571700801510444165628613317596485938620376015936537760979050393355294532376789572636274339989243637798508357507839862196929407 (209 digits)
+Sun Sep 06 09:58:29 2020  searching for 15-digit factors
+Sun Sep 06 09:58:29 2020  commencing number field sieve (209-digit input)
+Sun Sep 06 09:58:29 2020  R0: 55771927914216157920817288677473813
+Sun Sep 06 09:58:29 2020  R1: -1
+Sun Sep 06 09:58:29 2020  A0: -1
+Sun Sep 06 09:58:29 2020  A1: 0
+Sun Sep 06 09:58:29 2020  A2: 0
+Sun Sep 06 09:58:29 2020  A3: 0
+Sun Sep 06 09:58:29 2020  A4: 0
+Sun Sep 06 09:58:29 2020  A5: 0
+Sun Sep 06 09:58:29 2020  A6: 91997
+Sun Sep 06 09:58:29 2020  skew 0.15, size 5.842e-011, alpha 0.978, combined = 2.295e-012 rroots = 2
+Sun Sep 06 09:58:29 2020  
+Sun Sep 06 09:58:29 2020  commencing relation filtering
+Sun Sep 06 09:58:29 2020  setting target matrix density to 120.0
+Sun Sep 06 09:58:29 2020  estimated available RAM is 16141.3 MB
+Sun Sep 06 09:58:29 2020  commencing duplicate removal, pass 1
+<90 errors>
+Sun Sep 06 10:05:32 2020  skipped 31 relations with b > 2^32
+Sun Sep 06 10:05:32 2020  skipped 43 relations with composite factors
+Sun Sep 06 10:05:32 2020  found 11439475 hash collisions in 63160772 relations
+Sun Sep 06 10:05:41 2020  commencing duplicate removal, pass 2
+Sun Sep 06 10:06:05 2020  found 10653632 duplicates and 52507140 unique relations
+Sun Sep 06 10:06:05 2020  memory use: 330.4 MB
+Sun Sep 06 10:06:05 2020  reading ideals above 720000
+Sun Sep 06 10:06:05 2020  commencing singleton removal, initial pass
+Sun Sep 06 10:11:35 2020  memory use: 1378.0 MB
+Sun Sep 06 10:11:36 2020  reading all ideals from disk
+Sun Sep 06 10:11:36 2020  memory use: 1904.9 MB
+Sun Sep 06 10:11:40 2020  keeping 48269769 ideals with weight <= 200, target excess is 262890
+Sun Sep 06 10:11:43 2020  commencing in-memory singleton removal
+Sun Sep 06 10:11:46 2020  begin with 52507140 relations and 48269769 unique ideals
+Sun Sep 06 10:12:15 2020  reduce to 36289930 relations and 30591387 ideals in 13 passes
+Sun Sep 06 10:12:15 2020  max relations containing the same ideal: 166
+Sun Sep 06 10:12:27 2020  removing 4510457 relations and 3510457 ideals in 1000000 cliques
+Sun Sep 06 10:12:28 2020  commencing in-memory singleton removal
+Sun Sep 06 10:12:30 2020  begin with 31779473 relations and 30591387 unique ideals
+Sun Sep 06 10:12:46 2020  reduce to 31222618 relations and 26504062 ideals in 9 passes
+Sun Sep 06 10:12:46 2020  max relations containing the same ideal: 149
+Sun Sep 06 10:12:56 2020  removing 3679800 relations and 2679800 ideals in 1000000 cliques
+Sun Sep 06 10:12:57 2020  commencing in-memory singleton removal
+Sun Sep 06 10:12:58 2020  begin with 27542818 relations and 26504062 unique ideals
+Sun Sep 06 10:13:11 2020  reduce to 27157852 relations and 23426488 ideals in 8 passes
+Sun Sep 06 10:13:11 2020  max relations containing the same ideal: 135
+Sun Sep 06 10:13:20 2020  removing 3431372 relations and 2431372 ideals in 1000000 cliques
+Sun Sep 06 10:13:20 2020  commencing in-memory singleton removal
+Sun Sep 06 10:13:22 2020  begin with 23726480 relations and 23426488 unique ideals
+Sun Sep 06 10:13:32 2020  reduce to 23355668 relations and 20611068 ideals in 8 passes
+Sun Sep 06 10:13:32 2020  max relations containing the same ideal: 123
+Sun Sep 06 10:13:40 2020  removing 3343066 relations and 2343066 ideals in 1000000 cliques
+Sun Sep 06 10:13:41 2020  commencing in-memory singleton removal
+Sun Sep 06 10:13:42 2020  begin with 20012602 relations and 20611068 unique ideals
+Sun Sep 06 10:13:50 2020  reduce to 19613099 relations and 17852930 ideals in 8 passes
+Sun Sep 06 10:13:50 2020  max relations containing the same ideal: 111
+Sun Sep 06 10:13:57 2020  removing 3320894 relations and 2320894 ideals in 1000000 cliques
+Sun Sep 06 10:13:58 2020  commencing in-memory singleton removal
+Sun Sep 06 10:13:59 2020  begin with 16292205 relations and 17852930 unique ideals
+Sun Sep 06 10:14:07 2020  reduce to 15828545 relations and 15046757 ideals in 9 passes
+Sun Sep 06 10:14:07 2020  max relations containing the same ideal: 92
+Sun Sep 06 10:14:12 2020  removing 1884166 relations and 1407331 ideals in 476835 cliques
+Sun Sep 06 10:14:13 2020  commencing in-memory singleton removal
+Sun Sep 06 10:14:13 2020  begin with 13944379 relations and 15046757 unique ideals
+Sun Sep 06 10:14:19 2020  reduce to 13763990 relations and 13454018 ideals in 8 passes
+Sun Sep 06 10:14:19 2020  max relations containing the same ideal: 84
+Sun Sep 06 10:14:25 2020  relations with 0 large ideals: 9656
+Sun Sep 06 10:14:25 2020  relations with 1 large ideals: 3567
+Sun Sep 06 10:14:25 2020  relations with 2 large ideals: 38294
+Sun Sep 06 10:14:25 2020  relations with 3 large ideals: 274554
+Sun Sep 06 10:14:25 2020  relations with 4 large ideals: 1071742
+Sun Sep 06 10:14:25 2020  relations with 5 large ideals: 2504847
+Sun Sep 06 10:14:25 2020  relations with 6 large ideals: 3644304
+Sun Sep 06 10:14:25 2020  relations with 7+ large ideals: 6217026
+Sun Sep 06 10:14:25 2020  commencing 2-way merge
+Sun Sep 06 10:14:32 2020  reduce to 9050608 relation sets and 8740636 unique ideals
+Sun Sep 06 10:14:32 2020  commencing full merge
+Sun Sep 06 10:20:12 2020  memory use: 405.2 MB
+Sun Sep 06 10:20:12 2020  found 22824 cycles, need 1942090
+Sun Sep 06 10:20:12 2020  too few cycles, matrix probably cannot build
+Sun Sep 06 10:20:43 2020  
+Sun Sep 06 10:20:43 2020  
+Sun Sep 06 10:20:43 2020  Msieve v. 1.53 (SVN 1005)
+Sun Sep 06 10:20:43 2020  random seeds: c6ed2718 bc1c3377
+Sun Sep 06 10:20:43 2020  factoring 30095299175077403548045998888499589746987705915701236321455228679546363516064178374571700801510444165628613317596485938620376015936537760979050393355294532376789572636274339989243637798508357507839862196929407 (209 digits)
+Sun Sep 06 10:20:43 2020  searching for 15-digit factors
+Sun Sep 06 10:20:44 2020  commencing number field sieve (209-digit input)
+Sun Sep 06 10:20:44 2020  R0: 55771927914216157920817288677473813
+Sun Sep 06 10:20:44 2020  R1: -1
+Sun Sep 06 10:20:44 2020  A0: -1
+Sun Sep 06 10:20:44 2020  A1: 0
+Sun Sep 06 10:20:44 2020  A2: 0
+Sun Sep 06 10:20:44 2020  A3: 0
+Sun Sep 06 10:20:44 2020  A4: 0
+Sun Sep 06 10:20:44 2020  A5: 0
+Sun Sep 06 10:20:44 2020  A6: 91997
+Sun Sep 06 10:20:44 2020  skew 0.15, size 5.842e-011, alpha 0.978, combined = 2.295e-012 rroots = 2
+Sun Sep 06 10:20:44 2020  
+Sun Sep 06 10:20:44 2020  commencing relation filtering
+Sun Sep 06 10:20:44 2020  setting target matrix density to 110.0
+Sun Sep 06 10:20:44 2020  estimated available RAM is 16141.3 MB
+Sun Sep 06 10:20:44 2020  commencing duplicate removal, pass 1
+<90 errors>
+Sun Sep 06 10:27:47 2020  skipped 31 relations with b > 2^32
+Sun Sep 06 10:27:47 2020  skipped 43 relations with composite factors
+Sun Sep 06 10:27:47 2020  found 11439475 hash collisions in 63160772 relations
+Sun Sep 06 10:27:56 2020  commencing duplicate removal, pass 2
+Sun Sep 06 10:28:21 2020  found 10653632 duplicates and 52507140 unique relations
+Sun Sep 06 10:28:21 2020  memory use: 330.4 MB
+Sun Sep 06 10:28:21 2020  reading ideals above 720000
+Sun Sep 06 10:28:21 2020  commencing singleton removal, initial pass
+Sun Sep 06 10:33:51 2020  memory use: 1378.0 MB
+Sun Sep 06 10:33:51 2020  reading all ideals from disk
+Sun Sep 06 10:33:52 2020  memory use: 1904.9 MB
+Sun Sep 06 10:33:55 2020  keeping 48269769 ideals with weight <= 200, target excess is 262890
+Sun Sep 06 10:33:58 2020  commencing in-memory singleton removal
+Sun Sep 06 10:34:01 2020  begin with 52507140 relations and 48269769 unique ideals
+Sun Sep 06 10:34:30 2020  reduce to 36289930 relations and 30591387 ideals in 13 passes
+Sun Sep 06 10:34:30 2020  max relations containing the same ideal: 166
+Sun Sep 06 10:34:42 2020  removing 4510457 relations and 3510457 ideals in 1000000 cliques
+Sun Sep 06 10:34:43 2020  commencing in-memory singleton removal
+Sun Sep 06 10:34:45 2020  begin with 31779473 relations and 30591387 unique ideals
+Sun Sep 06 10:35:01 2020  reduce to 31222618 relations and 26504062 ideals in 9 passes
+Sun Sep 06 10:35:01 2020  max relations containing the same ideal: 149
+Sun Sep 06 10:35:11 2020  removing 3679800 relations and 2679800 ideals in 1000000 cliques
+Sun Sep 06 10:35:12 2020  commencing in-memory singleton removal
+Sun Sep 06 10:35:13 2020  begin with 27542818 relations and 26504062 unique ideals
+Sun Sep 06 10:35:26 2020  reduce to 27157852 relations and 23426488 ideals in 8 passes
+Sun Sep 06 10:35:26 2020  max relations containing the same ideal: 135
+Sun Sep 06 10:35:34 2020  removing 3431372 relations and 2431372 ideals in 1000000 cliques
+Sun Sep 06 10:35:35 2020  commencing in-memory singleton removal
+Sun Sep 06 10:35:37 2020  begin with 23726480 relations and 23426488 unique ideals
+Sun Sep 06 10:35:47 2020  reduce to 23355668 relations and 20611068 ideals in 8 passes
+Sun Sep 06 10:35:47 2020  max relations containing the same ideal: 123
+Sun Sep 06 10:35:55 2020  removing 3343066 relations and 2343066 ideals in 1000000 cliques
+Sun Sep 06 10:35:56 2020  commencing in-memory singleton removal
+Sun Sep 06 10:35:57 2020  begin with 20012602 relations and 20611068 unique ideals
+Sun Sep 06 10:36:05 2020  reduce to 19613099 relations and 17852930 ideals in 8 passes
+Sun Sep 06 10:36:05 2020  max relations containing the same ideal: 111
+Sun Sep 06 10:36:12 2020  removing 3320894 relations and 2320894 ideals in 1000000 cliques
+Sun Sep 06 10:36:13 2020  commencing in-memory singleton removal
+Sun Sep 06 10:36:14 2020  begin with 16292205 relations and 17852930 unique ideals
+Sun Sep 06 10:36:21 2020  reduce to 15828545 relations and 15046757 ideals in 9 passes
+Sun Sep 06 10:36:21 2020  max relations containing the same ideal: 92
+Sun Sep 06 10:36:27 2020  removing 1884166 relations and 1407331 ideals in 476835 cliques
+Sun Sep 06 10:36:27 2020  commencing in-memory singleton removal
+Sun Sep 06 10:36:28 2020  begin with 13944379 relations and 15046757 unique ideals
+Sun Sep 06 10:36:34 2020  reduce to 13763990 relations and 13454018 ideals in 8 passes
+Sun Sep 06 10:36:34 2020  max relations containing the same ideal: 84
+Sun Sep 06 10:36:40 2020  relations with 0 large ideals: 9656
+Sun Sep 06 10:36:40 2020  relations with 1 large ideals: 3567
+Sun Sep 06 10:36:40 2020  relations with 2 large ideals: 38294
+Sun Sep 06 10:36:40 2020  relations with 3 large ideals: 274554
+Sun Sep 06 10:36:40 2020  relations with 4 large ideals: 1071742
+Sun Sep 06 10:36:40 2020  relations with 5 large ideals: 2504847
+Sun Sep 06 10:36:40 2020  relations with 6 large ideals: 3644304
+Sun Sep 06 10:36:40 2020  relations with 7+ large ideals: 6217026
+Sun Sep 06 10:36:40 2020  commencing 2-way merge
+Sun Sep 06 10:36:47 2020  reduce to 9050608 relation sets and 8740636 unique ideals
+Sun Sep 06 10:36:47 2020  commencing full merge
+Sun Sep 06 10:39:31 2020  memory use: 1167.8 MB
+Sun Sep 06 10:39:32 2020  found 4123532 cycles, need 4106836
+Sun Sep 06 10:39:32 2020  weight of 4106836 cycles is about 452132901 (110.09/cycle)
+Sun Sep 06 10:39:32 2020  distribution of cycle lengths:
+Sun Sep 06 10:39:32 2020  1 relations: 254209
+Sun Sep 06 10:39:32 2020  2 relations: 303129
+Sun Sep 06 10:39:32 2020  3 relations: 325001
+Sun Sep 06 10:39:32 2020  4 relations: 320519
+Sun Sep 06 10:39:32 2020  5 relations: 314181
+Sun Sep 06 10:39:32 2020  6 relations: 304629
+Sun Sep 06 10:39:32 2020  7 relations: 289851
+Sun Sep 06 10:39:32 2020  8 relations: 272303
+Sun Sep 06 10:39:32 2020  9 relations: 252169
+Sun Sep 06 10:39:32 2020  10+ relations: 1470845
+Sun Sep 06 10:39:32 2020  heaviest cycle: 28 relations
+Sun Sep 06 10:39:34 2020  commencing cycle optimization
+Sun Sep 06 10:39:39 2020  start with 33996139 relations
+Sun Sep 06 10:40:43 2020  pruned 1513045 relations
+Sun Sep 06 10:40:43 2020  memory use: 916.3 MB
+Sun Sep 06 10:40:43 2020  distribution of cycle lengths:
+Sun Sep 06 10:40:43 2020  1 relations: 254209
+Sun Sep 06 10:40:43 2020  2 relations: 310544
+Sun Sep 06 10:40:43 2020  3 relations: 339053
+Sun Sep 06 10:40:43 2020  4 relations: 333270
+Sun Sep 06 10:40:43 2020  5 relations: 329478
+Sun Sep 06 10:40:43 2020  6 relations: 318254
+Sun Sep 06 10:40:43 2020  7 relations: 303883
+Sun Sep 06 10:40:43 2020  8 relations: 283496
+Sun Sep 06 10:40:43 2020  9 relations: 262093
+Sun Sep 06 10:40:43 2020  10+ relations: 1372556
+Sun Sep 06 10:40:43 2020  heaviest cycle: 28 relations
+Sun Sep 06 10:40:47 2020  RelProcTime: 1203
+Sun Sep 06 10:40:47 2020  elapsed time 00:20:04
+Sun Sep 06 10:40:58 2020  
+Sun Sep 06 10:40:58 2020  
+Sun Sep 06 10:40:58 2020  Msieve v. 1.53 (SVN 1005)
+Sun Sep 06 10:40:58 2020  random seeds: 988d6a30 5116f215
+Sun Sep 06 10:40:58 2020  factoring 30095299175077403548045998888499589746987705915701236321455228679546363516064178374571700801510444165628613317596485938620376015936537760979050393355294532376789572636274339989243637798508357507839862196929407 (209 digits)
+Sun Sep 06 10:40:59 2020  searching for 15-digit factors
+Sun Sep 06 10:40:59 2020  commencing number field sieve (209-digit input)
+Sun Sep 06 10:40:59 2020  R0: 55771927914216157920817288677473813
+Sun Sep 06 10:40:59 2020  R1: -1
+Sun Sep 06 10:40:59 2020  A0: -1
+Sun Sep 06 10:40:59 2020  A1: 0
+Sun Sep 06 10:40:59 2020  A2: 0
+Sun Sep 06 10:40:59 2020  A3: 0
+Sun Sep 06 10:40:59 2020  A4: 0
+Sun Sep 06 10:40:59 2020  A5: 0
+Sun Sep 06 10:40:59 2020  A6: 91997
+Sun Sep 06 10:40:59 2020  skew 0.15, size 5.842e-011, alpha 0.978, combined = 2.295e-012 rroots = 2
+Sun Sep 06 10:40:59 2020  
+Sun Sep 06 10:40:59 2020  commencing linear algebra
+Sun Sep 06 10:41:00 2020  read 4106836 cycles
+Sun Sep 06 10:41:07 2020  cycles contain 13544893 unique relations
+Sun Sep 06 10:42:13 2020  read 13544893 relations
+Sun Sep 06 10:42:30 2020  using 20 quadratic characters above 4294917295
+Sun Sep 06 10:43:26 2020  building initial matrix
+Sun Sep 06 10:45:27 2020  memory use: 1660.8 MB
+Sun Sep 06 10:45:30 2020  read 4106836 cycles
+Sun Sep 06 10:45:31 2020  matrix is 4106659 x 4106836 (1777.8 MB) with weight 504785233 (122.91/col)
+Sun Sep 06 10:45:31 2020  sparse part has weight 420856193 (102.48/col)
+Sun Sep 06 10:46:01 2020  filtering completed in 2 passes
+Sun Sep 06 10:46:02 2020  matrix is 4106496 x 4106673 (1777.7 MB) with weight 504778675 (122.92/col)
+Sun Sep 06 10:46:02 2020  sparse part has weight 420853059 (102.48/col)
+Sun Sep 06 10:46:20 2020  matrix starts at (0, 0)
+Sun Sep 06 10:46:21 2020  matrix is 4106496 x 4106673 (1777.7 MB) with weight 504778675 (122.92/col)
+Sun Sep 06 10:46:21 2020  sparse part has weight 420853059 (102.48/col)
+Sun Sep 06 10:46:21 2020  saving the first 48 matrix rows for later
+Sun Sep 06 10:46:22 2020  matrix includes 64 packed rows
+Sun Sep 06 10:46:22 2020  matrix is 4106448 x 4106673 (1690.6 MB) with weight 432817173 (105.39/col)
+Sun Sep 06 10:46:22 2020  sparse part has weight 402116671 (97.92/col)
+Sun Sep 06 10:46:22 2020  using block size 8192 and superblock size 884736 for processor cache size 9216 kB
+Sun Sep 06 10:46:40 2020  commencing Lanczos iteration (6 threads)
+Sun Sep 06 10:46:40 2020  memory use: 1399.6 MB
+Sun Sep 06 10:46:48 2020  linear algebra at 0.0%, ETA 5h14m
+Sun Sep 06 10:46:50 2020  checkpointing every 820000 dimensions
+Sun Sep 06 19:02:09 2020  lanczos halted after 64946 iterations (dim = 4106448)
+Sun Sep 06 19:02:13 2020  recovered 37 nontrivial dependencies
+Sun Sep 06 19:02:14 2020  BLanczosTime: 30075
+Sun Sep 06 19:02:14 2020  elapsed time 08:21:16
+Sun Sep 06 19:10:55 2020  
+Sun Sep 06 19:10:55 2020  
+Sun Sep 06 19:10:55 2020  Msieve v. 1.53 (SVN 1005)
+Sun Sep 06 19:10:55 2020  random seeds: 65d6ecc0 ba60c7e9
+Sun Sep 06 19:10:55 2020  factoring 30095299175077403548045998888499589746987705915701236321455228679546363516064178374571700801510444165628613317596485938620376015936537760979050393355294532376789572636274339989243637798508357507839862196929407 (209 digits)
+Sun Sep 06 19:10:56 2020  searching for 15-digit factors
+Sun Sep 06 19:10:56 2020  commencing number field sieve (209-digit input)
+Sun Sep 06 19:10:56 2020  R0: 55771927914216157920817288677473813
+Sun Sep 06 19:10:56 2020  R1: -1
+Sun Sep 06 19:10:56 2020  A0: -1
+Sun Sep 06 19:10:56 2020  A1: 0
+Sun Sep 06 19:10:56 2020  A2: 0
+Sun Sep 06 19:10:56 2020  A3: 0
+Sun Sep 06 19:10:56 2020  A4: 0
+Sun Sep 06 19:10:56 2020  A5: 0
+Sun Sep 06 19:10:56 2020  A6: 91997
+Sun Sep 06 19:10:56 2020  skew 0.15, size 5.842e-011, alpha 0.978, combined = 2.295e-012 rroots = 2
+Sun Sep 06 19:10:56 2020  
+Sun Sep 06 19:10:56 2020  commencing square root phase
+Sun Sep 06 19:10:56 2020  reading relations for dependency 1
+Sun Sep 06 19:10:57 2020  read 2052190 cycles
+Sun Sep 06 19:10:59 2020  cycles contain 6771888 unique relations
+Sun Sep 06 19:11:36 2020  read 6771888 relations
+Sun Sep 06 19:12:00 2020  multiplying 6771888 relations
+Sun Sep 06 19:16:42 2020  multiply complete, coefficients have about 264.16 million bits
+Sun Sep 06 19:16:43 2020  initial square root is modulo 3018494431
+Sun Sep 06 19:21:43 2020  GCD is 1, no factor found
+Sun Sep 06 19:21:43 2020  reading relations for dependency 2
+Sun Sep 06 19:21:44 2020  read 2052048 cycles
+Sun Sep 06 19:21:46 2020  cycles contain 6771104 unique relations
+Sun Sep 06 19:22:26 2020  read 6771104 relations
+Sun Sep 06 19:22:50 2020  multiplying 6771104 relations
+Sun Sep 06 19:27:32 2020  multiply complete, coefficients have about 264.13 million bits
+Sun Sep 06 19:27:33 2020  initial square root is modulo 3010791463
+Sun Sep 06 19:32:35 2020  GCD is N, no factor found
+Sun Sep 06 19:32:35 2020  reading relations for dependency 3
+Sun Sep 06 19:32:36 2020  read 2054905 cycles
+Sun Sep 06 19:32:39 2020  cycles contain 6775432 unique relations
+Sun Sep 06 19:33:16 2020  read 6775432 relations
+Sun Sep 06 19:33:40 2020  multiplying 6775432 relations
+Sun Sep 06 19:38:24 2020  multiply complete, coefficients have about 264.30 million bits
+Sun Sep 06 19:38:24 2020  initial square root is modulo 55291
+Sun Sep 06 19:43:38 2020  sqrtTime: 1962
+Sun Sep 06 19:43:38 2020  p52 factor: 9596265036010581604338742365787303364306581650247103
+Sun Sep 06 19:43:38 2020  p157 factor: 3136147142887667330557863957862973385060785987726431021515446460386948664513806629014549165703299785056592668266215368092116003921732343801515429969120623169
+Sun Sep 06 19:43:38 2020  elapsed time 00:32:43
