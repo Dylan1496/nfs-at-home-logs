@@ -1,0 +1,1157 @@
+Tue Nov  3 12:31:37 2020  
+Tue Nov  3 12:31:37 2020  
+Tue Nov  3 12:31:37 2020  Msieve v. 1.54 (SVN 1034)
+Tue Nov  3 12:31:37 2020  random seeds: 5be5c662 4956292e
+Tue Nov  3 12:31:37 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Tue Nov  3 12:31:37 2020  searching for 15-digit factors
+Tue Nov  3 12:31:38 2020  commencing number field sieve (226-digit input)
+Tue Nov  3 12:31:38 2020  R0: 78829746184630742457434595059507577749
+Tue Nov  3 12:31:38 2020  R1: -1
+Tue Nov  3 12:31:38 2020  A0: -1
+Tue Nov  3 12:31:38 2020  A1: 0
+Tue Nov  3 12:31:38 2020  A2: 0
+Tue Nov  3 12:31:38 2020  A3: 0
+Tue Nov  3 12:31:38 2020  A4: 0
+Tue Nov  3 12:31:38 2020  A5: 0
+Tue Nov  3 12:31:38 2020  A6: 4287755796749
+Tue Nov  3 12:31:38 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Tue Nov  3 12:31:38 2020  
+Tue Nov  3 12:31:38 2020  commencing relation filtering
+Tue Nov  3 12:31:38 2020  setting target matrix density to 130.0
+Tue Nov  3 12:31:38 2020  estimated available RAM is 32067.9 MB
+Tue Nov  3 12:31:38 2020  commencing duplicate removal, pass 1
+<350 errors>
+Tue Nov  3 12:55:42 2020  skipped 1093697 relations with b > 2^32
+Tue Nov  3 12:55:42 2020  skipped 166 relations with composite factors
+Tue Nov  3 12:55:42 2020  found 60797765 hash collisions in 249491185 relations
+Tue Nov  3 12:55:53 2020  added 1217929 free relations
+Tue Nov  3 12:55:53 2020  commencing duplicate removal, pass 2
+Tue Nov  3 12:57:22 2020  found 67646564 duplicates and 183062550 unique relations
+Tue Nov  3 12:57:22 2020  memory use: 1449.5 MB
+Tue Nov  3 12:57:22 2020  reading ideals above 179896320
+Tue Nov  3 12:57:22 2020  commencing singleton removal, initial pass
+Tue Nov  3 13:09:56 2020  memory use: 3012.0 MB
+Tue Nov  3 13:09:56 2020  reading all ideals from disk
+Tue Nov  3 13:09:58 2020  memory use: 3221.8 MB
+Tue Nov  3 13:10:03 2020  commencing in-memory singleton removal
+Tue Nov  3 13:10:07 2020  begin with 183062550 relations and 158482225 unique ideals
+Tue Nov  3 13:11:12 2020  reduce to 115265551 relations and 83670000 ideals in 16 passes
+Tue Nov  3 13:11:12 2020  max relations containing the same ideal: 34
+Tue Nov  3 13:11:16 2020  reading ideals above 720000
+Tue Nov  3 13:11:17 2020  commencing singleton removal, initial pass
+Tue Nov  3 13:21:49 2020  memory use: 2756.0 MB
+Tue Nov  3 13:21:49 2020  reading all ideals from disk
+Tue Nov  3 13:21:53 2020  memory use: 4766.1 MB
+Tue Nov  3 13:22:01 2020  keeping 103104400 ideals with weight <= 200, target excess is 609459
+Tue Nov  3 13:22:10 2020  commencing in-memory singleton removal
+Tue Nov  3 13:22:17 2020  begin with 115265551 relations and 103104400 unique ideals
+Tue Nov  3 13:23:25 2020  reduce to 115216338 relations and 103055186 ideals in 11 passes
+Tue Nov  3 13:23:25 2020  max relations containing the same ideal: 200
+Tue Nov  3 13:24:05 2020  removing 12231622 relations and 10231622 ideals in 2000000 cliques
+Tue Nov  3 13:24:07 2020  commencing in-memory singleton removal
+Tue Nov  3 13:24:13 2020  begin with 102984716 relations and 103055186 unique ideals
+Tue Nov  3 13:25:14 2020  reduce to 101876248 relations and 91689782 ideals in 11 passes
+Tue Nov  3 13:25:14 2020  max relations containing the same ideal: 194
+Tue Nov  3 13:25:50 2020  removing 9477256 relations and 7477256 ideals in 2000000 cliques
+Tue Nov  3 13:25:52 2020  commencing in-memory singleton removal
+Tue Nov  3 13:25:57 2020  begin with 92398992 relations and 91689782 unique ideals
+Tue Nov  3 13:26:37 2020  reduce to 91629940 relations and 83428080 ideals in 8 passes
+Tue Nov  3 13:26:37 2020  max relations containing the same ideal: 184
+Tue Nov  3 13:27:09 2020  removing 8671635 relations and 6671635 ideals in 2000000 cliques
+Tue Nov  3 13:27:11 2020  commencing in-memory singleton removal
+Tue Nov  3 13:27:16 2020  begin with 82958305 relations and 83428080 unique ideals
+Tue Nov  3 13:27:51 2020  reduce to 82240066 relations and 76023084 ideals in 8 passes
+Tue Nov  3 13:27:51 2020  max relations containing the same ideal: 171
+Tue Nov  3 13:28:20 2020  removing 8323316 relations and 6323316 ideals in 2000000 cliques
+Tue Nov  3 13:28:22 2020  commencing in-memory singleton removal
+Tue Nov  3 13:28:26 2020  begin with 73916750 relations and 76023084 unique ideals
+Tue Nov  3 13:29:02 2020  reduce to 73186379 relations and 68953053 ideals in 9 passes
+Tue Nov  3 13:29:02 2020  max relations containing the same ideal: 157
+Tue Nov  3 13:29:28 2020  removing 8155228 relations and 6155228 ideals in 2000000 cliques
+Tue Nov  3 13:29:30 2020  commencing in-memory singleton removal
+Tue Nov  3 13:29:33 2020  begin with 65031151 relations and 68953053 unique ideals
+Tue Nov  3 13:30:01 2020  reduce to 64243757 relations and 61990993 ideals in 8 passes
+Tue Nov  3 13:30:01 2020  max relations containing the same ideal: 144
+Tue Nov  3 13:30:24 2020  removing 6626443 relations and 5080652 ideals in 1545791 cliques
+Tue Nov  3 13:30:26 2020  commencing in-memory singleton removal
+Tue Nov  3 13:30:29 2020  begin with 57617314 relations and 61990993 unique ideals
+Tue Nov  3 13:30:54 2020  reduce to 57041996 relations and 56322562 ideals in 8 passes
+Tue Nov  3 13:30:54 2020  max relations containing the same ideal: 136
+Tue Nov  3 13:31:14 2020  removing 114802 relations and 102341 ideals in 12461 cliques
+Tue Nov  3 13:31:15 2020  commencing in-memory singleton removal
+Tue Nov  3 13:31:18 2020  begin with 56927194 relations and 56322562 unique ideals
+Tue Nov  3 13:31:33 2020  reduce to 56927038 relations and 56220065 ideals in 5 passes
+Tue Nov  3 13:31:33 2020  max relations containing the same ideal: 135
+Tue Nov  3 13:31:42 2020  relations with 0 large ideals: 22533
+Tue Nov  3 13:31:42 2020  relations with 1 large ideals: 3425
+Tue Nov  3 13:31:42 2020  relations with 2 large ideals: 50567
+Tue Nov  3 13:31:42 2020  relations with 3 large ideals: 440120
+Tue Nov  3 13:31:42 2020  relations with 4 large ideals: 2151142
+Tue Nov  3 13:31:42 2020  relations with 5 large ideals: 6401207
+Tue Nov  3 13:31:42 2020  relations with 6 large ideals: 12163451
+Tue Nov  3 13:31:42 2020  relations with 7+ large ideals: 35694593
+Tue Nov  3 13:31:42 2020  commencing 2-way merge
+Tue Nov  3 13:32:12 2020  reduce to 36767558 relation sets and 36060585 unique ideals
+Tue Nov  3 13:32:12 2020  commencing full merge
+Tue Nov  3 13:56:23 2020  memory use: 1663.6 MB
+Tue Nov  3 13:56:23 2020  found 114743 cycles, need 7663159
+Tue Nov  3 13:56:23 2020  too few cycles, matrix probably cannot build
+Tue Nov  3 13:56:24 2020  filtering wants 1000000 more relations
+Tue Nov  3 13:56:24 2020  elapsed time 01:24:47
+Tue Nov  3 14:36:16 2020  
+Tue Nov  3 14:36:16 2020  
+Tue Nov  3 14:36:16 2020  Msieve v. 1.54 (SVN 1034)
+Tue Nov  3 14:36:16 2020  random seeds: 22d0a80b 2f2c1a8a
+Tue Nov  3 14:36:16 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Tue Nov  3 14:36:17 2020  searching for 15-digit factors
+Tue Nov  3 14:36:17 2020  commencing number field sieve (226-digit input)
+Tue Nov  3 14:36:17 2020  R0: 78829746184630742457434595059507577749
+Tue Nov  3 14:36:17 2020  R1: -1
+Tue Nov  3 14:36:17 2020  A0: -1
+Tue Nov  3 14:36:17 2020  A1: 0
+Tue Nov  3 14:36:17 2020  A2: 0
+Tue Nov  3 14:36:17 2020  A3: 0
+Tue Nov  3 14:36:17 2020  A4: 0
+Tue Nov  3 14:36:17 2020  A5: 0
+Tue Nov  3 14:36:17 2020  A6: 4287755796749
+Tue Nov  3 14:36:17 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Tue Nov  3 14:36:17 2020  
+Tue Nov  3 14:36:17 2020  commencing relation filtering
+Tue Nov  3 14:36:17 2020  setting target matrix density to 120.0
+Tue Nov  3 14:36:17 2020  estimated available RAM is 32067.9 MB
+Tue Nov  3 14:36:17 2020  commencing duplicate removal, pass 1
+<350 errors>
+Tue Nov  3 15:00:51 2020  skipped 1093697 relations with b > 2^32
+Tue Nov  3 15:00:51 2020  skipped 166 relations with composite factors
+Tue Nov  3 15:00:51 2020  found 60870041 hash collisions in 250709114 relations
+Tue Nov  3 15:00:59 2020  commencing duplicate removal, pass 2
+Tue Nov  3 15:02:15 2020  found 67646564 duplicates and 183062550 unique relations
+Tue Nov  3 15:02:15 2020  memory use: 1449.5 MB
+Tue Nov  3 15:02:15 2020  reading ideals above 179896320
+Tue Nov  3 15:02:15 2020  commencing singleton removal, initial pass
+Tue Nov  3 15:14:37 2020  memory use: 3012.0 MB
+Tue Nov  3 15:14:37 2020  reading all ideals from disk
+Tue Nov  3 15:14:39 2020  memory use: 3221.8 MB
+Tue Nov  3 15:14:44 2020  commencing in-memory singleton removal
+Tue Nov  3 15:14:48 2020  begin with 183062550 relations and 158482225 unique ideals
+Tue Nov  3 15:15:53 2020  reduce to 115265551 relations and 83670000 ideals in 16 passes
+Tue Nov  3 15:15:53 2020  max relations containing the same ideal: 34
+Tue Nov  3 15:15:57 2020  reading ideals above 720000
+Tue Nov  3 15:15:57 2020  commencing singleton removal, initial pass
+Tue Nov  3 15:26:28 2020  memory use: 2756.0 MB
+Tue Nov  3 15:26:28 2020  reading all ideals from disk
+Tue Nov  3 15:26:32 2020  memory use: 4766.1 MB
+Tue Nov  3 15:26:40 2020  keeping 103104400 ideals with weight <= 200, target excess is 609459
+Tue Nov  3 15:26:49 2020  commencing in-memory singleton removal
+Tue Nov  3 15:26:56 2020  begin with 115265551 relations and 103104400 unique ideals
+Tue Nov  3 15:28:05 2020  reduce to 115216338 relations and 103055186 ideals in 11 passes
+Tue Nov  3 15:28:05 2020  max relations containing the same ideal: 200
+Tue Nov  3 15:28:45 2020  removing 12231622 relations and 10231622 ideals in 2000000 cliques
+Tue Nov  3 15:28:47 2020  commencing in-memory singleton removal
+Tue Nov  3 15:28:53 2020  begin with 102984716 relations and 103055186 unique ideals
+Tue Nov  3 15:29:55 2020  reduce to 101876248 relations and 91689782 ideals in 11 passes
+Tue Nov  3 15:29:55 2020  max relations containing the same ideal: 194
+Tue Nov  3 15:30:31 2020  removing 9477256 relations and 7477256 ideals in 2000000 cliques
+Tue Nov  3 15:30:33 2020  commencing in-memory singleton removal
+Tue Nov  3 15:30:38 2020  begin with 92398992 relations and 91689782 unique ideals
+Tue Nov  3 15:31:18 2020  reduce to 91629940 relations and 83428080 ideals in 8 passes
+Tue Nov  3 15:31:18 2020  max relations containing the same ideal: 184
+Tue Nov  3 15:31:50 2020  removing 8671635 relations and 6671635 ideals in 2000000 cliques
+Tue Nov  3 15:31:52 2020  commencing in-memory singleton removal
+Tue Nov  3 15:31:57 2020  begin with 82958305 relations and 83428080 unique ideals
+Tue Nov  3 15:32:32 2020  reduce to 82240066 relations and 76023084 ideals in 8 passes
+Tue Nov  3 15:32:32 2020  max relations containing the same ideal: 171
+Tue Nov  3 15:33:01 2020  removing 8323316 relations and 6323316 ideals in 2000000 cliques
+Tue Nov  3 15:33:03 2020  commencing in-memory singleton removal
+Tue Nov  3 15:33:07 2020  begin with 73916750 relations and 76023084 unique ideals
+Tue Nov  3 15:33:43 2020  reduce to 73186379 relations and 68953053 ideals in 9 passes
+Tue Nov  3 15:33:43 2020  max relations containing the same ideal: 157
+Tue Nov  3 15:34:09 2020  removing 8155228 relations and 6155228 ideals in 2000000 cliques
+Tue Nov  3 15:34:11 2020  commencing in-memory singleton removal
+Tue Nov  3 15:34:14 2020  begin with 65031151 relations and 68953053 unique ideals
+Tue Nov  3 15:34:42 2020  reduce to 64243757 relations and 61990993 ideals in 8 passes
+Tue Nov  3 15:34:42 2020  max relations containing the same ideal: 144
+Tue Nov  3 15:35:05 2020  removing 6626443 relations and 5080652 ideals in 1545791 cliques
+Tue Nov  3 15:35:07 2020  commencing in-memory singleton removal
+Tue Nov  3 15:35:10 2020  begin with 57617314 relations and 61990993 unique ideals
+Tue Nov  3 15:35:34 2020  reduce to 57041996 relations and 56322562 ideals in 8 passes
+Tue Nov  3 15:35:34 2020  max relations containing the same ideal: 136
+Tue Nov  3 15:35:55 2020  removing 114802 relations and 102341 ideals in 12461 cliques
+Tue Nov  3 15:35:55 2020  commencing in-memory singleton removal
+Tue Nov  3 15:35:59 2020  begin with 56927194 relations and 56322562 unique ideals
+Tue Nov  3 15:36:14 2020  reduce to 56927038 relations and 56220065 ideals in 5 passes
+Tue Nov  3 15:36:14 2020  max relations containing the same ideal: 135
+Tue Nov  3 15:36:23 2020  relations with 0 large ideals: 22533
+Tue Nov  3 15:36:23 2020  relations with 1 large ideals: 3425
+Tue Nov  3 15:36:23 2020  relations with 2 large ideals: 50567
+Tue Nov  3 15:36:23 2020  relations with 3 large ideals: 440120
+Tue Nov  3 15:36:23 2020  relations with 4 large ideals: 2151142
+Tue Nov  3 15:36:23 2020  relations with 5 large ideals: 6401207
+Tue Nov  3 15:36:23 2020  relations with 6 large ideals: 12163451
+Tue Nov  3 15:36:23 2020  relations with 7+ large ideals: 35694593
+Tue Nov  3 15:36:23 2020  commencing 2-way merge
+Tue Nov  3 15:36:52 2020  reduce to 36767558 relation sets and 36060585 unique ideals
+Tue Nov  3 15:36:52 2020  commencing full merge
+Tue Nov  3 16:00:53 2020  memory use: 1663.6 MB
+Tue Nov  3 16:00:53 2020  found 114743 cycles, need 7663159
+Tue Nov  3 16:00:53 2020  too few cycles, matrix probably cannot build
+Tue Nov  3 16:00:54 2020  filtering wants 1000000 more relations
+Tue Nov  3 16:00:54 2020  elapsed time 01:24:38
+Tue Nov  3 16:01:22 2020  
+Tue Nov  3 16:01:22 2020  
+Tue Nov  3 16:01:22 2020  Msieve v. 1.54 (SVN 1034)
+Tue Nov  3 16:01:22 2020  random seeds: 7736120a 3673de95
+Tue Nov  3 16:01:22 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Tue Nov  3 16:01:22 2020  searching for 15-digit factors
+Tue Nov  3 16:01:23 2020  commencing number field sieve (226-digit input)
+Tue Nov  3 16:01:23 2020  R0: 78829746184630742457434595059507577749
+Tue Nov  3 16:01:23 2020  R1: -1
+Tue Nov  3 16:01:23 2020  A0: -1
+Tue Nov  3 16:01:23 2020  A1: 0
+Tue Nov  3 16:01:23 2020  A2: 0
+Tue Nov  3 16:01:23 2020  A3: 0
+Tue Nov  3 16:01:23 2020  A4: 0
+Tue Nov  3 16:01:23 2020  A5: 0
+Tue Nov  3 16:01:23 2020  A6: 4287755796749
+Tue Nov  3 16:01:23 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Tue Nov  3 16:01:23 2020  
+Tue Nov  3 16:01:23 2020  commencing relation filtering
+Tue Nov  3 16:01:23 2020  setting target matrix density to 110.0
+Tue Nov  3 16:01:23 2020  estimated available RAM is 32067.9 MB
+Tue Nov  3 16:01:23 2020  commencing duplicate removal, pass 1
+<350 errors>
+Tue Nov  3 16:25:47 2020  skipped 1093697 relations with b > 2^32
+Tue Nov  3 16:25:47 2020  skipped 166 relations with composite factors
+Tue Nov  3 16:25:47 2020  found 60870041 hash collisions in 250709114 relations
+Tue Nov  3 16:25:56 2020  commencing duplicate removal, pass 2
+Tue Nov  3 16:27:18 2020  found 67646564 duplicates and 183062550 unique relations
+Tue Nov  3 16:27:18 2020  memory use: 1449.5 MB
+Tue Nov  3 16:27:18 2020  reading ideals above 179896320
+Tue Nov  3 16:27:18 2020  commencing singleton removal, initial pass
+Tue Nov  3 16:39:36 2020  memory use: 3012.0 MB
+Tue Nov  3 16:39:36 2020  reading all ideals from disk
+Tue Nov  3 16:39:38 2020  memory use: 3221.8 MB
+Tue Nov  3 16:39:43 2020  commencing in-memory singleton removal
+Tue Nov  3 16:39:48 2020  begin with 183062550 relations and 158482225 unique ideals
+Tue Nov  3 16:40:53 2020  reduce to 115265551 relations and 83670000 ideals in 16 passes
+Tue Nov  3 16:40:53 2020  max relations containing the same ideal: 34
+Tue Nov  3 16:40:57 2020  reading ideals above 720000
+Tue Nov  3 16:40:57 2020  commencing singleton removal, initial pass
+Tue Nov  3 16:51:24 2020  memory use: 2756.0 MB
+Tue Nov  3 16:51:24 2020  reading all ideals from disk
+Tue Nov  3 16:51:26 2020  memory use: 4766.1 MB
+Tue Nov  3 16:51:33 2020  keeping 103104400 ideals with weight <= 200, target excess is 609459
+Tue Nov  3 16:51:43 2020  commencing in-memory singleton removal
+Tue Nov  3 16:51:49 2020  begin with 115265551 relations and 103104400 unique ideals
+Tue Nov  3 16:52:58 2020  reduce to 115216338 relations and 103055186 ideals in 11 passes
+Tue Nov  3 16:52:58 2020  max relations containing the same ideal: 200
+Tue Nov  3 16:53:37 2020  removing 12231622 relations and 10231622 ideals in 2000000 cliques
+Tue Nov  3 16:53:40 2020  commencing in-memory singleton removal
+Tue Nov  3 16:53:46 2020  begin with 102984716 relations and 103055186 unique ideals
+Tue Nov  3 16:54:47 2020  reduce to 101876248 relations and 91689782 ideals in 11 passes
+Tue Nov  3 16:54:47 2020  max relations containing the same ideal: 194
+Tue Nov  3 16:55:22 2020  removing 9477256 relations and 7477256 ideals in 2000000 cliques
+Tue Nov  3 16:55:24 2020  commencing in-memory singleton removal
+Tue Nov  3 16:55:29 2020  begin with 92398992 relations and 91689782 unique ideals
+Tue Nov  3 16:56:09 2020  reduce to 91629940 relations and 83428080 ideals in 8 passes
+Tue Nov  3 16:56:09 2020  max relations containing the same ideal: 184
+Tue Nov  3 16:56:41 2020  removing 8671635 relations and 6671635 ideals in 2000000 cliques
+Tue Nov  3 16:56:43 2020  commencing in-memory singleton removal
+Tue Nov  3 16:56:48 2020  begin with 82958305 relations and 83428080 unique ideals
+Tue Nov  3 16:57:23 2020  reduce to 82240066 relations and 76023084 ideals in 8 passes
+Tue Nov  3 16:57:23 2020  max relations containing the same ideal: 171
+Tue Nov  3 16:57:53 2020  removing 8323316 relations and 6323316 ideals in 2000000 cliques
+Tue Nov  3 16:57:54 2020  commencing in-memory singleton removal
+Tue Nov  3 16:57:58 2020  begin with 73916750 relations and 76023084 unique ideals
+Tue Nov  3 16:58:34 2020  reduce to 73186379 relations and 68953053 ideals in 9 passes
+Tue Nov  3 16:58:34 2020  max relations containing the same ideal: 157
+Tue Nov  3 16:59:00 2020  removing 8155228 relations and 6155228 ideals in 2000000 cliques
+Tue Nov  3 16:59:02 2020  commencing in-memory singleton removal
+Tue Nov  3 16:59:05 2020  begin with 65031151 relations and 68953053 unique ideals
+Tue Nov  3 16:59:33 2020  reduce to 64243757 relations and 61990993 ideals in 8 passes
+Tue Nov  3 16:59:33 2020  max relations containing the same ideal: 144
+Tue Nov  3 16:59:56 2020  removing 6626443 relations and 5080652 ideals in 1545791 cliques
+Tue Nov  3 16:59:58 2020  commencing in-memory singleton removal
+Tue Nov  3 17:00:01 2020  begin with 57617314 relations and 61990993 unique ideals
+Tue Nov  3 17:00:25 2020  reduce to 57041996 relations and 56322562 ideals in 8 passes
+Tue Nov  3 17:00:25 2020  max relations containing the same ideal: 136
+Tue Nov  3 17:00:46 2020  removing 114802 relations and 102341 ideals in 12461 cliques
+Tue Nov  3 17:00:46 2020  commencing in-memory singleton removal
+Tue Nov  3 17:00:50 2020  begin with 56927194 relations and 56322562 unique ideals
+Tue Nov  3 17:01:05 2020  reduce to 56927038 relations and 56220065 ideals in 5 passes
+Tue Nov  3 17:01:05 2020  max relations containing the same ideal: 135
+Tue Nov  3 17:01:14 2020  relations with 0 large ideals: 22533
+Tue Nov  3 17:01:14 2020  relations with 1 large ideals: 3425
+Tue Nov  3 17:01:14 2020  relations with 2 large ideals: 50567
+Tue Nov  3 17:01:14 2020  relations with 3 large ideals: 440120
+Tue Nov  3 17:01:14 2020  relations with 4 large ideals: 2151142
+Tue Nov  3 17:01:14 2020  relations with 5 large ideals: 6401207
+Tue Nov  3 17:01:14 2020  relations with 6 large ideals: 12163451
+Tue Nov  3 17:01:14 2020  relations with 7+ large ideals: 35694593
+Tue Nov  3 17:01:14 2020  commencing 2-way merge
+Tue Nov  3 17:01:43 2020  reduce to 36767558 relation sets and 36060585 unique ideals
+Tue Nov  3 17:01:43 2020  commencing full merge
+Tue Nov  3 17:25:35 2020  memory use: 1663.6 MB
+Tue Nov  3 17:25:36 2020  found 114743 cycles, need 7663159
+Tue Nov  3 17:25:36 2020  too few cycles, matrix probably cannot build
+Tue Nov  3 17:25:36 2020  filtering wants 1000000 more relations
+Tue Nov  3 17:25:36 2020  elapsed time 01:24:14
+Tue Nov  3 17:25:41 2020  
+Tue Nov  3 17:25:41 2020  
+Tue Nov  3 17:25:41 2020  Msieve v. 1.54 (SVN 1034)
+Tue Nov  3 17:25:41 2020  random seeds: 640f7084 b131eb30
+Tue Nov  3 17:25:41 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Tue Nov  3 17:25:42 2020  searching for 15-digit factors
+Tue Nov  3 17:25:42 2020  commencing number field sieve (226-digit input)
+Tue Nov  3 17:25:42 2020  R0: 78829746184630742457434595059507577749
+Tue Nov  3 17:25:42 2020  R1: -1
+Tue Nov  3 17:25:42 2020  A0: -1
+Tue Nov  3 17:25:42 2020  A1: 0
+Tue Nov  3 17:25:42 2020  A2: 0
+Tue Nov  3 17:25:42 2020  A3: 0
+Tue Nov  3 17:25:42 2020  A4: 0
+Tue Nov  3 17:25:42 2020  A5: 0
+Tue Nov  3 17:25:42 2020  A6: 4287755796749
+Tue Nov  3 17:25:42 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Tue Nov  3 17:25:42 2020  
+Tue Nov  3 17:25:42 2020  commencing relation filtering
+Tue Nov  3 17:25:42 2020  setting target matrix density to 100.0
+Tue Nov  3 17:25:42 2020  estimated available RAM is 32067.9 MB
+Tue Nov  3 17:25:42 2020  commencing duplicate removal, pass 1
+<350 errors>
+Tue Nov  3 17:50:05 2020  skipped 1093697 relations with b > 2^32
+Tue Nov  3 17:50:05 2020  skipped 166 relations with composite factors
+Tue Nov  3 17:50:05 2020  found 60870041 hash collisions in 250709114 relations
+Tue Nov  3 17:50:14 2020  commencing duplicate removal, pass 2
+Tue Nov  3 17:51:30 2020  found 67646564 duplicates and 183062550 unique relations
+Tue Nov  3 17:51:30 2020  memory use: 1449.5 MB
+Tue Nov  3 17:51:30 2020  reading ideals above 179896320
+Tue Nov  3 17:51:30 2020  commencing singleton removal, initial pass
+Tue Nov  3 18:03:58 2020  memory use: 3012.0 MB
+Tue Nov  3 18:03:58 2020  reading all ideals from disk
+Tue Nov  3 18:04:01 2020  memory use: 3221.8 MB
+Tue Nov  3 18:04:06 2020  commencing in-memory singleton removal
+Tue Nov  3 18:04:11 2020  begin with 183062550 relations and 158482225 unique ideals
+Tue Nov  3 18:05:16 2020  reduce to 115265551 relations and 83670000 ideals in 16 passes
+Tue Nov  3 18:05:16 2020  max relations containing the same ideal: 34
+Tue Nov  3 18:05:20 2020  reading ideals above 720000
+Tue Nov  3 18:05:20 2020  commencing singleton removal, initial pass
+Tue Nov  3 18:15:47 2020  memory use: 2756.0 MB
+Tue Nov  3 18:15:47 2020  reading all ideals from disk
+Tue Nov  3 18:15:51 2020  memory use: 4766.1 MB
+Tue Nov  3 18:15:59 2020  keeping 103104400 ideals with weight <= 200, target excess is 609459
+Tue Nov  3 18:16:09 2020  commencing in-memory singleton removal
+Tue Nov  3 18:16:15 2020  begin with 115265551 relations and 103104400 unique ideals
+Tue Nov  3 18:17:25 2020  reduce to 115216338 relations and 103055186 ideals in 11 passes
+Tue Nov  3 18:17:25 2020  max relations containing the same ideal: 200
+Tue Nov  3 18:18:05 2020  removing 12231622 relations and 10231622 ideals in 2000000 cliques
+Tue Nov  3 18:18:07 2020  commencing in-memory singleton removal
+Tue Nov  3 18:18:13 2020  begin with 102984716 relations and 103055186 unique ideals
+Tue Nov  3 18:19:15 2020  reduce to 101876248 relations and 91689782 ideals in 11 passes
+Tue Nov  3 18:19:15 2020  max relations containing the same ideal: 194
+Tue Nov  3 18:19:51 2020  removing 9477256 relations and 7477256 ideals in 2000000 cliques
+Tue Nov  3 18:19:53 2020  commencing in-memory singleton removal
+Tue Nov  3 18:19:58 2020  begin with 92398992 relations and 91689782 unique ideals
+Tue Nov  3 18:20:38 2020  reduce to 91629940 relations and 83428080 ideals in 8 passes
+Tue Nov  3 18:20:38 2020  max relations containing the same ideal: 184
+Tue Nov  3 18:21:11 2020  removing 8671635 relations and 6671635 ideals in 2000000 cliques
+Tue Nov  3 18:21:13 2020  commencing in-memory singleton removal
+Tue Nov  3 18:21:17 2020  begin with 82958305 relations and 83428080 unique ideals
+Tue Nov  3 18:21:53 2020  reduce to 82240066 relations and 76023084 ideals in 8 passes
+Tue Nov  3 18:21:53 2020  max relations containing the same ideal: 171
+Tue Nov  3 18:22:23 2020  removing 8323316 relations and 6323316 ideals in 2000000 cliques
+Tue Nov  3 18:22:25 2020  commencing in-memory singleton removal
+Tue Nov  3 18:22:29 2020  begin with 73916750 relations and 76023084 unique ideals
+Tue Nov  3 18:23:05 2020  reduce to 73186379 relations and 68953053 ideals in 9 passes
+Tue Nov  3 18:23:05 2020  max relations containing the same ideal: 157
+Tue Nov  3 18:23:31 2020  removing 8155228 relations and 6155228 ideals in 2000000 cliques
+Tue Nov  3 18:23:33 2020  commencing in-memory singleton removal
+Tue Nov  3 18:23:37 2020  begin with 65031151 relations and 68953053 unique ideals
+Tue Nov  3 18:24:05 2020  reduce to 64243757 relations and 61990993 ideals in 8 passes
+Tue Nov  3 18:24:05 2020  max relations containing the same ideal: 144
+Tue Nov  3 18:24:28 2020  removing 6626443 relations and 5080652 ideals in 1545791 cliques
+Tue Nov  3 18:24:30 2020  commencing in-memory singleton removal
+Tue Nov  3 18:24:33 2020  begin with 57617314 relations and 61990993 unique ideals
+Tue Nov  3 18:24:57 2020  reduce to 57041996 relations and 56322562 ideals in 8 passes
+Tue Nov  3 18:24:57 2020  max relations containing the same ideal: 136
+Tue Nov  3 18:25:18 2020  removing 114802 relations and 102341 ideals in 12461 cliques
+Tue Nov  3 18:25:19 2020  commencing in-memory singleton removal
+Tue Nov  3 18:25:22 2020  begin with 56927194 relations and 56322562 unique ideals
+Tue Nov  3 18:25:37 2020  reduce to 56927038 relations and 56220065 ideals in 5 passes
+Tue Nov  3 18:25:37 2020  max relations containing the same ideal: 135
+Tue Nov  3 18:25:46 2020  relations with 0 large ideals: 22533
+Tue Nov  3 18:25:46 2020  relations with 1 large ideals: 3425
+Tue Nov  3 18:25:46 2020  relations with 2 large ideals: 50567
+Tue Nov  3 18:25:46 2020  relations with 3 large ideals: 440120
+Tue Nov  3 18:25:46 2020  relations with 4 large ideals: 2151142
+Tue Nov  3 18:25:46 2020  relations with 5 large ideals: 6401207
+Tue Nov  3 18:25:46 2020  relations with 6 large ideals: 12163451
+Tue Nov  3 18:25:46 2020  relations with 7+ large ideals: 35694593
+Tue Nov  3 18:25:46 2020  commencing 2-way merge
+Tue Nov  3 18:26:16 2020  reduce to 36767558 relation sets and 36060585 unique ideals
+Tue Nov  3 18:26:16 2020  commencing full merge
+Tue Nov  3 18:36:34 2020  memory use: 4701.9 MB
+Tue Nov  3 18:36:37 2020  found 17390450 cycles, need 17340785
+Tue Nov  3 18:36:41 2020  weight of 17340785 cycles is about 1734140037 (100.00/cycle)
+Tue Nov  3 18:36:41 2020  distribution of cycle lengths:
+Tue Nov  3 18:36:41 2020  1 relations: 1572127
+Tue Nov  3 18:36:41 2020  2 relations: 1573784
+Tue Nov  3 18:36:41 2020  3 relations: 1573495
+Tue Nov  3 18:36:41 2020  4 relations: 1493716
+Tue Nov  3 18:36:41 2020  5 relations: 1423393
+Tue Nov  3 18:36:41 2020  6 relations: 1317325
+Tue Nov  3 18:36:41 2020  7 relations: 1224883
+Tue Nov  3 18:36:41 2020  8 relations: 1114322
+Tue Nov  3 18:36:41 2020  9 relations: 999341
+Tue Nov  3 18:36:41 2020  10+ relations: 5048399
+Tue Nov  3 18:36:41 2020  heaviest cycle: 28 relations
+Tue Nov  3 18:36:45 2020  commencing cycle optimization
+Tue Nov  3 18:37:09 2020  start with 126618238 relations
+Tue Nov  3 18:40:23 2020  pruned 4514748 relations
+Tue Nov  3 18:40:24 2020  memory use: 3649.1 MB
+Tue Nov  3 18:40:24 2020  distribution of cycle lengths:
+Tue Nov  3 18:40:24 2020  1 relations: 1572127
+Tue Nov  3 18:40:24 2020  2 relations: 1609378
+Tue Nov  3 18:40:24 2020  3 relations: 1636373
+Tue Nov  3 18:40:24 2020  4 relations: 1544422
+Tue Nov  3 18:40:24 2020  5 relations: 1477377
+Tue Nov  3 18:40:24 2020  6 relations: 1359714
+Tue Nov  3 18:40:24 2020  7 relations: 1263763
+Tue Nov  3 18:40:24 2020  8 relations: 1140492
+Tue Nov  3 18:40:24 2020  9 relations: 1019851
+Tue Nov  3 18:40:24 2020  10+ relations: 4717288
+Tue Nov  3 18:40:24 2020  heaviest cycle: 28 relations
+Tue Nov  3 18:40:47 2020  RelProcTime: 4505
+Tue Nov  3 18:40:47 2020  elapsed time 01:15:06
+Tue Nov  3 19:12:52 2020  
+Tue Nov  3 19:12:52 2020  
+Tue Nov  3 19:12:52 2020  Msieve v. 1.54 (SVN 1034)
+Tue Nov  3 19:12:52 2020  random seeds: 01af791f 2f401ccf
+Tue Nov  3 19:12:52 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Tue Nov  3 19:12:53 2020  searching for 15-digit factors
+Tue Nov  3 19:12:53 2020  commencing number field sieve (226-digit input)
+Tue Nov  3 19:12:53 2020  R0: 78829746184630742457434595059507577749
+Tue Nov  3 19:12:53 2020  R1: -1
+Tue Nov  3 19:12:53 2020  A0: -1
+Tue Nov  3 19:12:53 2020  A1: 0
+Tue Nov  3 19:12:53 2020  A2: 0
+Tue Nov  3 19:12:53 2020  A3: 0
+Tue Nov  3 19:12:53 2020  A4: 0
+Tue Nov  3 19:12:53 2020  A5: 0
+Tue Nov  3 19:12:53 2020  A6: 4287755796749
+Tue Nov  3 19:12:53 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Tue Nov  3 19:12:53 2020  
+Tue Nov  3 19:12:53 2020  commencing linear algebra
+Tue Nov  3 19:12:54 2020  read 17340785 cycles
+Tue Nov  3 19:13:16 2020  cycles contain 56426164 unique relations
+Tue Nov  3 19:16:38 2020  read 56426164 relations
+Tue Nov  3 19:18:33 2020  using 20 quadratic characters above 4294917295
+Tue Nov  3 19:21:08 2020  building initial matrix
+Tue Nov  3 19:28:54 2020  memory use: 7151.3 MB
+Tue Nov  3 19:29:08 2020  read 17340785 cycles
+Tue Nov  3 19:29:09 2020  matrix is 17340608 x 17340785 (7039.1 MB) with weight 2042017186 (117.76/col)
+Tue Nov  3 19:29:09 2020  sparse part has weight 1654496623 (95.41/col)
+Tue Nov  3 19:31:16 2020  filtering completed in 2 passes
+Tue Nov  3 19:31:19 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Tue Nov  3 19:31:19 2020  sparse part has weight 1654483376 (95.42/col)
+Tue Nov  3 19:31:46 2020  matrix starts at (0, 0)
+Tue Nov  3 19:31:47 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Tue Nov  3 19:31:47 2020  sparse part has weight 1654483376 (95.42/col)
+Tue Nov  3 19:31:47 2020  saving the first 48 matrix rows for later
+Tue Nov  3 19:31:49 2020  matrix includes 64 packed rows
+Tue Nov  3 19:31:51 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Tue Nov  3 19:31:51 2020  sparse part has weight 1604273632 (92.52/col)
+Tue Nov  3 19:31:51 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Tue Nov  3 19:32:37 2020  commencing Lanczos iteration (16 threads)
+Tue Nov  3 19:32:37 2020  memory use: 6592.7 MB
+Tue Nov  3 19:33:30 2020  linear algebra at 0.0%, ETA 161h48m
+Tue Nov  3 19:33:47 2020  checkpointing every 110000 dimensions
+Wed Nov  4 01:33:06 2020  lanczos halted after 10205 iterations (dim = 645362)
+Wed Nov  4 01:33:06 2020  BLanczosTime: 22813
+Wed Nov  4 01:33:06 2020  elapsed time 06:20:14
+Wed Nov  4 08:59:15 2020  
+Wed Nov  4 08:59:15 2020  
+Wed Nov  4 08:59:15 2020  Msieve v. 1.54 (SVN 1034)
+Wed Nov  4 08:59:15 2020  random seeds: 60d32dfa 9f92388e
+Wed Nov  4 08:59:15 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Wed Nov  4 08:59:16 2020  searching for 15-digit factors
+Wed Nov  4 08:59:16 2020  commencing number field sieve (226-digit input)
+Wed Nov  4 08:59:16 2020  R0: 78829746184630742457434595059507577749
+Wed Nov  4 08:59:16 2020  R1: -1
+Wed Nov  4 08:59:16 2020  A0: -1
+Wed Nov  4 08:59:16 2020  A1: 0
+Wed Nov  4 08:59:16 2020  A2: 0
+Wed Nov  4 08:59:16 2020  A3: 0
+Wed Nov  4 08:59:16 2020  A4: 0
+Wed Nov  4 08:59:16 2020  A5: 0
+Wed Nov  4 08:59:16 2020  A6: 4287755796749
+Wed Nov  4 08:59:16 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Wed Nov  4 08:59:16 2020  
+Wed Nov  4 08:59:16 2020  commencing linear algebra
+Wed Nov  4 08:59:32 2020  matrix starts at (0, 0)
+Wed Nov  4 08:59:33 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Wed Nov  4 08:59:33 2020  sparse part has weight 1654483376 (95.42/col)
+Wed Nov  4 08:59:33 2020  saving the first 48 matrix rows for later
+Wed Nov  4 08:59:35 2020  matrix includes 64 packed rows
+Wed Nov  4 08:59:37 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Wed Nov  4 08:59:37 2020  sparse part has weight 1604273632 (92.52/col)
+Wed Nov  4 08:59:37 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Wed Nov  4 09:00:22 2020  commencing Lanczos iteration (16 threads)
+Wed Nov  4 09:00:22 2020  memory use: 6592.7 MB
+Wed Nov  4 09:00:23 2020  restarting at iteration 10205 (dim = 645362)
+Wed Nov  4 09:00:45 2020  checkpointing every 120000 dimensions
+Wed Nov  4 09:01:12 2020  linear algebra at 3.7%, ETA 149h52m
+Wed Nov  4 12:48:15 2020  lanczos halted after 16776 iterations (dim = 1060824)
+Wed Nov  4 12:48:15 2020  BLanczosTime: 13739
+Wed Nov  4 12:48:15 2020  elapsed time 03:49:00
+Wed Nov  4 13:44:37 2020  
+Wed Nov  4 13:44:37 2020  
+Wed Nov  4 13:44:37 2020  Msieve v. 1.54 (SVN 1034)
+Wed Nov  4 13:44:37 2020  random seeds: 78362600 c5eba976
+Wed Nov  4 13:44:37 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Wed Nov  4 13:44:38 2020  searching for 15-digit factors
+Wed Nov  4 13:44:38 2020  commencing number field sieve (226-digit input)
+Wed Nov  4 13:44:38 2020  R0: 78829746184630742457434595059507577749
+Wed Nov  4 13:44:38 2020  R1: -1
+Wed Nov  4 13:44:38 2020  A0: -1
+Wed Nov  4 13:44:38 2020  A1: 0
+Wed Nov  4 13:44:38 2020  A2: 0
+Wed Nov  4 13:44:38 2020  A3: 0
+Wed Nov  4 13:44:38 2020  A4: 0
+Wed Nov  4 13:44:38 2020  A5: 0
+Wed Nov  4 13:44:38 2020  A6: 4287755796749
+Wed Nov  4 13:44:38 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Wed Nov  4 13:44:38 2020  
+Wed Nov  4 13:44:38 2020  commencing linear algebra
+Wed Nov  4 13:44:41 2020  matrix starts at (0, 0)
+Wed Nov  4 13:44:42 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Wed Nov  4 13:44:42 2020  sparse part has weight 1654483376 (95.42/col)
+Wed Nov  4 13:44:42 2020  saving the first 48 matrix rows for later
+Wed Nov  4 13:44:44 2020  matrix includes 64 packed rows
+Wed Nov  4 13:44:46 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Wed Nov  4 13:44:46 2020  sparse part has weight 1604273632 (92.52/col)
+Wed Nov  4 13:44:46 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Wed Nov  4 13:45:30 2020  commencing Lanczos iteration (16 threads)
+Wed Nov  4 13:45:30 2020  memory use: 6592.7 MB
+Wed Nov  4 13:45:30 2020  restarting at iteration 16776 (dim = 1060824)
+Wed Nov  4 13:46:07 2020  checkpointing every 120000 dimensions
+Wed Nov  4 13:46:17 2020  linear algebra at 6.1%, ETA 139h26m
+Wed Nov  4 15:56:58 2020  lanczos halted after 20741 iterations (dim = 1311540)
+Wed Nov  4 15:56:58 2020  BLanczosTime: 7940
+Wed Nov  4 15:56:58 2020  elapsed time 02:12:21
+Wed Nov  4 18:58:09 2020  
+Wed Nov  4 18:58:09 2020  
+Wed Nov  4 18:58:09 2020  Msieve v. 1.54 (SVN 1034)
+Wed Nov  4 18:58:09 2020  random seeds: fbfde998 3e1ba8ce
+Wed Nov  4 18:58:09 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Wed Nov  4 18:58:09 2020  searching for 15-digit factors
+Wed Nov  4 18:58:10 2020  commencing number field sieve (226-digit input)
+Wed Nov  4 18:58:10 2020  R0: 78829746184630742457434595059507577749
+Wed Nov  4 18:58:10 2020  R1: -1
+Wed Nov  4 18:58:10 2020  A0: -1
+Wed Nov  4 18:58:10 2020  A1: 0
+Wed Nov  4 18:58:10 2020  A2: 0
+Wed Nov  4 18:58:10 2020  A3: 0
+Wed Nov  4 18:58:10 2020  A4: 0
+Wed Nov  4 18:58:10 2020  A5: 0
+Wed Nov  4 18:58:10 2020  A6: 4287755796749
+Wed Nov  4 18:58:10 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Wed Nov  4 18:58:10 2020  
+Wed Nov  4 18:58:10 2020  commencing linear algebra
+Wed Nov  4 18:58:12 2020  matrix starts at (0, 0)
+Wed Nov  4 18:58:13 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Wed Nov  4 18:58:13 2020  sparse part has weight 1654483376 (95.42/col)
+Wed Nov  4 18:58:13 2020  saving the first 48 matrix rows for later
+Wed Nov  4 18:58:15 2020  matrix includes 64 packed rows
+Wed Nov  4 18:58:17 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Wed Nov  4 18:58:17 2020  sparse part has weight 1604273632 (92.52/col)
+Wed Nov  4 18:58:17 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Wed Nov  4 18:59:02 2020  commencing Lanczos iteration (16 threads)
+Wed Nov  4 18:59:02 2020  memory use: 6592.7 MB
+Wed Nov  4 18:59:03 2020  restarting at iteration 20741 (dim = 1311540)
+Wed Nov  4 18:59:18 2020  checkpointing every 130000 dimensions
+Wed Nov  4 18:59:48 2020  linear algebra at 7.6%, ETA 132h 8m
+Thu Nov  5 01:45:15 2020  lanczos halted after 33459 iterations (dim = 2115799)
+Thu Nov  5 01:45:16 2020  BLanczosTime: 24426
+Thu Nov  5 01:45:16 2020  elapsed time 06:47:07
+Thu Nov  5 08:52:03 2020  
+Thu Nov  5 08:52:03 2020  
+Thu Nov  5 08:52:03 2020  Msieve v. 1.54 (SVN 1034)
+Thu Nov  5 08:52:03 2020  random seeds: 7393cd21 b4a756be
+Thu Nov  5 08:52:03 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Thu Nov  5 08:52:03 2020  searching for 15-digit factors
+Thu Nov  5 08:52:04 2020  commencing number field sieve (226-digit input)
+Thu Nov  5 08:52:04 2020  R0: 78829746184630742457434595059507577749
+Thu Nov  5 08:52:04 2020  R1: -1
+Thu Nov  5 08:52:04 2020  A0: -1
+Thu Nov  5 08:52:04 2020  A1: 0
+Thu Nov  5 08:52:04 2020  A2: 0
+Thu Nov  5 08:52:04 2020  A3: 0
+Thu Nov  5 08:52:04 2020  A4: 0
+Thu Nov  5 08:52:04 2020  A5: 0
+Thu Nov  5 08:52:04 2020  A6: 4287755796749
+Thu Nov  5 08:52:04 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Thu Nov  5 08:52:04 2020  
+Thu Nov  5 08:52:04 2020  commencing linear algebra
+Thu Nov  5 08:52:20 2020  matrix starts at (0, 0)
+Thu Nov  5 08:52:21 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Thu Nov  5 08:52:21 2020  sparse part has weight 1654483376 (95.42/col)
+Thu Nov  5 08:52:21 2020  saving the first 48 matrix rows for later
+Thu Nov  5 08:52:23 2020  matrix includes 64 packed rows
+Thu Nov  5 08:52:25 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Thu Nov  5 08:52:25 2020  sparse part has weight 1604273632 (92.52/col)
+Thu Nov  5 08:52:25 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Thu Nov  5 08:53:09 2020  commencing Lanczos iteration (16 threads)
+Thu Nov  5 08:53:09 2020  memory use: 6592.7 MB
+Thu Nov  5 08:53:11 2020  restarting at iteration 33459 (dim = 2115799)
+Thu Nov  5 08:53:58 2020  linear algebra at 12.2%, ETA 131h 0m
+Thu Nov  5 08:54:20 2020  checkpointing every 120000 dimensions
+Fri Nov  6 01:51:03 2020  lanczos halted after 64162 iterations (dim = 4057248)
+Fri Nov  6 01:51:03 2020  BLanczosTime: 61139
+Fri Nov  6 01:51:03 2020  elapsed time 16:59:00
+Fri Nov  6 09:53:12 2020  
+Fri Nov  6 09:53:12 2020  
+Fri Nov  6 09:53:12 2020  Msieve v. 1.54 (SVN 1034)
+Fri Nov  6 09:53:12 2020  random seeds: 6e3824f9 c5377036
+Fri Nov  6 09:53:12 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Fri Nov  6 09:53:13 2020  searching for 15-digit factors
+Fri Nov  6 09:53:13 2020  commencing number field sieve (226-digit input)
+Fri Nov  6 09:53:13 2020  R0: 78829746184630742457434595059507577749
+Fri Nov  6 09:53:13 2020  R1: -1
+Fri Nov  6 09:53:13 2020  A0: -1
+Fri Nov  6 09:53:13 2020  A1: 0
+Fri Nov  6 09:53:13 2020  A2: 0
+Fri Nov  6 09:53:13 2020  A3: 0
+Fri Nov  6 09:53:13 2020  A4: 0
+Fri Nov  6 09:53:13 2020  A5: 0
+Fri Nov  6 09:53:13 2020  A6: 4287755796749
+Fri Nov  6 09:53:13 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Fri Nov  6 09:53:13 2020  
+Fri Nov  6 09:53:13 2020  commencing linear algebra
+Fri Nov  6 09:53:29 2020  matrix starts at (0, 0)
+Fri Nov  6 09:53:31 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Fri Nov  6 09:53:31 2020  sparse part has weight 1654483376 (95.42/col)
+Fri Nov  6 09:53:31 2020  saving the first 48 matrix rows for later
+Fri Nov  6 09:53:33 2020  matrix includes 64 packed rows
+Fri Nov  6 09:53:35 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Fri Nov  6 09:53:35 2020  sparse part has weight 1604273632 (92.52/col)
+Fri Nov  6 09:53:35 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Fri Nov  6 09:54:18 2020  commencing Lanczos iteration (16 threads)
+Fri Nov  6 09:54:18 2020  memory use: 6592.7 MB
+Fri Nov  6 09:54:19 2020  restarting at iteration 64162 (dim = 4057248)
+Fri Nov  6 09:54:45 2020  checkpointing every 110000 dimensions
+Fri Nov  6 09:55:10 2020  linear algebra at 23.4%, ETA 124h 1m
+Fri Nov  6 12:35:47 2020  lanczos halted after 68604 iterations (dim = 4338087)
+Fri Nov  6 12:35:47 2020  BLanczosTime: 9754
+Fri Nov  6 12:35:47 2020  elapsed time 02:42:35
+Fri Nov  6 15:04:57 2020  
+Fri Nov  6 15:04:57 2020  
+Fri Nov  6 15:04:57 2020  Msieve v. 1.54 (SVN 1034)
+Fri Nov  6 15:04:57 2020  random seeds: c72eb6b6 26395beb
+Fri Nov  6 15:04:57 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Fri Nov  6 15:04:58 2020  searching for 15-digit factors
+Fri Nov  6 15:04:58 2020  commencing number field sieve (226-digit input)
+Fri Nov  6 15:04:58 2020  R0: 78829746184630742457434595059507577749
+Fri Nov  6 15:04:58 2020  R1: -1
+Fri Nov  6 15:04:58 2020  A0: -1
+Fri Nov  6 15:04:58 2020  A1: 0
+Fri Nov  6 15:04:58 2020  A2: 0
+Fri Nov  6 15:04:58 2020  A3: 0
+Fri Nov  6 15:04:58 2020  A4: 0
+Fri Nov  6 15:04:58 2020  A5: 0
+Fri Nov  6 15:04:58 2020  A6: 4287755796749
+Fri Nov  6 15:04:58 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Fri Nov  6 15:04:58 2020  
+Fri Nov  6 15:04:58 2020  commencing linear algebra
+Fri Nov  6 15:05:01 2020  matrix starts at (0, 0)
+Fri Nov  6 15:05:03 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Fri Nov  6 15:05:03 2020  sparse part has weight 1654483376 (95.42/col)
+Fri Nov  6 15:05:03 2020  saving the first 48 matrix rows for later
+Fri Nov  6 15:05:04 2020  matrix includes 64 packed rows
+Fri Nov  6 15:05:06 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Fri Nov  6 15:05:06 2020  sparse part has weight 1604273632 (92.52/col)
+Fri Nov  6 15:05:06 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Fri Nov  6 15:05:51 2020  commencing Lanczos iteration (16 threads)
+Fri Nov  6 15:05:51 2020  memory use: 6592.7 MB
+Fri Nov  6 15:05:51 2020  restarting at iteration 68604 (dim = 4338087)
+Fri Nov  6 15:06:38 2020  linear algebra at 25.0%, ETA 111h35m
+Fri Nov  6 15:06:52 2020  checkpointing every 120000 dimensions
+Fri Nov  6 17:22:41 2020  lanczos halted after 72774 iterations (dim = 4601822)
+Fri Nov  6 17:22:41 2020  BLanczosTime: 8263
+Fri Nov  6 17:22:41 2020  elapsed time 02:17:44
+Fri Nov  6 17:34:07 2020  
+Fri Nov  6 17:34:07 2020  
+Fri Nov  6 17:34:07 2020  Msieve v. 1.54 (SVN 1034)
+Fri Nov  6 17:34:07 2020  random seeds: fd3f4870 9ee1249c
+Fri Nov  6 17:34:07 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Fri Nov  6 17:34:08 2020  searching for 15-digit factors
+Fri Nov  6 17:34:08 2020  commencing number field sieve (226-digit input)
+Fri Nov  6 17:34:08 2020  R0: 78829746184630742457434595059507577749
+Fri Nov  6 17:34:08 2020  R1: -1
+Fri Nov  6 17:34:08 2020  A0: -1
+Fri Nov  6 17:34:08 2020  A1: 0
+Fri Nov  6 17:34:08 2020  A2: 0
+Fri Nov  6 17:34:08 2020  A3: 0
+Fri Nov  6 17:34:08 2020  A4: 0
+Fri Nov  6 17:34:08 2020  A5: 0
+Fri Nov  6 17:34:08 2020  A6: 4287755796749
+Fri Nov  6 17:34:08 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Fri Nov  6 17:34:08 2020  
+Fri Nov  6 17:34:08 2020  commencing linear algebra
+Fri Nov  6 17:34:24 2020  matrix starts at (0, 0)
+Fri Nov  6 17:34:26 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Fri Nov  6 17:34:26 2020  sparse part has weight 1654483376 (95.42/col)
+Fri Nov  6 17:34:26 2020  saving the first 48 matrix rows for later
+Fri Nov  6 17:34:28 2020  matrix includes 64 packed rows
+Fri Nov  6 17:34:30 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Fri Nov  6 17:34:30 2020  sparse part has weight 1604273632 (92.52/col)
+Fri Nov  6 17:34:30 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Fri Nov  6 17:35:16 2020  commencing Lanczos iteration (16 threads)
+Fri Nov  6 17:35:16 2020  memory use: 6592.7 MB
+Fri Nov  6 17:35:17 2020  restarting at iteration 72774 (dim = 4601822)
+Fri Nov  6 17:36:12 2020  linear algebra at 26.5%, ETA 128h26m
+Fri Nov  6 17:36:34 2020  checkpointing every 110000 dimensions
+Mon Nov  9 01:20:01 2020  lanczos halted after 171249 iterations (dim = 10828904)
+Mon Nov  9 01:20:01 2020  BLanczosTime: 200753
+Mon Nov  9 01:20:01 2020  elapsed time 55:45:54
+Mon Nov  9 09:07:08 2020  
+Mon Nov  9 09:07:08 2020  
+Mon Nov  9 09:07:08 2020  Msieve v. 1.54 (SVN 1034)
+Mon Nov  9 09:07:08 2020  random seeds: aabb20b3 a2297c2d
+Mon Nov  9 09:07:08 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Mon Nov  9 09:07:08 2020  searching for 15-digit factors
+Mon Nov  9 09:07:09 2020  commencing number field sieve (226-digit input)
+Mon Nov  9 09:07:09 2020  R0: 78829746184630742457434595059507577749
+Mon Nov  9 09:07:09 2020  R1: -1
+Mon Nov  9 09:07:09 2020  A0: -1
+Mon Nov  9 09:07:09 2020  A1: 0
+Mon Nov  9 09:07:09 2020  A2: 0
+Mon Nov  9 09:07:09 2020  A3: 0
+Mon Nov  9 09:07:09 2020  A4: 0
+Mon Nov  9 09:07:09 2020  A5: 0
+Mon Nov  9 09:07:09 2020  A6: 4287755796749
+Mon Nov  9 09:07:09 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Mon Nov  9 09:07:09 2020  
+Mon Nov  9 09:07:09 2020  commencing linear algebra
+Mon Nov  9 09:07:25 2020  matrix starts at (0, 0)
+Mon Nov  9 09:07:27 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Mon Nov  9 09:07:27 2020  sparse part has weight 1654483376 (95.42/col)
+Mon Nov  9 09:07:27 2020  saving the first 48 matrix rows for later
+Mon Nov  9 09:07:29 2020  matrix includes 64 packed rows
+Mon Nov  9 09:07:30 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Mon Nov  9 09:07:30 2020  sparse part has weight 1604273632 (92.52/col)
+Mon Nov  9 09:07:30 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Mon Nov  9 09:08:14 2020  commencing Lanczos iteration (16 threads)
+Mon Nov  9 09:08:14 2020  memory use: 6592.7 MB
+Mon Nov  9 09:08:15 2020  restarting at iteration 171249 (dim = 10828904)
+Mon Nov  9 09:08:51 2020  checkpointing every 120000 dimensions
+Mon Nov  9 09:09:03 2020  linear algebra at 62.5%, ETA 57h10m
+Mon Nov  9 12:48:55 2020  lanczos halted after 177732 iterations (dim = 11238834)
+Mon Nov  9 12:48:55 2020  BLanczosTime: 13306
+Mon Nov  9 12:48:55 2020  elapsed time 03:41:47
+Mon Nov  9 13:39:14 2020  
+Mon Nov  9 13:39:14 2020  
+Mon Nov  9 13:39:14 2020  Msieve v. 1.54 (SVN 1034)
+Mon Nov  9 13:39:14 2020  random seeds: 292d87ea 47691c8b
+Mon Nov  9 13:39:14 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Mon Nov  9 13:39:15 2020  searching for 15-digit factors
+Mon Nov  9 13:39:15 2020  commencing number field sieve (226-digit input)
+Mon Nov  9 13:39:15 2020  R0: 78829746184630742457434595059507577749
+Mon Nov  9 13:39:15 2020  R1: -1
+Mon Nov  9 13:39:15 2020  A0: -1
+Mon Nov  9 13:39:15 2020  A1: 0
+Mon Nov  9 13:39:15 2020  A2: 0
+Mon Nov  9 13:39:15 2020  A3: 0
+Mon Nov  9 13:39:15 2020  A4: 0
+Mon Nov  9 13:39:15 2020  A5: 0
+Mon Nov  9 13:39:15 2020  A6: 4287755796749
+Mon Nov  9 13:39:15 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Mon Nov  9 13:39:15 2020  
+Mon Nov  9 13:39:15 2020  commencing linear algebra
+Mon Nov  9 13:39:18 2020  matrix starts at (0, 0)
+Mon Nov  9 13:39:19 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Mon Nov  9 13:39:19 2020  sparse part has weight 1654483376 (95.42/col)
+Mon Nov  9 13:39:19 2020  saving the first 48 matrix rows for later
+Mon Nov  9 13:39:21 2020  matrix includes 64 packed rows
+Mon Nov  9 13:39:23 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Mon Nov  9 13:39:23 2020  sparse part has weight 1604273632 (92.52/col)
+Mon Nov  9 13:39:23 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Mon Nov  9 13:40:08 2020  commencing Lanczos iteration (16 threads)
+Mon Nov  9 13:40:08 2020  memory use: 6592.7 MB
+Mon Nov  9 13:40:08 2020  restarting at iteration 177732 (dim = 11238834)
+Mon Nov  9 13:40:45 2020  checkpointing every 120000 dimensions
+Mon Nov  9 13:40:55 2020  linear algebra at 64.8%, ETA 52h31m
+Mon Nov  9 15:49:08 2020  lanczos halted after 181708 iterations (dim = 11490266)
+Mon Nov  9 15:49:09 2020  BLanczosTime: 7794
+Mon Nov  9 15:49:09 2020  elapsed time 02:09:55
+Mon Nov  9 16:38:02 2020  
+Mon Nov  9 16:38:02 2020  
+Mon Nov  9 16:38:02 2020  Msieve v. 1.54 (SVN 1034)
+Mon Nov  9 16:38:02 2020  random seeds: 34f2d4d5 e23a6220
+Mon Nov  9 16:38:02 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Mon Nov  9 16:38:02 2020  searching for 15-digit factors
+Mon Nov  9 16:38:02 2020  commencing number field sieve (226-digit input)
+Mon Nov  9 16:38:02 2020  R0: 78829746184630742457434595059507577749
+Mon Nov  9 16:38:02 2020  R1: -1
+Mon Nov  9 16:38:02 2020  A0: -1
+Mon Nov  9 16:38:02 2020  A1: 0
+Mon Nov  9 16:38:02 2020  A2: 0
+Mon Nov  9 16:38:02 2020  A3: 0
+Mon Nov  9 16:38:02 2020  A4: 0
+Mon Nov  9 16:38:02 2020  A5: 0
+Mon Nov  9 16:38:02 2020  A6: 4287755796749
+Mon Nov  9 16:38:02 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Mon Nov  9 16:38:02 2020  
+Mon Nov  9 16:38:02 2020  commencing linear algebra
+Mon Nov  9 16:38:05 2020  matrix starts at (0, 0)
+Mon Nov  9 16:38:06 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Mon Nov  9 16:38:06 2020  sparse part has weight 1654483376 (95.42/col)
+Mon Nov  9 16:38:06 2020  saving the first 48 matrix rows for later
+Mon Nov  9 16:38:08 2020  matrix includes 64 packed rows
+Mon Nov  9 16:38:10 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Mon Nov  9 16:38:10 2020  sparse part has weight 1604273632 (92.52/col)
+Mon Nov  9 16:38:10 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Mon Nov  9 16:38:53 2020  commencing Lanczos iteration (16 threads)
+Mon Nov  9 16:38:53 2020  memory use: 6592.7 MB
+Mon Nov  9 16:38:54 2020  restarting at iteration 181708 (dim = 11490266)
+Mon Nov  9 16:39:40 2020  linear algebra at 66.3%, ETA 49h17m
+Mon Nov  9 16:39:47 2020  checkpointing every 130000 dimensions
+Tue Nov 10 01:26:27 2020  lanczos halted after 198150 iterations (dim = 12530190)
+Tue Nov 10 01:26:28 2020  BLanczosTime: 31706
+Tue Nov 10 01:26:28 2020  elapsed time 08:48:26
+Tue Nov 10 09:18:41 2020  
+Tue Nov 10 09:18:41 2020  
+Tue Nov 10 09:18:41 2020  Msieve v. 1.54 (SVN 1034)
+Tue Nov 10 09:18:41 2020  random seeds: 094708d9 51de7e8d
+Tue Nov 10 09:18:41 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Tue Nov 10 09:18:41 2020  searching for 15-digit factors
+Tue Nov 10 09:18:42 2020  commencing number field sieve (226-digit input)
+Tue Nov 10 09:18:42 2020  R0: 78829746184630742457434595059507577749
+Tue Nov 10 09:18:42 2020  R1: -1
+Tue Nov 10 09:18:42 2020  A0: -1
+Tue Nov 10 09:18:42 2020  A1: 0
+Tue Nov 10 09:18:42 2020  A2: 0
+Tue Nov 10 09:18:42 2020  A3: 0
+Tue Nov 10 09:18:42 2020  A4: 0
+Tue Nov 10 09:18:42 2020  A5: 0
+Tue Nov 10 09:18:42 2020  A6: 4287755796749
+Tue Nov 10 09:18:42 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Tue Nov 10 09:18:42 2020  
+Tue Nov 10 09:18:42 2020  commencing linear algebra
+Tue Nov 10 09:18:58 2020  matrix starts at (0, 0)
+Tue Nov 10 09:19:00 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Tue Nov 10 09:19:00 2020  sparse part has weight 1654483376 (95.42/col)
+Tue Nov 10 09:19:00 2020  saving the first 48 matrix rows for later
+Tue Nov 10 09:19:01 2020  matrix includes 64 packed rows
+Tue Nov 10 09:19:03 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Tue Nov 10 09:19:03 2020  sparse part has weight 1604273632 (92.52/col)
+Tue Nov 10 09:19:03 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Tue Nov 10 09:19:48 2020  commencing Lanczos iteration (16 threads)
+Tue Nov 10 09:19:48 2020  memory use: 6592.7 MB
+Tue Nov 10 09:19:49 2020  restarting at iteration 198150 (dim = 12530190)
+Tue Nov 10 09:20:38 2020  linear algebra at 72.3%, ETA 43h 4m
+Tue Nov 10 09:20:48 2020  checkpointing every 120000 dimensions
+Tue Nov 10 13:49:11 2020  lanczos halted after 205844 iterations (dim = 13016743)
+Tue Nov 10 13:49:12 2020  BLanczosTime: 16230
+Tue Nov 10 13:49:12 2020  elapsed time 04:30:31
+Tue Nov 10 14:38:41 2020  
+Tue Nov 10 14:38:41 2020  
+Tue Nov 10 14:38:41 2020  Msieve v. 1.54 (SVN 1034)
+Tue Nov 10 14:38:41 2020  random seeds: 4a5e27ad 01f05c7b
+Tue Nov 10 14:38:41 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Tue Nov 10 14:38:42 2020  searching for 15-digit factors
+Tue Nov 10 14:38:42 2020  commencing number field sieve (226-digit input)
+Tue Nov 10 14:38:42 2020  R0: 78829746184630742457434595059507577749
+Tue Nov 10 14:38:42 2020  R1: -1
+Tue Nov 10 14:38:42 2020  A0: -1
+Tue Nov 10 14:38:42 2020  A1: 0
+Tue Nov 10 14:38:42 2020  A2: 0
+Tue Nov 10 14:38:42 2020  A3: 0
+Tue Nov 10 14:38:42 2020  A4: 0
+Tue Nov 10 14:38:42 2020  A5: 0
+Tue Nov 10 14:38:42 2020  A6: 4287755796749
+Tue Nov 10 14:38:42 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Tue Nov 10 14:38:42 2020  
+Tue Nov 10 14:38:42 2020  commencing linear algebra
+Tue Nov 10 14:38:44 2020  matrix starts at (0, 0)
+Tue Nov 10 14:38:46 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Tue Nov 10 14:38:46 2020  sparse part has weight 1654483376 (95.42/col)
+Tue Nov 10 14:38:46 2020  saving the first 48 matrix rows for later
+Tue Nov 10 14:38:48 2020  matrix includes 64 packed rows
+Tue Nov 10 14:38:49 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Tue Nov 10 14:38:49 2020  sparse part has weight 1604273632 (92.52/col)
+Tue Nov 10 14:38:49 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Tue Nov 10 14:39:34 2020  commencing Lanczos iteration (16 threads)
+Tue Nov 10 14:39:34 2020  memory use: 6592.7 MB
+Tue Nov 10 14:39:34 2020  restarting at iteration 205844 (dim = 13016743)
+Tue Nov 10 14:40:15 2020  checkpointing every 120000 dimensions
+Tue Nov 10 14:40:21 2020  linear algebra at 75.1%, ETA 37h24m
+Wed Nov 11 01:46:43 2020  lanczos halted after 226624 iterations (dim = 14330697)
+Wed Nov 11 01:46:43 2020  BLanczosTime: 40081
+Wed Nov 11 01:46:43 2020  elapsed time 11:08:02
+Wed Nov 11 10:23:42 2020  
+Wed Nov 11 10:23:42 2020  
+Wed Nov 11 10:23:42 2020  Msieve v. 1.54 (SVN 1034)
+Wed Nov 11 10:23:42 2020  random seeds: 1502d364 f6f33ab9
+Wed Nov 11 10:23:42 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Wed Nov 11 10:23:43 2020  searching for 15-digit factors
+Wed Nov 11 10:23:43 2020  commencing number field sieve (226-digit input)
+Wed Nov 11 10:23:43 2020  R0: 78829746184630742457434595059507577749
+Wed Nov 11 10:23:43 2020  R1: -1
+Wed Nov 11 10:23:43 2020  A0: -1
+Wed Nov 11 10:23:43 2020  A1: 0
+Wed Nov 11 10:23:43 2020  A2: 0
+Wed Nov 11 10:23:43 2020  A3: 0
+Wed Nov 11 10:23:43 2020  A4: 0
+Wed Nov 11 10:23:43 2020  A5: 0
+Wed Nov 11 10:23:43 2020  A6: 4287755796749
+Wed Nov 11 10:23:43 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Wed Nov 11 10:23:43 2020  
+Wed Nov 11 10:23:43 2020  commencing linear algebra
+Wed Nov 11 10:23:59 2020  matrix starts at (0, 0)
+Wed Nov 11 10:24:01 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Wed Nov 11 10:24:01 2020  sparse part has weight 1654483376 (95.42/col)
+Wed Nov 11 10:24:01 2020  saving the first 48 matrix rows for later
+Wed Nov 11 10:24:03 2020  matrix includes 64 packed rows
+Wed Nov 11 10:24:04 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Wed Nov 11 10:24:04 2020  sparse part has weight 1604273632 (92.52/col)
+Wed Nov 11 10:24:04 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Wed Nov 11 10:24:48 2020  commencing Lanczos iteration (16 threads)
+Wed Nov 11 10:24:48 2020  memory use: 6592.7 MB
+Wed Nov 11 10:24:50 2020  restarting at iteration 226624 (dim = 14330697)
+Wed Nov 11 10:25:32 2020  checkpointing every 120000 dimensions
+Wed Nov 11 10:25:38 2020  linear algebra at 82.7%, ETA 26h23m
+Wed Nov 11 12:51:22 2020  lanczos halted after 230923 iterations (dim = 14602608)
+Wed Nov 11 12:51:22 2020  BLanczosTime: 8859
+Wed Nov 11 12:51:22 2020  elapsed time 02:27:40
+Wed Nov 11 13:33:02 2020  
+Wed Nov 11 13:33:02 2020  
+Wed Nov 11 13:33:02 2020  Msieve v. 1.54 (SVN 1034)
+Wed Nov 11 13:33:02 2020  random seeds: 11a66967 90c3804e
+Wed Nov 11 13:33:02 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Wed Nov 11 13:33:03 2020  searching for 15-digit factors
+Wed Nov 11 13:33:03 2020  commencing number field sieve (226-digit input)
+Wed Nov 11 13:33:03 2020  R0: 78829746184630742457434595059507577749
+Wed Nov 11 13:33:03 2020  R1: -1
+Wed Nov 11 13:33:03 2020  A0: -1
+Wed Nov 11 13:33:03 2020  A1: 0
+Wed Nov 11 13:33:03 2020  A2: 0
+Wed Nov 11 13:33:03 2020  A3: 0
+Wed Nov 11 13:33:03 2020  A4: 0
+Wed Nov 11 13:33:03 2020  A5: 0
+Wed Nov 11 13:33:03 2020  A6: 4287755796749
+Wed Nov 11 13:33:03 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Wed Nov 11 13:33:03 2020  
+Wed Nov 11 13:33:03 2020  commencing linear algebra
+Wed Nov 11 13:33:06 2020  matrix starts at (0, 0)
+Wed Nov 11 13:33:07 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Wed Nov 11 13:33:07 2020  sparse part has weight 1654483376 (95.42/col)
+Wed Nov 11 13:33:07 2020  saving the first 48 matrix rows for later
+Wed Nov 11 13:33:09 2020  matrix includes 64 packed rows
+Wed Nov 11 13:33:11 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Wed Nov 11 13:33:11 2020  sparse part has weight 1604273632 (92.52/col)
+Wed Nov 11 13:33:11 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Wed Nov 11 13:33:57 2020  commencing Lanczos iteration (16 threads)
+Wed Nov 11 13:33:57 2020  memory use: 6592.7 MB
+Wed Nov 11 13:33:57 2020  restarting at iteration 230923 (dim = 14602608)
+Wed Nov 11 13:34:42 2020  checkpointing every 120000 dimensions
+Wed Nov 11 13:34:44 2020  linear algebra at 84.2%, ETA 23h36m
+Wed Nov 11 15:56:39 2020  lanczos halted after 235267 iterations (dim = 14877334)
+Wed Nov 11 15:56:39 2020  BLanczosTime: 8616
+Wed Nov 11 15:56:39 2020  elapsed time 02:23:37
+Wed Nov 11 17:02:49 2020  
+Wed Nov 11 17:02:49 2020  
+Wed Nov 11 17:02:49 2020  Msieve v. 1.54 (SVN 1034)
+Wed Nov 11 17:02:49 2020  random seeds: f6dff669 75934c6b
+Wed Nov 11 17:02:49 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Wed Nov 11 17:02:49 2020  searching for 15-digit factors
+Wed Nov 11 17:02:50 2020  commencing number field sieve (226-digit input)
+Wed Nov 11 17:02:50 2020  R0: 78829746184630742457434595059507577749
+Wed Nov 11 17:02:50 2020  R1: -1
+Wed Nov 11 17:02:50 2020  A0: -1
+Wed Nov 11 17:02:50 2020  A1: 0
+Wed Nov 11 17:02:50 2020  A2: 0
+Wed Nov 11 17:02:50 2020  A3: 0
+Wed Nov 11 17:02:50 2020  A4: 0
+Wed Nov 11 17:02:50 2020  A5: 0
+Wed Nov 11 17:02:50 2020  A6: 4287755796749
+Wed Nov 11 17:02:50 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Wed Nov 11 17:02:50 2020  
+Wed Nov 11 17:02:50 2020  commencing linear algebra
+Wed Nov 11 17:02:52 2020  matrix starts at (0, 0)
+Wed Nov 11 17:02:54 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Wed Nov 11 17:02:54 2020  sparse part has weight 1654483376 (95.42/col)
+Wed Nov 11 17:02:54 2020  saving the first 48 matrix rows for later
+Wed Nov 11 17:02:56 2020  matrix includes 64 packed rows
+Wed Nov 11 17:02:57 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Wed Nov 11 17:02:57 2020  sparse part has weight 1604273632 (92.52/col)
+Wed Nov 11 17:02:57 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Wed Nov 11 17:03:44 2020  commencing Lanczos iteration (16 threads)
+Wed Nov 11 17:03:44 2020  memory use: 6592.7 MB
+Wed Nov 11 17:03:44 2020  restarting at iteration 235267 (dim = 14877334)
+Wed Nov 11 17:04:05 2020  checkpointing every 120000 dimensions
+Wed Nov 11 17:04:30 2020  linear algebra at 85.8%, ETA 20h41m
+Wed Nov 11 23:33:07 2020  lanczos halted after 247253 iterations (dim = 15635344)
+Wed Nov 11 23:33:07 2020  BLanczosTime: 23417
+Wed Nov 11 23:33:07 2020  elapsed time 06:30:18
+Thu Nov 12 00:48:20 2020  
+Thu Nov 12 00:48:20 2020  
+Thu Nov 12 00:48:20 2020  Msieve v. 1.54 (SVN 1034)
+Thu Nov 12 00:48:20 2020  random seeds: 6b3faa27 56b447d5
+Thu Nov 12 00:48:20 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Thu Nov 12 00:48:20 2020  searching for 15-digit factors
+Thu Nov 12 00:48:21 2020  commencing number field sieve (226-digit input)
+Thu Nov 12 00:48:21 2020  R0: 78829746184630742457434595059507577749
+Thu Nov 12 00:48:21 2020  R1: -1
+Thu Nov 12 00:48:21 2020  A0: -1
+Thu Nov 12 00:48:21 2020  A1: 0
+Thu Nov 12 00:48:21 2020  A2: 0
+Thu Nov 12 00:48:21 2020  A3: 0
+Thu Nov 12 00:48:21 2020  A4: 0
+Thu Nov 12 00:48:21 2020  A5: 0
+Thu Nov 12 00:48:21 2020  A6: 4287755796749
+Thu Nov 12 00:48:21 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Thu Nov 12 00:48:21 2020  
+Thu Nov 12 00:48:21 2020  commencing linear algebra
+Thu Nov 12 00:48:23 2020  matrix starts at (0, 0)
+Thu Nov 12 00:48:25 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Thu Nov 12 00:48:25 2020  sparse part has weight 1654483376 (95.42/col)
+Thu Nov 12 00:48:25 2020  saving the first 48 matrix rows for later
+Thu Nov 12 00:48:27 2020  matrix includes 64 packed rows
+Thu Nov 12 00:48:28 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Thu Nov 12 00:48:28 2020  sparse part has weight 1604273632 (92.52/col)
+Thu Nov 12 00:48:28 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Thu Nov 12 00:49:12 2020  commencing Lanczos iteration (16 threads)
+Thu Nov 12 00:49:12 2020  memory use: 6592.7 MB
+Thu Nov 12 00:49:12 2020  restarting at iteration 247253 (dim = 15635344)
+Thu Nov 12 00:49:36 2020  checkpointing every 110000 dimensions
+Thu Nov 12 00:50:03 2020  linear algebra at 90.2%, ETA 15h50m
+Thu Nov 12 02:00:38 2020  lanczos halted after 249001 iterations (dim = 15745898)
+Thu Nov 12 02:00:38 2020  BLanczosTime: 4337
+Thu Nov 12 02:00:38 2020  elapsed time 01:12:18
+Thu Nov 12 10:12:47 2020  
+Thu Nov 12 10:12:47 2020  
+Thu Nov 12 10:12:47 2020  Msieve v. 1.54 (SVN 1034)
+Thu Nov 12 10:12:47 2020  random seeds: 8ffec4ce 6c39e97e
+Thu Nov 12 10:12:47 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Thu Nov 12 10:12:48 2020  searching for 15-digit factors
+Thu Nov 12 10:12:48 2020  commencing number field sieve (226-digit input)
+Thu Nov 12 10:12:48 2020  R0: 78829746184630742457434595059507577749
+Thu Nov 12 10:12:48 2020  R1: -1
+Thu Nov 12 10:12:48 2020  A0: -1
+Thu Nov 12 10:12:48 2020  A1: 0
+Thu Nov 12 10:12:48 2020  A2: 0
+Thu Nov 12 10:12:48 2020  A3: 0
+Thu Nov 12 10:12:48 2020  A4: 0
+Thu Nov 12 10:12:48 2020  A5: 0
+Thu Nov 12 10:12:48 2020  A6: 4287755796749
+Thu Nov 12 10:12:48 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Thu Nov 12 10:12:48 2020  
+Thu Nov 12 10:12:48 2020  commencing linear algebra
+Thu Nov 12 10:13:05 2020  matrix starts at (0, 0)
+Thu Nov 12 10:13:06 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Thu Nov 12 10:13:06 2020  sparse part has weight 1654483376 (95.42/col)
+Thu Nov 12 10:13:06 2020  saving the first 48 matrix rows for later
+Thu Nov 12 10:13:08 2020  matrix includes 64 packed rows
+Thu Nov 12 10:13:10 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Thu Nov 12 10:13:10 2020  sparse part has weight 1604273632 (92.52/col)
+Thu Nov 12 10:13:10 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Thu Nov 12 10:13:55 2020  commencing Lanczos iteration (16 threads)
+Thu Nov 12 10:13:55 2020  memory use: 6592.7 MB
+Thu Nov 12 10:13:56 2020  restarting at iteration 249001 (dim = 15745898)
+Thu Nov 12 10:14:48 2020  linear algebra at 90.8%, ETA 15h10m
+Thu Nov 12 10:15:10 2020  checkpointing every 110000 dimensions
+Fri Nov 13 01:32:37 2020  lanczos halted after 270105 iterations (dim = 17080523)
+Fri Nov 13 01:32:37 2020  BLanczosTime: 55189
+Fri Nov 13 01:32:37 2020  elapsed time 15:19:50
+Fri Nov 13 10:15:58 2020  
+Fri Nov 13 10:15:58 2020  
+Fri Nov 13 10:15:58 2020  Msieve v. 1.54 (SVN 1034)
+Fri Nov 13 10:15:58 2020  random seeds: a997ea2f 128a06ec
+Fri Nov 13 10:15:58 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Fri Nov 13 10:15:59 2020  searching for 15-digit factors
+Fri Nov 13 10:15:59 2020  commencing number field sieve (226-digit input)
+Fri Nov 13 10:15:59 2020  R0: 78829746184630742457434595059507577749
+Fri Nov 13 10:15:59 2020  R1: -1
+Fri Nov 13 10:15:59 2020  A0: -1
+Fri Nov 13 10:15:59 2020  A1: 0
+Fri Nov 13 10:15:59 2020  A2: 0
+Fri Nov 13 10:15:59 2020  A3: 0
+Fri Nov 13 10:15:59 2020  A4: 0
+Fri Nov 13 10:15:59 2020  A5: 0
+Fri Nov 13 10:15:59 2020  A6: 4287755796749
+Fri Nov 13 10:15:59 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Fri Nov 13 10:15:59 2020  
+Fri Nov 13 10:15:59 2020  commencing linear algebra
+Fri Nov 13 10:16:15 2020  matrix starts at (0, 0)
+Fri Nov 13 10:16:17 2020  matrix is 17339436 x 17339613 (7039.0 MB) with weight 2041977093 (117.76/col)
+Fri Nov 13 10:16:17 2020  sparse part has weight 1654483376 (95.42/col)
+Fri Nov 13 10:16:17 2020  saving the first 48 matrix rows for later
+Fri Nov 13 10:16:19 2020  matrix includes 64 packed rows
+Fri Nov 13 10:16:20 2020  matrix is 17339388 x 17339613 (6781.3 MB) with weight 1733887767 (100.00/col)
+Fri Nov 13 10:16:20 2020  sparse part has weight 1604273632 (92.52/col)
+Fri Nov 13 10:16:20 2020  using block size 8192 and superblock size 3145728 for processor cache size 32768 kB
+Fri Nov 13 10:17:07 2020  commencing Lanczos iteration (16 threads)
+Fri Nov 13 10:17:07 2020  memory use: 6592.7 MB
+Fri Nov 13 10:17:08 2020  restarting at iteration 270105 (dim = 17080523)
+Fri Nov 13 10:18:01 2020  linear algebra at 98.5%, ETA 2h29m
+Fri Nov 13 10:18:01 2020  checkpointing every 110000 dimensions
+Fri Nov 13 13:07:37 2020  lanczos halted after 274200 iterations (dim = 17339385)
+Fri Nov 13 13:07:50 2020  recovered 36 nontrivial dependencies
+Fri Nov 13 13:07:50 2020  BLanczosTime: 10311
+Fri Nov 13 13:07:50 2020  elapsed time 02:51:52
+Fri Nov 13 13:08:19 2020  
+Fri Nov 13 13:08:19 2020  
+Fri Nov 13 13:08:19 2020  Msieve v. 1.54 (SVN 1034)
+Fri Nov 13 13:08:19 2020  random seeds: 22b772cf b047c3a9
+Fri Nov 13 13:08:19 2020  factoring 1047864885157677398771127025488814688971855058061574149842501573900373320359274636593533383768420691745854884772230424595825904577158265164934623812197136376405296084476684621488028914549131498725573456526895201442285036750619 (226 digits)
+Fri Nov 13 13:08:20 2020  searching for 15-digit factors
+Fri Nov 13 13:08:20 2020  commencing number field sieve (226-digit input)
+Fri Nov 13 13:08:20 2020  R0: 78829746184630742457434595059507577749
+Fri Nov 13 13:08:20 2020  R1: -1
+Fri Nov 13 13:08:20 2020  A0: -1
+Fri Nov 13 13:08:20 2020  A1: 0
+Fri Nov 13 13:08:20 2020  A2: 0
+Fri Nov 13 13:08:20 2020  A3: 0
+Fri Nov 13 13:08:20 2020  A4: 0
+Fri Nov 13 13:08:20 2020  A5: 0
+Fri Nov 13 13:08:20 2020  A6: 4287755796749
+Fri Nov 13 13:08:20 2020  skew 0.01, size 4.616e-13, alpha 0.367, combined = 7.199e-14 rroots = 2
+Fri Nov 13 13:08:20 2020  
+Fri Nov 13 13:08:20 2020  commencing square root phase
+Fri Nov 13 13:08:20 2020  reading relations for dependency 1
+Fri Nov 13 13:08:22 2020  read 8668830 cycles
+Fri Nov 13 13:08:33 2020  cycles contain 28209416 unique relations
+Fri Nov 13 13:10:30 2020  read 28209416 relations
+Fri Nov 13 13:12:02 2020  multiplying 28209416 relations
+Fri Nov 13 13:46:44 2020  multiply complete, coefficients have about 1820.91 million bits
+Fri Nov 13 13:46:49 2020  initial square root is modulo 147265939
+Fri Nov 13 14:23:59 2020  found factor: 64933503260370506846776791166099887878358697080264220966191908254307
+Fri Nov 13 14:23:59 2020  reading relations for dependency 2
+Fri Nov 13 14:24:01 2020  read 8669593 cycles
+Fri Nov 13 14:24:13 2020  cycles contain 28216448 unique relations
+Fri Nov 13 14:26:10 2020  read 28216448 relations
+Fri Nov 13 14:27:41 2020  multiplying 28216448 relations
+Fri Nov 13 15:02:05 2020  multiply complete, coefficients have about 1821.36 million bits
+Fri Nov 13 15:02:10 2020  initial square root is modulo 147953131
+Fri Nov 13 15:38:30 2020  found factor: 64933503260370506846776791166099887878358697080264220966191908254307
+Fri Nov 13 15:38:30 2020  reading relations for dependency 3
+Fri Nov 13 15:38:31 2020  read 8669066 cycles
+Fri Nov 13 15:38:43 2020  cycles contain 28213376 unique relations
+Fri Nov 13 15:40:38 2020  read 28213376 relations
+Fri Nov 13 15:42:11 2020  multiplying 28213376 relations
+Fri Nov 13 16:16:21 2020  multiply complete, coefficients have about 1821.18 million bits
+Fri Nov 13 16:16:26 2020  initial square root is modulo 147670297
+Fri Nov 13 16:53:27 2020  GCD is 1, no factor found
+Fri Nov 13 16:53:27 2020  reading relations for dependency 4
+Fri Nov 13 16:53:29 2020  read 8667871 cycles
+Fri Nov 13 16:53:41 2020  cycles contain 28211004 unique relations
+Fri Nov 13 16:55:39 2020  read 28211004 relations
+Fri Nov 13 16:57:14 2020  multiplying 28211004 relations
+Fri Nov 13 17:31:41 2020  multiply complete, coefficients have about 1821.01 million bits
+Fri Nov 13 17:31:47 2020  initial square root is modulo 147413971
+Fri Nov 13 18:08:41 2020  sqrtTime: 18021
+Fri Nov 13 18:08:41 2020  p65 factor: 87068987214238717276344079692716779463986237652028200858012718259
+Fri Nov 13 18:08:41 2020  p68 factor: 64933503260370506846776791166099887878358697080264220966191908254307
+Fri Nov 13 18:08:41 2020  p93 factor: 185341622217198422360237167288720038520330857577268512439957314555898253999724271216920018163
+Fri Nov 13 18:08:41 2020  elapsed time 05:00:22
